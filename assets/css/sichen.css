@@ -4,6 +4,7 @@
   --global-code-bg-color: rgba(91, 63, 163, 0.06);
   --sichen-soft-purple: rgba(91, 63, 163, 0.1);
   --sichen-control-bg: #ffffff;
+  --sichen-badge-text: #ffffff;
 }
 
 html[data-theme="dark"] {
@@ -12,6 +13,7 @@ html[data-theme="dark"] {
   --global-theme-color: #bba8ee;
   --global-hover-color: #d3c7f4;
   --sichen-soft-purple: rgba(187, 168, 238, 0.14);
+  --sichen-badge-text: #1c1c1d;
   --sichen-control-bg: #242427;
 }
 
@@ -24,7 +26,7 @@ body {
     "Segoe UI",
     sans-serif;
   font-weight: 300;
-  line-height: 1.56;
+  line-height: 1.5;
 }
 
 h1,
@@ -49,12 +51,13 @@ h3,
 }
 
 .post .profile {
-  margin-right: 1.5rem;
-  width: min(30%, 250px);
+  float: left;
+  margin-right: 1.4rem;
+  width: min(27%, 225px);
 }
 
 .post .profile img {
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 5 / 6;
   border-radius: 5px;
   box-shadow: 0 4px 16px rgba(21, 18, 29, 0.16);
   object-fit: cover;
@@ -63,19 +66,19 @@ h3,
 }
 
 .post article > .clearfix p {
-  margin-bottom: 1rem;
+  margin-bottom: 0.9rem;
 }
 
 .post h2 {
   font-size: 1.75rem;
-  margin-top: 1.55rem;
+  margin-top: 1.35rem;
 }
 
 .table.table-sm th,
 .table.table-sm td {
   line-height: 1.4;
-  padding-bottom: 0.38rem;
-  padding-top: 0.38rem;
+  padding-bottom: 0.32rem;
+  padding-top: 0.32rem;
 }
 
 .table.table-sm th {
@@ -113,6 +116,22 @@ h3,
   width: 100%;
 }
 
+.publication-venue-badge {
+  align-items: center;
+  background: var(--global-theme-color);
+  border-radius: 5px 5px 2px 2px;
+  color: var(--sichen-badge-text);
+  display: flex;
+  font-size: 0.7rem;
+  font-weight: 600;
+  height: 22px;
+  justify-content: center;
+  letter-spacing: 0.025em;
+  line-height: 1;
+  text-transform: uppercase;
+  width: 100%;
+}
+
 .selected-publication-figure img {
   background: #fff;
   border: 1px solid rgba(21, 18, 29, 0.09);
@@ -121,6 +140,11 @@ h3,
   height: 140px;
   object-fit: contain;
   width: 100%;
+}
+
+.publication-venue-badge + img {
+  border-radius: 0 0 5px 5px;
+  border-top: 0;
 }
 
 .selected-publication-figure figcaption {
@@ -153,9 +177,33 @@ h3,
 .publications ol.bibliography li .abbr img.preview {
   background: #fff;
   border: 1px solid rgba(21, 18, 29, 0.09);
-  height: 105px !important;
+  height: 92px !important;
   object-fit: contain;
   width: 100% !important;
+}
+
+.post article > .publications {
+  margin-top: 1.35rem;
+}
+
+.publications ol.bibliography li {
+  margin-bottom: 0.9rem;
+}
+
+.publications ol.bibliography li .abbr abbr.badge {
+  align-items: center;
+  border-radius: 5px 5px 2px 2px !important;
+  color: var(--sichen-badge-text) !important;
+  display: flex;
+  font-size: 0.68rem;
+  font-weight: 600;
+  height: 20px;
+  justify-content: center;
+  letter-spacing: 0.025em;
+  line-height: 1;
+  margin-bottom: 0.4rem;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
 .publication-authors,
@@ -171,6 +219,51 @@ h3,
   display: inline-flex;
   flex-wrap: wrap;
   gap: 0.35rem;
+}
+
+.publication-abstract-details {
+  display: inline-block;
+}
+
+.publication-abstract-details summary {
+  background: transparent;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 3px;
+  color: var(--global-theme-color);
+  cursor: pointer;
+  font-size: 0.78rem;
+  line-height: 1.2;
+  list-style: none;
+  padding: 0.18rem 0.4rem;
+}
+
+.publication-abstract-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.publication-abstract-details summary:hover,
+.publication-abstract-details summary:focus-visible {
+  background: var(--sichen-soft-purple);
+  text-decoration: none;
+}
+
+.publication-abstract-details summary:focus-visible {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 2px;
+}
+
+.publication-abstract-details[open] {
+  flex-basis: 100%;
+  order: 2;
+}
+
+.publication-abstract-details p {
+  border-left: 2px solid var(--global-theme-color);
+  color: var(--global-text-color-light);
+  font-size: 0.86rem;
+  line-height: 1.5;
+  margin: 0.55rem 0 0;
+  padding: 0.1rem 0 0.1rem 0.75rem;
 }
 
 .publication-actions a,
@@ -346,15 +439,15 @@ h3,
 }
 
 @media (max-width: 575.98px) {
-  .post .profile {
-    float: none !important;
-    margin: 0 0 1rem;
-    width: 100%;
+  .post article > .profile.profile-left {
+    display: block;
+    float: none;
+    margin: 0 auto 1rem;
+    width: min(100%, 300px);
   }
 
   .post .profile img {
     aspect-ratio: 4 / 3;
-    max-height: 300px;
   }
 
   .selected-publication {
@@ -365,12 +458,17 @@ h3,
     height: min(56vw, 220px);
   }
 
+  .publications ol.bibliography li .abbr {
+    flex: 0 0 270px;
+    max-width: 270px;
+  }
+
   .publications ol.bibliography li .abbr figure {
     max-width: 240px;
   }
 
   .publications ol.bibliography li .abbr img.preview {
-    height: 160px !important;
+    height: 150px !important;
   }
 
   .citation-list {

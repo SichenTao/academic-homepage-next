@@ -156,6 +156,8 @@
   status: published
   venue: Information Sciences
   venue_line: Information Sciences
+  venue_abbr: INFO SCI
+  abstract_summary: This work proposes the Adversarial Game Optimization Algorithm, combining dynamic role allocation, adversarial feedback, and diversity-preserving restarts to improve global search in high-dimensional and multimodal optimization. Tests on CEC benchmarks and engineering applications show strong solution quality, stability, and scalability.
   volume: "735"
   issue: ""
   pages: "123022"
@@ -303,6 +305,8 @@
   status: published
   venue: Robotics and Computer-Integrated Manufacturing
   venue_line: Robotics and Computer-Integrated Manufacturing
+  venue_abbr: RCIM
+  abstract_summary: This work develops a safety-efficiency integrated assembly planning framework for human–robot collaboration. The framework combines adaptive execution-time optimization, constrained multi-objective planning, and a genetic-differential co-evolutionary algorithm, with feasibility demonstrated in an industrial computer-assembly case.
   volume: "94"
   issue: ""
   pages: 102942-102942
@@ -651,6 +655,8 @@
   status: published
   venue: Advanced Engineering Informatics
   venue_line: Advanced Engineering Informatics
+  venue_abbr: AEI
+  abstract_summary: This work formulates human-centric collaborative assembly as a unified mixed-integer planning problem that couples efficiency, human capability, fatigue, resources, and task priorities. A reinforcement self-learning multi-objective optimizer is developed and evaluated on sixteen planning instances and a real computer-assembly task.
   volume: "67"
   issue: ""
   pages: 103508-103508
@@ -1524,6 +1530,8 @@
   status: published
   venue: Applied Soft Computing
   venue_line: Applied Soft Computing
+  venue_abbr: ASOC
+  abstract_summary: This work extends Spherical Search with a memory-guided stage-wise population-control strategy that adapts resource allocation between exploration and exploitation. Evaluation on 120 benchmark functions and 22 real-world problems shows significant advantages over thirteen peer evolutionary algorithms.
   volume: "161"
   issue: ""
   pages: 111677-111677
@@ -1761,6 +1769,8 @@
   status: published
   venue: Knowledge-Based Systems
   venue_line: Knowledge-Based Systems
+  venue_abbr: KBS
+  abstract_summary: This work introduces a biologically inspired Motion Detection Neuron model that reproduces retinal and primary visual-cortex mechanisms for detecting object direction and speed. Experiments across binary, grayscale, and color scenes evaluate accuracy, noise robustness, interpretability, and hardware efficiency.
   volume: "300"
   issue: ""
   pages: 112195-112195
@@ -2050,6 +2060,8 @@
   status: published
   venue: Knowledge-Based Systems
   venue_line: Knowledge-Based Systems
+  venue_abbr: KBS
+  abstract_summary: This work develops an artificial visual system for motion-direction detection in color images by modeling retinal direction-selective pathways with dendritic-neuron and spiking-neural concepts. Large-scale tests examine effectiveness, efficiency, generalization, interpretability, and biological plausibility against established convolutional networks.
   volume: "295"
   issue: ""
   pages: 111816-111816
@@ -2433,6 +2445,8 @@
   status: published
   venue: Applied Soft Computing
   venue_line: Applied Soft Computing
+  venue_abbr: ASOC
+  abstract_summary: This work proposes an adaptive population-control strategy for Spherical Search that dynamically adjusts two search sub-populations through a cumulative index. Benchmark and real-world evaluations show improved exploration-exploitation balance, robustness, and resistance to local optima.
   volume: "132"
   issue: ""
   pages: 109845-109845
@@ -3650,6 +3664,8 @@
   status: published
   venue: Energy Conversion and Management
   venue_line: Energy Conversion and Management
+  venue_abbr: ECM
+  abstract_summary: This work proposes a directional permutation differential evolution algorithm for estimating parameters of single-, double-, and triple-diode photovoltaic models and PV modules. Six experimental groups and comparisons with fifteen algorithms show strong solution accuracy and robustness.
   volume: "230"
   issue: ""
   pages: 113784-113784

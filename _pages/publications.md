@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}?v=20260830b">
+<link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}?v=20260831a">
 
 {% assign selected_publications = site.data.publications | where: 'selected', true %}
 {% assign public_publications = site.data.publications | where: 'public', true %}
@@ -21,6 +21,9 @@ nav_order: 3
     {% for publication in selected_publications %}
       <article class="selected-publication">
         <figure class="selected-publication-figure">
+          {% if publication.venue_abbr %}
+            <span class="publication-venue-badge" title="{{ publication.venue | escape }}">{{ publication.venue_abbr }}</span>
+          {% endif %}
           <img
             src="{{ publication.preview | relative_url }}"
             alt="{{ publication.preview_alt | default: publication.title | escape }}"
@@ -36,11 +39,16 @@ nav_order: 3
           <h3>{{ publication.title }}</h3>
           <p class="publication-authors">{{ publication.citation_authors_html }}</p>
           <p class="publication-venue"><em>{{ publication.venue }}</em>, {{ publication.year }}.</p>
-          <p class="publication-actions">
-            {% if publication.url %}<a href="{{ publication.url }}">Paper</a>{% endif %}
+          <div class="publication-actions">
+            {% if publication.abstract_summary %}
+              <details class="publication-abstract-details">
+                <summary>ABS</summary>
+                <p>{{ publication.abstract_summary }}</p>
+              </details>
+            {% endif %}
             {% if publication.doi %}<a href="https://doi.org/{{ publication.doi }}">DOI</a>{% endif %}
             <a href="#{{ publication.id }}">Citation</a>
-          </p>
+          </div>
         </div>
       </article>
     {% endfor %}

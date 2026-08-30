@@ -4,7 +4,7 @@ date: "2026-06-26"
 inline: false
 homepage: true
 category: Award
-title: First place in all four IEEE CEC 2026 numerical optimization tracks
+title: Four-track champion at IEEE CEC 2026
 organization: IEEE WCCI / Congress on Evolutionary Computation 2026
 external_url: https://github.com/P-N-Suganthan/2026-CEC
 ---
