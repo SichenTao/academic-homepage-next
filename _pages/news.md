@@ -2,7 +2,7 @@
 layout: page
 title: news
 permalink: /news/
-description: Appointments, degrees, research visits, editorial work, fellowships, teaching, and service in reverse chronological order.
+description: Complete public timeline of awards, invited talks, appointments, degrees, research visits, editorial work, fellowships, teaching, and service.
 nav: true
 nav_order: 2
 ---

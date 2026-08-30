@@ -1,3 +1,24 @@
+- date: 2026-08
+  title: SWoPP 2026 Best Research Award
+  description: Our co-authored work led by Yusuke Ishihara, “A Transparent Dynamic Core Allocation Method for Hybrid MPI/OpenMP Parallel Programs,” received the Best Research Award at xSIG 2026.
+  context: The award was presented during the 2026 Summer United Workshops on Parallel, Distributed and Cooperative Processing in Takayama, Japan.
+  url: https://www.hpc.is.tohoku.ac.jp/event-en/2026/5558/
+- date: 2026-06
+  title: IEEE CEC 2026 Competition Champion — Bound-Constrained Single-Objective Optimization
+  description: RDE26 ranked first in the bound-constrained single-objective numerical optimization track.
+  url: https://github.com/P-N-Suganthan/2026-CEC
+- date: 2026-06
+  title: IEEE CEC 2026 Competition Champion — Constrained Single-Objective Optimization
+  description: RDE26 ranked first in the constrained single-objective numerical optimization track.
+  url: https://github.com/P-N-Suganthan/2026-CEC
+- date: 2026-06
+  title: IEEE CEC 2026 Competition Champion — Bound-Constrained Multi-Objective Optimization
+  description: RDE26 ranked first in the bound-constrained multi-objective numerical optimization track.
+  url: https://github.com/P-N-Suganthan/2026-CEC
+- date: 2026-06
+  title: IEEE CEC 2026 Competition Champion — Constrained Multi-Objective Optimization
+  description: RDE26 ranked first in the constrained multi-objective numerical optimization track.
+  url: https://github.com/P-N-Suganthan/2026-CEC
 - date: 2025-06
   title: IEEE Congress on Evolutionary Computation (CEC) 2025 Competition Champion
   description: Champion of the bound-constrained single-objective numerical optimization competition track at the IEEE Congress on Evolutionary
@@ -15,7 +36,7 @@
     - kind: github
       url: https://github.com/P-N-Suganthan/2025-CEC
     - kind: mine
-      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx
+      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx-Series
 - date: 2025-06
   title: IEEE Congress on Evolutionary Computation (CEC) 2025 Competition Champion
   description: Champion of the constrained single-objective numerical optimization competition track at the IEEE Congress on Evolutionary Computation
@@ -33,7 +54,7 @@
     - kind: github
       url: https://github.com/P-N-Suganthan/2025-CEC
     - kind: mine
-      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx
+      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx-Series
 - date: 2025-06
   title: IEEE Congress on Evolutionary Computation (CEC) 2025 Competition Champion
   description: Champion of the bound-constrained multi-objective numerical optimization competition track at the IEEE Congress on Evolutionary
@@ -51,7 +72,7 @@
     - kind: github
       url: https://github.com/P-N-Suganthan/2025-CEC
     - kind: mine
-      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx
+      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx-Series
 - date: 2025-06
   title: IEEE Congress on Evolutionary Computation (CEC) 2025 Competition Champion
   description: Champion of the constrained multi-objective numerical optimization competition track at the IEEE Congress on Evolutionary Computation
@@ -69,7 +90,7 @@
     - kind: github
       url: https://github.com/P-N-Suganthan/2025-CEC
     - kind: mine
-      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx
+      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx-Series
 - date: 2024-06
   title: IEEE World Congress on Computational Intelligence (WCCI) 2024 Competition Silver Award
   description: Silver award in the numerical optimization competition track at the IEEE World Congress on Computational Intelligence (WCCI) 2024.

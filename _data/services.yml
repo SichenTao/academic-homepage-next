@@ -16,6 +16,16 @@ editorial_roles:
     description: Supported the special issue Dynamics in Neural Networks across initial review, reviewer assignment, and editorial process support.
     institution_theme: toyama
 conference_organization:
+  - period: "2026"
+    start: "2026-08-12"
+    end: "2026-11-15"
+    category: Service
+    title: Program Committee Member
+    organization: First International Workshop on Agentic AI for HPC (AgenticAI4HPC'26), SC26
+    description: Served on the Program Committee for the inaugural AgenticAI4HPC workshop co-located with SC26.
+    institution_theme: tohoku
+    url: https://ornl.github.io/events/agenticai4hpc2026/
+    source_url: https://ornl.github.io/events/agenticai4hpc2026/
   - period: "2026-02-11"
     start: "2026-02-11"
     end: "2026-02-11"

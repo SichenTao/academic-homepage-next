@@ -2,7 +2,7 @@
 layout: page
 title: publications
 permalink: /publications/
-description: Complete public publication record in reverse chronological order, with representative work highlighted first.
+description: Complete public publication record in reverse chronological order, with Chinese Academy of Sciences Q1 journal papers highlighted first.
 nav: true
 nav_order: 3
 ---
@@ -16,16 +16,22 @@ nav_order: 3
 
 <section aria-labelledby="selected-publications-heading">
   <h2 id="selected-publications-heading">selected publications</h2>
+  <p class="selected-publications-note">Journal papers classified in CAS Q1. Every thumbnail is an original figure from the paper, linked to its publisher source.</p>
   <div class="selected-publications-list">
     {% for publication in selected_publications %}
       <article class="selected-publication">
-        <img
-          src="{{ publication.preview | relative_url }}"
-          alt="Abstract scientific visualization for {{ publication.title | escape }}"
-          width="240"
-          height="160"
-          loading="{% if forloop.first %}eager{% else %}lazy{% endif %}"
-        >
+        <figure class="selected-publication-figure">
+          <img
+            src="{{ publication.preview | relative_url }}"
+            alt="{{ publication.preview_alt | default: publication.title | escape }}"
+            width="240"
+            height="160"
+            loading="{% if forloop.first %}eager{% else %}lazy{% endif %}"
+          >
+          {% if publication.preview_source_url %}
+            <figcaption><a href="{{ publication.preview_source_url }}">Original paper figure</a></figcaption>
+          {% endif %}
+        </figure>
         <div>
           <h3>{{ publication.title }}</h3>
           <p class="publication-authors">{{ publication.citation_authors_html }}</p>

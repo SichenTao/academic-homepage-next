@@ -89,10 +89,9 @@
       url: https://www.semanticscholar.org/paper/c1e716435759156e9295f5e01a6224ea06ca9866
       mode: direct
       copy_text: ""
-  selected: true
+  selected: false
   public: true
   citation_authors_html: G. Luo, X. G. Wang, W. Zhao, <strong>S. Tao*</strong>, Z. Tang
-  preview: /assets/img/publication_preview/relu-neural-networks.jpg
 - id: cityscalecast-spatiotemporal-gnn-for-city-scale-weather-prediction-with-graphcast-guided-parallel-modeling-and-multi-step-forecasting-in-sendai
   title: "CityScaleCast: Spatiotemporal GNN for City-Scale Weather Prediction with GraphCast-Guided Parallel Modeling and Multi-Step Forecasting
     in Sendai"
@@ -139,10 +138,9 @@
       url: https://www.semanticscholar.org/paper/495a118f39599526a2b6538cb1edfb48ed5159c6
       mode: direct
       copy_text: ""
-  selected: true
+  selected: false
   public: true
   citation_authors_html: X. Pan, Y. Shimomura, <strong>S. Tao</strong>, M. Kawai, K. Takahashi, H. Takizawa
-  preview: /assets/img/publication_preview/cityscalecast.jpg
 - id: adversarial-game-optimization-a-game-theoretic-metaheuristic-for-efficient-complex-optimization-and-engineering-applications
   title: "Adversarial game optimization: A game-theoretic metaheuristic for efficient complex optimization and engineering applications"
   authors:
@@ -241,7 +239,9 @@
   selected: true
   public: true
   citation_authors_html: C. Li, Q. Zhang, J. Li, <strong>S. Tao</strong>, D. Oliva
-  preview: /assets/img/publication_preview/adversarial-game-optimization.jpg
+  preview: /assets/img/publication_preview/adversarial-game-optimization-fig1.jpg
+  preview_alt: "Figure 1 from the paper: dynamic role-based adversarial game optimization framework"
+  preview_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
 - id: unleashing-the-inherent-potential-of-differential-evolution-using-nonlinear-population-size-reduction-for-wind-farm-layout-optimization
   title: Unleashing the Inherent Potential of Differential Evolution Using Nonlinear Population Size Reduction for Wind Farm Layout Optimization
   authors:
@@ -378,9 +378,12 @@
       url: https://www.semanticscholar.org/paper/d6af0acbdb50e5b2a28eeed8bffd85ce4e70eda3
       mode: direct
       copy_text: ""
-  selected: false
+  selected: true
   public: true
   citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+  preview: /assets/img/publication_preview/safety-efficiency-assembly-fig1.jpg
+  preview_alt: "Figure 1 from the paper: safety-efficiency integrated human-robot assembly concept"
+  preview_source_url: https://www.sciencedirect.com/science/article/pii/S0736584524002291
 - id: neurophysiological-knowledge-driven-artificial-visual-system-neural-network-for-explainable-motion-direction-detection
   title: Neurophysiological Knowledge Driven Artificial Visual System Neural Network for Explainable Motion Direction Detection
   authors:
@@ -729,9 +732,12 @@
     year: 2022
     source_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
     supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
-  selected: false
+  selected: true
   public: true
   citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+  preview: /assets/img/publication_preview/human-centric-assembly-fig1.jpg
+  preview_alt: "Figure 1 from the paper: human-centric collaborative assembly planning framework"
+  preview_source_url: https://www.sciencedirect.com/science/article/pii/S147403462500401X
 - id: gpu-cuda-accelerated-gradient-growth-optimizer-for-efficient-complex-numerical-global-optimization
   title: GPU/CUDA-Accelerated Gradient Growth Optimizer for Efficient Complex Numerical Global Optimization
   authors:
@@ -1074,10 +1080,9 @@
       url: https://www.semanticscholar.org/paper/c3ce41acc973fd5458fb30b9441b3911c05ef23f
       mode: direct
       copy_text: ""
-  selected: true
+  selected: false
   public: true
   citation_authors_html: S. Wang, <strong>S. Tao†</strong>, Y. Zhu, Q. Gu, P. Ni, W. Zhang, C. Wu, R. Zhao, W. Hu, M. Diao
-  preview: /assets/img/publication_preview/va-ecmo-mortality.jpg
 - id: adaptive-product-family-formation-a-medoid-based-fuzzy-clustering-method-for-mixed-products-assembly-in-the-shared-human-robot-collaborative-system
   title:
     "Adaptive product family formation: A medoid-based fuzzy clustering method for mixed products assembly in the shared human-robot collaborative
@@ -1594,9 +1599,12 @@
       url: https://www.semanticscholar.org/paper/b2fc7edaba992724dfd4e6022b8e49ff247af576
       mode: direct
       copy_text: ""
-  selected: false
+  selected: true
   public: true
   citation_authors_html: <strong>S. Tao</strong>, K. Wang, T. Jin, Z. Wu, Z. Lei, S. Gao
+  preview: /assets/img/publication_preview/spherical-search-stagewise-fig1.jpg
+  preview_alt: "Figure 1 from the paper: memory-guided stage-wise population control framework"
+  preview_source_url: https://www.sciencedirect.com/science/article/pii/S1568494624004514
 - id: improving-the-music-harmony-search-using-a-differential-exploration-phase-for-solving-bound-constrained-optimization-problems
   title: Improving the Music Harmony Search Using a Differential Exploration Phase for Solving Bound Constrained Optimization Problems
   authors:
@@ -1833,9 +1841,12 @@
     year: 2022
     source_url: /assets/docs/official/ccf_ai_category_official.html
     supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
-  selected: false
+  selected: true
   public: true
   citation_authors_html: Y. Hua, Y. Todo, <strong>S. Tao</strong>, Z. Tang, T. Cheng, Z. Qiu
+  preview: /assets/img/publication_preview/bio-inspired-direction-speed-fig1.jpg
+  preview_alt: "Figure 1 from the paper: bio-inspired direction and speed detection architecture"
+  preview_source_url: https://www.sciencedirect.com/science/article/pii/S0950705124008293
 - id: artificial-visual-network-with-fully-modeled-retinal-direction-selective-neural-pathway-for-motion-direction-detection-in-grayscale-scenes
   title: Artificial Visual Network with Fully Modeled Retinal Direction-Selective Neural Pathway for Motion Direction Detection in Grayscale Scenes
   authors:
@@ -2119,9 +2130,12 @@
     year: 2022
     source_url: /assets/docs/official/ccf_ai_category_official.html
     supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
-  selected: false
+  selected: true
   public: true
   citation_authors_html: <strong>S. Tao</strong>, Z. Zhang, R. Zhao, Z. Tang, Y. Todo
+  preview: /assets/img/publication_preview/artificial-visual-system-color-fig1.jpg
+  preview_alt: "Figure 1 from the paper: retinal and cortical pathway for color motion detection"
+  preview_source_url: https://www.sciencedirect.com/science/article/pii/S0950705124004507
 - id: a-multi-local-search-based-shade-for-wind-farm-layout-optimization
   title: A Multi-Local Search-Based SHADE for Wind Farm Layout Optimization
   authors:
@@ -2497,7 +2511,9 @@
   selected: true
   public: true
   citation_authors_html: K. Wang, Y. Wang, <strong>S. Tao</strong>, Z. Cai, Z. Lei, S. Gao
-  preview: /assets/img/publication_preview/spherical-search.jpg
+  preview: /assets/img/publication_preview/spherical-search-adaptive-fig1.jpg
+  preview_alt: "Figure 1 from the paper: spherical-search candidate generation geometry"
+  preview_source_url: https://www.sciencedirect.com/science/article/pii/S1568494622008948
 - id: hierarchical-manta-ray-foraging-optimization-with-weighted-fitness-distance-balance-selection
   title: Hierarchical Manta Ray Foraging Optimization with Weighted Fitness-Distance Balance Selection
   authors:
@@ -3712,7 +3728,9 @@
   selected: true
   public: true
   citation_authors_html: S. Gao, K. Wang, <strong>S. Tao</strong>, T. Jin, H. Dai, J. Cheng
-  preview: /assets/img/publication_preview/pv-parameter-estimation.jpg
+  preview: /assets/img/publication_preview/pv-parameter-estimation-fig1.jpg
+  preview_alt: "Figure 1 from the paper: photovoltaic single-, double-, and triple-diode equivalent circuits"
+  preview_source_url: https://www.sciencedirect.com/science/article/pii/S0196890420313078
 - id: a-motion-direction-detective-mechanism-for-greyscale-images
   title: A Motion Direction Detective Mechanism for Greyscale Images
   authors:
