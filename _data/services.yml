@@ -1,0 +1,434 @@
+editorial_roles:
+  - period: 2023-05 to 2025-01
+    start: "2023-05-01"
+    end: "2025-01-31"
+    category: Editorial
+    title: Editor Assistant
+    organization: Frontiers in Neuroscience
+    description: Supported the topic Artificial Systems Based on Human and Animal Natural Vision in Image and Video.
+    institution_theme: toyama
+  - period: 2023-03 to 2025-09
+    start: "2023-03-01"
+    end: "2025-09-30"
+    category: Editorial
+    title: Editor Assistant
+    organization: Mathematics, MDPI
+    description: Supported the special issue Dynamics in Neural Networks across initial review, reviewer assignment, and editorial process support.
+    institution_theme: toyama
+conference_organization:
+  - period: "2026-02-11"
+    start: "2026-02-11"
+    end: "2026-02-11"
+    category: Service
+    title: IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC) 2026 Track Chair
+    organization: 19th IEEE MCSoC 2026, Shanghai Jiao Tong University
+    description: Served as Track Chair for Cognitive Computing Models and Brain-Derived Algorithms in MCSoC-NeuroCore 2026.
+    institution_theme: tohoku
+    url: https://mcsoc-forum.org/site/index.php/neurocore-t13/
+    source_url: https://mcsoc-forum.org/site/index.php/all-session-chairs/
+reviewing:
+  - label: IEEE Congress on Evolutionary Computation (CEC) 2024
+    url: https://2024.ieeewcci.org/
+    tag: Conference review
+  - label: IEEE Congress on Evolutionary Computation (CEC) 2025
+    url: https://cis.ieee.org/conferences/conference-calendar
+    tag: Conference review
+  - label: IEEE Congress on Evolutionary Computation (CEC) 2026
+    url: https://attend.ieee.org/wcci-2026/ieee-cec-2025/
+    tag: Conference review
+  - label: IEEE International Conference on Systems, Man, and Cybernetics (SMC) 2024
+    url: https://www.ieeesmc2024.org/home
+    tag: Conference review
+  - label: IEEE World Congress on Computational Intelligence (WCCI) 2024
+    url: https://2024.ieeewcci.org/
+    tag: Conference review
+  - label: IEEE World Congress on Computational Intelligence (WCCI) 2026
+    url: https://attend.ieee.org/wcci-2026/
+    tag: Conference review
+  - label: International Conference on Swarm Intelligence (ICSI) 2024
+    url: https://icsi2024.ustc.edu.cn/main.htm
+    tag: Conference review
+  - label: Applied Sciences
+    url: https://www.mdpi.com/journal/applsci
+    tag: Journal review
+    verification:
+      if_value: "2.5"
+      if_year: 2025
+      jcr_quartile: Q2
+      jcr_year: 2025
+      cas_quartile: Q4
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SCI-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: Applied Sciences
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=DYYORD
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SCI-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: Applied Sciences
+      jcr_public_source_url: https://www.fabiao.com.cn/sci/20763417/
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: Applied Sciences
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=DYYORD
+  - label: Applied Soft Computing
+    url: https://www.sciencedirect.com/journal/applied-soft-computing
+    tag: Journal review
+    verification:
+      if_value: "6.6"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q2
+      cas_year: 2025
+      cas_top: true
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: Applied Soft Computing
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: Applied Soft Computing
+      jcr_public_source_url: https://jrank.net/journals/appl-soft-comput/metrics
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: Applied Soft Computing
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+  - label: Biomimetics
+    url: https://www.mdpi.com/journal/biomimetics
+    tag: Journal review
+    verification:
+      if_value: "3.9"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q3
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=BIOMIMETICS&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: Biomimetics
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=5NgPMD
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=BIOMIMETICS&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: Biomimetics
+      jcr_public_source_url: https://www.fabiao.com.cn/sci/23137673/
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: Biomimetics
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=5NgPMD
+  - label: CMC-Computers Materials & Continua
+    url: https://www.techscience.com/journal/cmc
+    tag: Journal review
+    verification:
+      if_value: "1.7"
+      if_year: 2025
+      jcr_quartile: Q3
+      jcr_year: 2025
+      cas_quartile: Q4
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=CMC-COMPUT%20MATER%20CON&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: CMC-Computers Materials & Continua
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=Q5yWPr
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=CMC-COMPUT%20MATER%20CON&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: CMC-Computers Materials & Continua
+      jcr_public_source_url: https://www.fabiao.com.cn/sci/15462218/
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: CMC-Computers Materials & Continua
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=Q5yWPr
+  - label: Engineering Applications of Artificial Intelligence
+    url: https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
+    tag: Journal review
+    verification:
+      if_value: "8.0"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q1
+      cas_year: 2025
+      cas_top: true
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ENG%20APPL%20ARTIF%20INTEL&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: Engineering Applications of Artificial Intelligence
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=pP3GOr
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ENG%20APPL%20ARTIF%20INTEL&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: Engineering Applications of Artificial Intelligence
+      jcr_public_source_url: https://www.fabiao.com.cn/sci/09521976/
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: Engineering Applications of Artificial Intelligence
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=pP3GOr
+  - label: Heliyon
+    url: https://www.sciencedirect.com/journal/heliyon
+    tag: Journal review
+    verification:
+      if_value: "3.6"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q4
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=HELIYON&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: Heliyon
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=5KwYd5
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=HELIYON&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: Heliyon
+      jcr_public_source_url: https://www.fabiao.com.cn/sci/24058440/
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: Heliyon
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=5KwYd5
+  - label: IEEE Transactions on Evolutionary Computation
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235
+    tag: Journal review
+    verification:
+      if_value: "12.0"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q1
+      cas_year: 2025
+      cas_top: true
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20T%20EVOL%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: IEEE Transactions on Evolutionary Computation
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=5kwBz5
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20T%20EVOL%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: IEEE Transactions on Evolutionary Computation
+      jcr_public_source_url: https://www.fabiao.com.cn/sci/1089778X/
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: IEEE Transactions on Evolutionary Computation
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kwBz5
+  - label: "IEEE Transactions on Systems, Man and Cybernetics: Systems"
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021
+    tag: Journal review
+    verification:
+      if_value: "8.7"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q1
+      cas_year: 2025
+      cas_top: true
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20T%20SYST%20MAN%20CY&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: "IEEE Transactions on Systems, Man and Cybernetics: Systems"
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=5ObXEp
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20T%20SYST%20MAN%20CY&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: "IEEE Transactions on Systems, Man and Cybernetics: Systems"
+      jcr_public_source_url: https://www.fabiao.com.cn/sci/21682216/
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: "IEEE Transactions on Systems, Man and Cybernetics: Systems"
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=5ObXEp
+  - label: International Journal of Bio-Inspired Computation
+    url: https://www.inderscience.com/jhome.php?jcode=ijbic
+    tag: Journal review
+    verification:
+      if_value: "2.0"
+      if_year: 2025
+      jcr_quartile: Q2
+      jcr_year: 2025
+      cas_quartile: Q4
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20BIO-INSPIR%20COM&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: International Journal of Bio-Inspired Computation
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=5dZ1kr
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20BIO-INSPIR%20COM&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: International Journal of Bio-Inspired Computation
+      jcr_public_source_url: https://jrank.net/journals/int-j-bio_inspir-com/metrics
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: International Journal of Bio-Inspired Computation
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=5dZ1kr
+  - label: International Journal of Computational Intelligence Systems
+    url: https://link.springer.com/journal/44196
+    tag: Journal review
+    verification:
+      if_value: "3.0"
+      if_year: 2025
+      jcr_quartile: Q2
+      jcr_year: 2025
+      cas_quartile: Q4
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: International Journal of Computational Intelligence Systems
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: International Journal of Computational Intelligence Systems
+      jcr_public_source_url: https://jrank.net/journals/int-j-comput-int-sys/metrics
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: International Journal of Computational Intelligence Systems
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+  - label: Journal of Computational Design and Engineering
+    url: https://academic.oup.com/jcde
+    tag: Journal review
+    verification:
+      if_value: "6.1"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q2
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=J%20COMPUT%20DES%20ENG&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: Journal of Computational Design and Engineering
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=pWGm3p
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=J%20COMPUT%20DES%20ENG&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: Journal of Computational Design and Engineering
+      jcr_public_source_url: https://www.fabiao.com.cn/sci/22885048/
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: Journal of Computational Design and Engineering
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=pWGm3p
+  - label: Mathematics
+    url: https://www.mdpi.com/journal/mathematics
+    tag: Journal review
+    verification:
+      if_value: "2.2"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q4
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: Mathematics
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: Mathematics
+      jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: Mathematics
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+  - label: Neural Networks
+    url: https://www.sciencedirect.com/journal/neural-networks
+    tag: Journal review
+    verification:
+      if_value: "6.3"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q2
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=NEURAL%20NETWORKS&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: Neural Networks
+      if_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/565/Neural_Networks
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=NEURAL%20NETWORKS&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: Neural Networks
+      jcr_public_source_url: https://jrank.net/journals/neural-networks/metrics
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: Neural Networks
+      cas_public_source_url: https://topj.lib.whu.edu.cn/show.asp?cat=sci&id=11534
+  - label: Swarm and Evolutionary Computation
+    url: https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation
+    tag: Journal review
+    verification:
+      if_value: "8.5"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q2
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SWARM%20EVOL%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: Swarm and Evolutionary Computation
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=pB4NJD
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SWARM%20EVOL%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: Swarm and Evolutionary Computation
+      jcr_public_source_url: https://www.fabiao.com.cn/sci/22106502/
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: Swarm and Evolutionary Computation
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=pB4NJD
+  - label: Symmetry
+    url: https://www.mdpi.com/journal/symmetry
+    tag: Journal review
+    verification:
+      if_value: "2.2"
+      if_year: 2025
+      jcr_quartile: Q2
+      jcr_year: 2025
+      cas_quartile: Q3
+      cas_year: 2025
+      cas_top: false
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: Symmetry
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: Symmetry
+      jcr_public_source_url: https://jrank.net/journals/symmetry_basel/metrics
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: Symmetry
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+  - label: "Transportation Research Part E: Logistics and Transportation Review"
+    url: https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review
+    tag: Journal review
+    verification:
+      if_value: "8.8"
+      if_year: 2025
+      jcr_quartile: Q1
+      jcr_year: 2025
+      cas_quartile: Q1
+      cas_year: 2025
+      cas_top: true
+      if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=TRANSPORT%20RES%20E-LOG&year=2024&fromPage=%2Fjcr%2Fhome
+      if_source_mode: official_profile_fallback
+      if_search_copy_text: "Transportation Research Part E: Logistics and Transportation Review"
+      if_public_source_url: https://www.ablesci.com/journal/detail?id=rw4R1p
+      jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=TRANSPORT%20RES%20E-LOG&year=2024&fromPage=%2Fjcr%2Fhome
+      jcr_source_mode: official_profile_fallback
+      jcr_search_copy_text: "Transportation Research Part E: Logistics and Transportation Review"
+      jcr_public_source_url: https://www.fabiao.com.cn/sci/13665545/
+      cas_official_source_url: /assets/docs/official/cas_journal_ranking_explanation_official.pdf
+      cas_official_platform_url: https://www.fenqubiao.com/
+      cas_source_mode: official_archive
+      cas_search_copy_text: "Transportation Research Part E: Logistics and Transportation Review"
+      cas_public_source_url: https://www.ablesci.com/journal/detail?id=rw4R1p

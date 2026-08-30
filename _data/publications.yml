@@ -1,0 +1,3952 @@
+- id: relu-neural-networks-and-their-training
+  title: ReLU Neural Networks and Their Training
+  authors:
+    - Ge Luo
+    - X. G. Wang
+    - Weizun Zhao
+    - Sichen Tao
+    - Zheng Tang
+  author_line: Ge Luo, X. G. Wang, Weizun Zhao, Sichen Tao, Zheng Tang
+  year: 2026
+  date: "2026"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "14"
+  issue: "1"
+  pages: "39"
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 1
+  author_role: corresponding_author
+  role_note: Corresponding author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath14010039
+  url: https://www.mdpi.com/2227-7390/14/1/39
+  doi: 10.3390/math14010039
+  tags:
+    - Deep Learning
+    - AI Theory
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/14/1/39
+  verification:
+    doi: 10.3390/math14010039
+    url: https://doi.org/10.3390/math14010039
+    publisher_url: https://www.mdpi.com/2227-7390/14/1/39
+    accepted_date: ""
+    published_date: "2025-12-22"
+    crossref_created_date: "2025-12-22"
+    metric_anchor_date: "2025-12-22"
+    metric_anchor_kind: crossref_created_date
+    verification_status: published_date_only_verified
+    if_value: 2.2
+    if_year: 2025
+    jcr_quartile: Q1
+    jcr_year: 2025
+    cas_quartile: Q4
+    cas_year: 2025
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile_fallback
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile_fallback
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-12-22): IF 2.2 (2025) · JCR 2025 Q1 · CAS 2025 Q4."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-12-22）回溯的最近公开指标：IF 2.2（2025），JCR 2025 Q1，中科院 2025 Q4。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-12-22）に最も近い公開指標：IF 2.2 (2025) · JCR 2025 Q1 · CAS 2025 Q4。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath14010039
+      mode: search
+      copy_text: 10.3390/math14010039
+    openalex:
+      url: https://openalex.org/W7116739699
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/c1e716435759156e9295f5e01a6224ea06ca9866
+      mode: direct
+      copy_text: ""
+  selected: true
+  public: true
+  citation_authors_html: G. Luo, X. G. Wang, W. Zhao, <strong>S. Tao*</strong>, Z. Tang
+  preview: /assets/img/publication_preview/relu-neural-networks.jpg
+- id: cityscalecast-spatiotemporal-gnn-for-city-scale-weather-prediction-with-graphcast-guided-parallel-modeling-and-multi-step-forecasting-in-sendai
+  title: "CityScaleCast: Spatiotemporal GNN for City-Scale Weather Prediction with GraphCast-Guided Parallel Modeling and Multi-Step Forecasting
+    in Sendai"
+  authors:
+    - Xiang Pan
+    - Yoichi Shimomura
+    - Sichen Tao
+    - Masatoshi Kawai
+    - Keichi Takahashi
+    - Hiroyuki Takizawa
+  author_line: Xiang Pan, Yoichi Shimomura, Sichen Tao, Masatoshi Kawai, Keichi Takahashi, Hiroyuki Takizawa
+  year: 2026
+  date: "2026-01-26"
+  type: conference
+  status: published
+  venue: Proceedings of the Supercomputing Asia and International Conference on High Performance Computing in Asia Pacific Region Workshops
+  venue_line: Proceedings of the Supercomputing Asia and International Conference on High Performance Computing in Asia Pacific Region Workshops
+  volume: ""
+  issue: ""
+  pages: 177-185
+  publisher: ""
+  citations: 0
+  author_role: coauthor
+  role_note: ""
+  source_group: cv_supplement
+  source_label: CV-only supplement not yet present in the indexed dossier snapshot
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3784828.3785258
+  url: https://doi.org/10.1145/3784828.3785258
+  doi: 10.1145/3784828.3785258
+  tags:
+    - HPC
+  metadata_source: CV_SichenTao.tex
+  venue_url: https://www.sc-asia.org/2026/submit/workshops.html
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3784828.3785258
+      mode: search
+      copy_text: 10.1145/3784828.3785258
+    openalex:
+      url: https://openalex.org/W7125422647
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/495a118f39599526a2b6538cb1edfb48ed5159c6
+      mode: direct
+      copy_text: ""
+  selected: true
+  public: true
+  citation_authors_html: X. Pan, Y. Shimomura, <strong>S. Tao</strong>, M. Kawai, K. Takahashi, H. Takizawa
+  preview: /assets/img/publication_preview/cityscalecast.jpg
+- id: adversarial-game-optimization-a-game-theoretic-metaheuristic-for-efficient-complex-optimization-and-engineering-applications
+  title: "Adversarial game optimization: A game-theoretic metaheuristic for efficient complex optimization and engineering applications"
+  authors:
+    - Conglin Li
+    - Qingke Zhang
+    - Junqing Li
+    - Sichen Tao
+    - Diego Oliva
+  author_line: Conglin Li, Qingke Zhang, Junqing Li, Sichen Tao, Diego Oliva
+  year: 2026
+  date: 2026-04
+  type: journal
+  status: published
+  venue: Information Sciences
+  venue_line: Information Sciences
+  volume: "735"
+  issue: ""
+  pages: "123022"
+  publisher: Elsevier BV
+  citations: 0
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.ins.2025.123022
+  url: https://doi.org/10.1016/j.ins.2025.123022
+  doi: 10.1016/j.ins.2025.123022
+  tags:
+    - Optimization
+  metadata_source: Crossref
+  publisher_url: https://doi.org/10.1016/j.ins.2025.123022
+  verification:
+    doi: 10.1016/j.ins.2025.123022
+    url: https://doi.org/10.1016/j.ins.2025.123022
+    publisher_url: https://doi.org/10.1016/j.ins.2025.123022
+    accepted_date: ""
+    published_date: "2026-04-01"
+    crossref_created_date: "2025-12-20"
+    metric_anchor_date: "2025-12-20"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 6.8
+    if_year: 2025
+    jcr_quartile: Q1
+    jcr_year: 2025
+    cas_quartile: Q1
+    cas_year: 2025
+    cas_top: true
+    cas_top_year: 2025
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile_fallback
+    if_source_official_year: 2024
+    if_search_copy_text: Information Sciences
+    if_public_source_url: https://www.sciencedirect.com/journal/information-sciences
+    cas_source_url: https://www.fabiao.com.cn/sci/00200255/
+    cas_public_source_url: https://www.fabiao.com.cn/sci/00200255/
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Information Sciences
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile_fallback
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Information Sciences
+    jcr_public_source_url: https://jrank.net/journals/inform-sciences/metrics
+    if_supporting_source_url: https://www.sciencedirect.com/journal/information-sciences
+    cas_supporting_source_url: https://www.fabiao.com.cn/sci/00200255/
+    jcr_supporting_source_url: https://jrank.net/journals/inform-sciences/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-12-20): IF 6.8 (2025) · JCR 2025 Q1 · CAS 2025 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-12-20）回溯的最近公开指标：IF 6.8（2025），JCR 2025 Q1，中科院 2025 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-12-20）に最も近い公開指標：IF 6.8 (2025) · JCR 2025 Q1 · CAS 2025 Q1。
+  venue_url: https://www.sciencedirect.com/journal/information-sciences
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.ins.2025.123022
+      mode: search
+      copy_text: 10.1016/j.ins.2025.123022
+    openalex:
+      url: https://openalex.org/W7116359479
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/001eca53b66e9e8c5d443916ffad825e2f8e2fdf
+      mode: direct
+      copy_text: ""
+  ccf:
+    class: B
+    year: 2022
+    source_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
+    supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
+  selected: true
+  public: true
+  citation_authors_html: C. Li, Q. Zhang, J. Li, <strong>S. Tao</strong>, D. Oliva
+  preview: /assets/img/publication_preview/adversarial-game-optimization.jpg
+- id: unleashing-the-inherent-potential-of-differential-evolution-using-nonlinear-population-size-reduction-for-wind-farm-layout-optimization
+  title: Unleashing the Inherent Potential of Differential Evolution Using Nonlinear Population Size Reduction for Wind Farm Layout Optimization
+  authors:
+    - Sichen Tao
+    - Yifei Yang
+    - Ruihan Zhao
+    - Zhenyu Lei
+    - Shangce Gao
+  author_line: Sichen Tao, Yifei Yang, Ruihan Zhao, Zhenyu Lei, Shangce Gao
+  year: 2025
+  date: "2025"
+  type: journal
+  status: under_review
+  venue: IEEE Access
+  venue_line: IEEE Access
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: ""
+  citations: 0
+  author_role: corresponding_author
+  role_note: Corresponding author and first author
+  source_group: cv_supplement
+  source_label: CV-only supplement not yet present in the indexed dossier snapshot
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Unleashing+the+Inherent+Potential+of+Differential+Evolution+Using+Nonlinear+Population+Size+Reduction+for+Wind+Farm+Layout+Optimization%22
+  url: https://ieeeaccess.ieee.org/
+  doi: ""
+  tags:
+    - Optimization
+    - Wind Farm
+  metadata_source: CV_SichenTao.tex
+  venue_url: https://ieeeaccess.ieee.org/
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Unleashing+the+Inherent+Potential+of+Differential+Evolution+Using+Nonlinear+Population+Size+Reduction+for+Wind+Farm+Layout+Optimization%22
+      mode: search
+      copy_text: Unleashing the Inherent Potential of Differential Evolution Using Nonlinear Population Size Reduction for Wind Farm Layout Optimization
+    openalex:
+      url: https://openalex.org/works?search=%22Unleashing+the+Inherent+Potential+of+Differential+Evolution+Using+Nonlinear+Population+Size+Reduction+for+Wind+Farm+Layout+Optimization%22
+      mode: search
+      copy_text: Unleashing the Inherent Potential of Differential Evolution Using Nonlinear Population Size Reduction for Wind Farm Layout Optimization
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=%22Unleashing+the+Inherent+Potential+of+Differential+Evolution+Using+Nonlinear+Population+Size+Reduction+for+Wind+Farm+Layout+Optimization%22
+      mode: search
+      copy_text: Unleashing the Inherent Potential of Differential Evolution Using Nonlinear Population Size Reduction for Wind Farm Layout Optimization
+  selected: false
+  public: false
+  citation_authors_html: <strong>S. Tao*</strong>, Y. Yang, R. Zhao, Z. Lei, S. Gao
+- id: safety-efficiency-integrated-assembly-the-next-stage-adaptive-task-allocation-and-planning-framework-for-human-robot-collaboration
+  title: "Safety-efficiency integrated assembly: The next-stage adaptive task allocation and planning framework for human–robot collaboration"
+  authors:
+    - Ruihan Zhao
+    - Sichen Tao
+    - Pengzhong Li
+  author_line: Ruihan Zhao, Sichen Tao, Pengzhong Li
+  year: 2025
+  date: "2025"
+  type: journal
+  status: published
+  venue: Robotics and Computer-Integrated Manufacturing
+  venue_line: Robotics and Computer-Integrated Manufacturing
+  volume: "94"
+  issue: ""
+  pages: 102942-102942
+  publisher: Elsevier BV
+  citations: 16
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.rcim.2024.102942
+  url: https://www.sciencedirect.com/science/article/pii/S0736584524002291
+  doi: 10.1016/j.rcim.2024.102942
+  tags:
+    - Human-Robot
+  metadata_source: OpenAlex
+  publisher_url: https://www.sciencedirect.com/science/article/pii/S0736584524002291
+  verification:
+    doi: 10.1016/j.rcim.2024.102942
+    url: https://doi.org/10.1016/j.rcim.2024.102942
+    publisher_url: https://www.sciencedirect.com/science/article/pii/S0736584524002291
+    accepted_date: ""
+    published_date: "2025-08-01"
+    crossref_created_date: "2025-01-07"
+    metric_anchor_date: "2025-01-07"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 9.1
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q1
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ROBOT%20CIM-INT%20MANUF&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Robotics and Computer-Integrated Manufacturing
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=pPNZBD
+    cas_source_url: https://www.fabiao.com.cn/sci/07365845/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=pPNZBD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Robotics and Computer-Integrated Manufacturing
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ROBOT%20CIM-INT%20MANUF&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Robotics and Computer-Integrated Manufacturing
+    jcr_public_source_url: https://jrank.net/journals/robot-cim_int-manuf/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=pPNZBD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=pPNZBD
+    jcr_supporting_source_url: https://jrank.net/journals/robot-cim_int-manuf/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ROBOT%20CIM-INT%20MANUF&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-01-07): IF 9.1 (2024) · JCR 2023 Q1 · CAS 2022 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-01-07）回溯的最近公开指标：IF 9.1（2024），JCR 2023 Q1，中科院 2022 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-01-07）に最も近い公開指標：IF 9.1 (2024) · JCR 2023 Q1 · CAS 2022 Q1。
+  venue_url: https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.rcim.2024.102942
+      mode: search
+      copy_text: 10.1016/j.rcim.2024.102942
+    openalex:
+      url: https://openalex.org/W4406123483
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/d6af0acbdb50e5b2a28eeed8bffd85ce4e70eda3
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+- id: neurophysiological-knowledge-driven-artificial-visual-system-neural-network-for-explainable-motion-direction-detection
+  title: Neurophysiological Knowledge Driven Artificial Visual System Neural Network for Explainable Motion Direction Detection
+  authors:
+    - Ruihan Zhao
+    - Joshua Betz
+    - Sichen Tao
+    - Yuan Zhang
+    - Pengzhong Li
+  author_line: Ruihan Zhao, Joshua Betz, Sichen Tao, Yuan Zhang, Pengzhong Li
+  year: 2025
+  date: "2025"
+  type: journal
+  status: submitted
+  venue: Knowledge-Based Systems
+  venue_line: Knowledge-Based Systems
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: ""
+  citations: 0
+  author_role: coauthor
+  role_note: ""
+  source_group: cv_supplement
+  source_label: CV-only supplement not yet present in the indexed dossier snapshot
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Neurophysiological+Knowledge+Driven+Artificial+Visual+System+Neural+Network+for+Explainable+Motion+Direction+Detection%22
+  url: https://www.sciencedirect.com/journal/knowledge-based-systems
+  doi: ""
+  tags:
+    - Visual Systems
+    - Deep Learning
+  metadata_source: CV_SichenTao.tex
+  venue_url: https://www.sciencedirect.com/journal/knowledge-based-systems
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Neurophysiological+Knowledge+Driven+Artificial+Visual+System+Neural+Network+for+Explainable+Motion+Direction+Detection%22
+      mode: search
+      copy_text: Neurophysiological Knowledge Driven Artificial Visual System Neural Network for Explainable Motion Direction Detection
+    openalex:
+      url: https://openalex.org/works?search=%22Neurophysiological+Knowledge+Driven+Artificial+Visual+System+Neural+Network+for+Explainable+Motion+Direction+Detection%22
+      mode: search
+      copy_text: Neurophysiological Knowledge Driven Artificial Visual System Neural Network for Explainable Motion Direction Detection
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=%22Neurophysiological+Knowledge+Driven+Artificial+Visual+System+Neural+Network+for+Explainable+Motion+Direction+Detection%22
+      mode: search
+      copy_text: Neurophysiological Knowledge Driven Artificial Visual System Neural Network for Explainable Motion Direction Detection
+  ccf:
+    class: C
+    year: 2022
+    source_url: /assets/docs/official/ccf_ai_category_official.html
+    supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
+  selected: false
+  public: false
+  citation_authors_html: R. Zhao, J. Betz, <strong>S. Tao</strong>, Y. Zhang, P. Li
+- id: level-direction-guided-hierarchical-genetic-learning-particle-swarm-optimization-for-wind-farm-layout-optimization-considering-landowners-behavior
+  title: Level-Direction Guided Hierarchical Genetic Learning Particle Swarm Optimization for Wind Farm Layout Optimization Considering Landowners
+    Behavior
+  authors:
+    - Sichen Tao
+    - Ruihan Zhao
+    - Zhenyu Lei
+    - Masanori Omura
+    - Shangce Gao
+  author_line: Sichen Tao, Ruihan Zhao, Zhenyu Lei, Masanori Omura, Shangce Gao
+  year: 2025
+  date: "2025"
+  type: journal
+  status: under_review
+  venue: Engineering Applications of Artificial Intelligence
+  venue_line: Engineering Applications of Artificial Intelligence
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: ""
+  citations: 0
+  author_role: first_author
+  role_note: First author
+  source_group: cv_supplement
+  source_label: CV-only supplement not yet present in the indexed dossier snapshot
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Level-Direction+Guided+Hierarchical+Genetic+Learning+Particle+Swarm+Optimization+for+Wind+Farm+Layout+Optimization+Considering+Landowners+Behavior%22
+  url: https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
+  doi: ""
+  tags:
+    - Optimization
+    - Wind Farm
+  metadata_source: CV_SichenTao.tex
+  venue_url: https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Level-Direction+Guided+Hierarchical+Genetic+Learning+Particle+Swarm+Optimization+for+Wind+Farm+Layout+Optimization+Considering+Landowners+Behavior%22
+      mode: search
+      copy_text: Level-Direction Guided Hierarchical Genetic Learning Particle Swarm Optimization for Wind Farm Layout Optimization Considering
+        Landowners Behavior
+    openalex:
+      url: https://openalex.org/works?search=%22Level-Direction+Guided+Hierarchical+Genetic+Learning+Particle+Swarm+Optimization+for+Wind+Farm+Layout+Optimization+Considering+Landowners+Behavior%22
+      mode: search
+      copy_text: Level-Direction Guided Hierarchical Genetic Learning Particle Swarm Optimization for Wind Farm Layout Optimization Considering
+        Landowners Behavior
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=%22Level-Direction+Guided+Hierarchical+Genetic+Learning+Particle+Swarm+Optimization+for+Wind+Farm+Layout+Optimization+Considering+Landowners+Behavior%22
+      mode: search
+      copy_text: Level-Direction Guided Hierarchical Genetic Learning Particle Swarm Optimization for Wind Farm Layout Optimization Considering
+        Landowners Behavior
+  ccf:
+    class: C
+    year: 2022
+    source_url: /assets/docs/official/ccf_ai_category_official.html
+    supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
+  selected: false
+  public: false
+  citation_authors_html: <strong>S. Tao</strong>, R. Zhao, Z. Lei, M. Omura, S. Gao
+- id: improved-spherical-search-algorithm-with-memory-based-dynamic-population-for-optimization
+  title: Improved spherical search algorithm with memory-based dynamic population for optimization
+  authors:
+    - Sicheng Liu
+    - Sichen Tao
+    - Kaiyu Wang
+    - Zhenyu Lei
+    - Shangce Gao
+  author_line: Sicheng Liu, Sichen Tao, Kaiyu Wang, Zhenyu Lei, Shangce Gao
+  year: 2025
+  date: "2025"
+  type: journal
+  status: published
+  venue: The Journal of Supercomputing
+  venue_line: The Journal of Supercomputing
+  volume: "81"
+  issue: "5"
+  pages: ""
+  publisher: Springer Science+Business Media
+  citations: 0
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1007%2Fs11227-025-07095-z
+  url: https://link.springer.com/article/10.1007/s11227-025-07095-z
+  doi: 10.1007/s11227-025-07095-z
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://link.springer.com/article/10.1007/s11227-025-07095-z
+  verification:
+    doi: 10.1007/s11227-025-07095-z
+    url: https://doi.org/10.1007/s11227-025-07095-z
+    publisher_url: https://link.springer.com/article/10.1007/s11227-025-07095-z
+    accepted_date: "2025-02-18"
+    published_date: "2025-04-10"
+    crossref_created_date: "2025-04-10"
+    metric_anchor_date: "2025-02-18"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.5
+    if_year: 2024
+    jcr_quartile: Q2
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=J%20SUPERCOMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: The Journal of Supercomputing
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=DaNoNr
+    cas_source_url: https://www.fabiao.com.cn/sci/09208542/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=DaNoNr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: The Journal of Supercomputing
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=J%20SUPERCOMPUT&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: The Journal of Supercomputing
+    jcr_public_source_url: https://jrank.net/journals/j-supercomput/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=DaNoNr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=DaNoNr
+    jcr_supporting_source_url: https://jrank.net/journals/j-supercomput/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=J%20SUPERCOMPUT&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2025-02-18. Closest public metrics at acceptance: IF 2.5 (2024) · JCR 2023 Q2 · CAS 2022 Q3."
+      zh: 接收日期：2025-02-18。按接收时点回溯的最近公开指标：IF 2.5（2024），JCR 2023 Q2，中科院 2022 Q3。
+      ja: 採択日：2025-02-18。採択時点に最も近い公開指標：IF 2.5 (2024) · JCR 2023 Q2 · CAS 2022 Q3。
+  venue_url: https://link.springer.com/journal/11227
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1007%2Fs11227-025-07095-z
+      mode: search
+      copy_text: 10.1007/s11227-025-07095-z
+    openalex:
+      url: https://openalex.org/W4409318881
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/46f60bd7d903f664f4fae8a884e986ba6b04f4c8
+      mode: direct
+      copy_text: ""
+  ccf:
+    class: C
+    year: 2022
+    source_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
+    supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
+  selected: false
+  public: true
+  citation_authors_html: S. Liu, <strong>S. Tao</strong>, K. Wang, Z. Lei, S. Gao
+- id: human-robot-collaborative-resource-and-task-planning-for-assembly-systems-with-self-learning-multi-objective-evolutionary-optimizer
+  title: Human-robot Collaborative Resource and Task Planning for Assembly Systems with Self-learning Multi-objective Evolutionary Optimizer
+  authors:
+    - Ruihan Zhao
+    - Sichen Tao
+    - Pengzhong Li
+  author_line: Ruihan Zhao, Sichen Tao, Pengzhong Li
+  year: 2025
+  date: "2025"
+  type: conference
+  status: published
+  venue: IEEE International Conference on Real-time Computing and Robotics (RCAR 2025)
+  venue_line: ""
+  volume: ""
+  issue: ""
+  pages: 1272-1277
+  publisher: ""
+  citations: 0
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FRCAR65431.2025.11139773
+  url: https://doi.org/10.1109/RCAR65431.2025.11139773
+  doi: 10.1109/RCAR65431.2025.11139773
+  tags:
+    - Optimization
+    - Human-Robot
+  metadata_source: OpenAlex
+  venue_url: https://smartconf.jp/content/rcar2025/
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FRCAR65431.2025.11139773
+      mode: search
+      copy_text: 10.1109/RCAR65431.2025.11139773
+    openalex:
+      url: https://openalex.org/W4413978974
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/edb6a9e313523f620202c9a040ebe563706bbc3e
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+- id: human-centric-assembly-planning-framework-for-human-robot-collaborative-systems-with-efficient-reinforcement-self-learning-multi-objective-evolutionary-optimizer
+  title: Human-centric assembly planning framework for human–robot collaborative systems with efficient reinforcement self-learning multi-objective
+    evolutionary optimizer
+  authors:
+    - Ruihan Zhao
+    - Sichen Tao
+    - Pengzhong Li
+  author_line: Ruihan Zhao, Sichen Tao, Pengzhong Li
+  year: 2025
+  date: "2025"
+  type: journal
+  status: published
+  venue: Advanced Engineering Informatics
+  venue_line: Advanced Engineering Informatics
+  volume: "67"
+  issue: ""
+  pages: 103508-103508
+  publisher: Elsevier BV
+  citations: 2
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.aei.2025.103508
+  url: https://doi.org/10.1016/j.aei.2025.103508
+  doi: 10.1016/j.aei.2025.103508
+  tags:
+    - Optimization
+    - Human-Robot
+  metadata_source: OpenAlex
+  publisher_url: https://doi.org/10.1016/j.aei.2025.103508
+  verification:
+    doi: 10.1016/j.aei.2025.103508
+    url: https://doi.org/10.1016/j.aei.2025.103508
+    publisher_url: https://doi.org/10.1016/j.aei.2025.103508
+    accepted_date: ""
+    published_date: "2025-09-01"
+    crossref_created_date: "2025-06-17"
+    metric_anchor_date: "2025-06-17"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 8.0
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q1
+    cas_year: 2025
+    cas_top: true
+    cas_top_year: 2025
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ADV%20ENG%20INFORM&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Advanced Engineering Informatics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=BDagop
+    cas_source_url: https://www.fabiao.com.cn/sci/14740346/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=BDagop
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Advanced Engineering Informatics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ADV%20ENG%20INFORM&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Advanced Engineering Informatics
+    jcr_public_source_url: https://jrank.net/journals/adv-eng-inform/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=BDagop
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=BDagop
+    jcr_supporting_source_url: https://jrank.net/journals/adv-eng-inform/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ADV%20ENG%20INFORM&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-06-17): IF 8 (2024) · JCR 2023 Q1 · CAS 2025 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-06-17）回溯的最近公开指标：IF 8（2024），JCR 2023 Q1，中科院 2025 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-06-17）に最も近い公開指標：IF 8 (2024) · JCR 2023 Q1 · CAS 2025 Q1。
+  venue_url: https://www.sciencedirect.com/journal/advanced-engineering-informatics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.aei.2025.103508
+      mode: search
+      copy_text: 10.1016/j.aei.2025.103508
+    openalex:
+      url: https://openalex.org/W4411369553
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/5362762fcd06da426f124d10663fa4711095b840
+      mode: direct
+      copy_text: ""
+  ccf:
+    class: B
+    year: 2022
+    source_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
+    supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
+  selected: false
+  public: true
+  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+- id: gpu-cuda-accelerated-gradient-growth-optimizer-for-efficient-complex-numerical-global-optimization
+  title: GPU/CUDA-Accelerated Gradient Growth Optimizer for Efficient Complex Numerical Global Optimization
+  authors:
+    - Qingke Zhang
+    - Wei Chen
+    - Shilin Pang
+    - Sichen Tao
+    - Conglin Li
+    - Xiaoping Yin
+  author_line: Qingke Zhang, Wei Chen, Shilin Pang, Sichen Tao, Conglin Li, Xiaoping Yin
+  year: 2025
+  date: 2025-11
+  type: journal
+  status: published
+  venue: Parallel Computing
+  venue_line: Parallel Computing
+  volume: "126"
+  issue: ""
+  pages: "103160"
+  publisher: ""
+  citations: 0
+  author_role: coauthor
+  role_note: ""
+  source_group: cv_supplement
+  source_label: CV-only supplement not yet present in the indexed dossier snapshot
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.parco.2025.103160
+  url: https://doi.org/10.1016/j.parco.2025.103160
+  doi: 10.1016/j.parco.2025.103160
+  tags:
+    - Optimization
+    - HPC
+  metadata_source: CV_SichenTao.tex
+  publisher_url: https://doi.org/10.1016/j.parco.2025.103160
+  verification:
+    doi: 10.1016/j.parco.2025.103160
+    url: https://doi.org/10.1016/j.parco.2025.103160
+    publisher_url: https://doi.org/10.1016/j.parco.2025.103160
+    accepted_date: ""
+    published_date: "2025-11-01"
+    crossref_created_date: "2025-10-10"
+    metric_anchor_date: "2025-10-10"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 2.1
+    if_year: 2025
+    jcr_quartile: Q2
+    jcr_year: 2025
+    cas_quartile: Q3
+    cas_year: 2025
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=PARALLEL%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile_fallback
+    if_source_official_year: 2024
+    if_search_copy_text: Parallel Computing
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=52aKYp
+    cas_source_url: https://www.fabiao.com.cn/sci/01678191/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=52aKYp
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Parallel Computing
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=PARALLEL%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile_fallback
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Parallel Computing
+    jcr_public_source_url: https://jrank.net/journals/parallel-comput/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=52aKYp
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=52aKYp
+    jcr_supporting_source_url: https://jrank.net/journals/parallel-comput/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=PARALLEL%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-10-10): IF 2.1 (2025) · JCR 2025 Q2 · CAS 2025 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-10-10）回溯的最近公开指标：IF 2.1（2025），JCR 2025 Q2，中科院 2025 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-10-10）に最も近い公開指標：IF 2.1 (2025) · JCR 2025 Q2 · CAS 2025 Q3。
+  venue_url: https://www.sciencedirect.com/journal/parallel-computing
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.parco.2025.103160
+      mode: search
+      copy_text: 10.1016/j.parco.2025.103160
+    openalex:
+      url: https://openalex.org/W4415038988
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/c4b42c907157827efd911594a1ef88ede5c1f047
+      mode: direct
+      copy_text: ""
+  ccf:
+    class: B
+    year: 2022
+    source_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
+    supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
+  selected: false
+  public: true
+  citation_authors_html: Q. Zhang, W. Chen, S. Pang, <strong>S. Tao</strong>, C. Li, X. Yin
+- id: enhancing-convolutional-neural-network-robustness-against-image-noise-via-an-artificial-visual-system
+  title: Enhancing Convolutional Neural Network Robustness Against Image Noise via an Artificial Visual System
+  authors:
+    - Bin Li
+    - Yuki Todo
+    - Sichen Tao
+    - Cheng Tang
+    - Yu Wang
+  author_line: Bin Li, Yuki Todo, Sichen Tao, Cheng Tang, Yu Wang
+  year: 2025
+  date: "2025"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "13"
+  issue: "1"
+  pages: 142-142
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 7
+  author_role: corresponding_author
+  role_note: Corresponding author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath13010142
+  url: https://www.mdpi.com/2227-7390/13/1/142
+  doi: 10.3390/math13010142
+  tags:
+    - Visual Systems
+    - Deep Learning
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/13/1/142
+  verification:
+    doi: 10.3390/math13010142
+    url: https://doi.org/10.3390/math13010142
+    publisher_url: https://www.mdpi.com/2227-7390/13/1/142
+    accepted_date: "2024-12-30"
+    published_date: "2025-01-02"
+    crossref_created_date: "2025-01-02"
+    metric_anchor_date: "2024-12-30"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.3
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2024
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2024-12-30. Closest public metrics at acceptance: IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2024-12-30。按接收时点回溯的最近公开指标：IF 2.3（2024），JCR 2024 Q1，中科院 2022 Q3。
+      ja: 採択日：2024-12-30。採択時点に最も近い公開指標：IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath13010142
+      mode: search
+      copy_text: 10.3390/math13010142
+    openalex:
+      url: https://openalex.org/W4405994168
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/494aaef9699cefe683b6922ef9d5f03b248bbd3f
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: B. Li, Y. Todo, <strong>S. Tao*</strong>, C. Tang, Y. Wang
+- id: an-artificial-visual-system-constructed-by-fully-modeled-retinal-direction-selective-networks-on-detecting-motion-direction-in-color-images
+  title: An Artificial Visual System Constructed by Fully Modeled Retinal Direction-selective Networks on Detecting Motion Direction in Color
+    Images
+  authors:
+    - Sichen Tao
+    - Ruihan Zhao
+    - Haichuan Yang
+    - Junqing Wang
+  author_line: Sichen Tao, Ruihan Zhao, Haichuan Yang, Junqing Wang
+  year: 2025
+  date: "2025"
+  type: journal
+  status: submitted
+  venue: Information Sciences
+  venue_line: Information Sciences
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: ""
+  citations: 0
+  author_role: corresponding_author
+  role_note: Corresponding author and first author
+  source_group: cv_supplement
+  source_label: CV-only supplement not yet present in the indexed dossier snapshot
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22An+Artificial+Visual+System+Constructed+by+Fully+Modeled+Retinal+Direction-selective+Networks+on+Detecting+Motion+Direction+in+Color+Images%22
+  url: https://www.sciencedirect.com/journal/information-sciences
+  doi: ""
+  tags:
+    - Visual Systems
+  metadata_source: CV_SichenTao.tex
+  venue_url: https://www.sciencedirect.com/journal/information-sciences
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22An+Artificial+Visual+System+Constructed+by+Fully+Modeled+Retinal+Direction-selective+Networks+on+Detecting+Motion+Direction+in+Color+Images%22
+      mode: search
+      copy_text: An Artificial Visual System Constructed by Fully Modeled Retinal Direction-selective Networks on Detecting Motion Direction in
+        Color Images
+    openalex:
+      url: https://openalex.org/works?search=%22An+Artificial+Visual+System+Constructed+by+Fully+Modeled+Retinal+Direction-selective+Networks+on+Detecting+Motion+Direction+in+Color+Images%22
+      mode: search
+      copy_text: An Artificial Visual System Constructed by Fully Modeled Retinal Direction-selective Networks on Detecting Motion Direction in
+        Color Images
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=%22An+Artificial+Visual+System+Constructed+by+Fully+Modeled+Retinal+Direction-selective+Networks+on+Detecting+Motion+Direction+in+Color+Images%22
+      mode: search
+      copy_text: An Artificial Visual System Constructed by Fully Modeled Retinal Direction-selective Networks on Detecting Motion Direction in
+        Color Images
+  ccf:
+    class: B
+    year: 2022
+    source_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
+    supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
+  selected: false
+  public: false
+  citation_authors_html: <strong>S. Tao*</strong>, R. Zhao, H. Yang, J. Wang
+- id: ai-powered-model-for-predicting-mortality-risk-in-va-ecmo-patients-a-multicenter-cohort-study
+  title: "AI-powered model for predicting mortality risk in VA-ECMO patients: a multicenter cohort study"
+  authors:
+    - Shuai Wang
+    - Sichen Tao
+    - Ying Zhu
+    - Qiao Gu
+    - Peifeng Ni
+    - Weidong Zhang
+    - Chenxi Wu
+    - Ruihan Zhao
+    - Wei Hu
+    - Mengyuan Diao
+  author_line: Shuai Wang, Sichen Tao, Ying Zhu, Qiao Gu, Peifeng Ni, Weidong Zhang, Chenxi Wu, Ruihan Zhao, Wei Hu, Mengyuan Diao
+  year: 2025
+  date: 2025-3-26
+  type: journal
+  status: published
+  venue: Scientific Reports
+  venue_line: Scientific Reports
+  volume: "15"
+  issue: "1"
+  pages: ""
+  publisher: Springer Science and Business Media LLC
+  citations: 6
+  author_role: co_first_author
+  role_note: Co-first author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1038%2Fs41598-025-94734-3
+  url: https://www.nature.com/articles/s41598-025-94734-3
+  doi: 10.1038/s41598-025-94734-3
+  tags:
+    - Healthcare
+  metadata_source: Crossref
+  publisher_url: https://www.nature.com/articles/s41598-025-94734-3
+  verification:
+    doi: 10.1038/s41598-025-94734-3
+    url: https://doi.org/10.1038/s41598-025-94734-3
+    publisher_url: https://www.nature.com/articles/s41598-025-94734-3
+    accepted_date: "2025-03-17"
+    published_date: "2025-03-26"
+    crossref_created_date: "2025-03-26"
+    metric_anchor_date: "2025-03-17"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 3.8
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q2
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SCI%20REP-UK&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Scientific Reports
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=rAXQeD
+    cas_source_url: https://www.fabiao.com.cn/sci/20452322/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=rAXQeD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Scientific Reports
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SCI%20REP-UK&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Scientific Reports
+    jcr_public_source_url: https://jrank.net/journals/sci-rep_uk/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAXQeD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAXQeD
+    jcr_supporting_source_url: https://jrank.net/journals/sci-rep_uk/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SCI%20REP-UK&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2025-03-17. Closest public metrics at acceptance: IF 3.8 (2024) · JCR 2023 Q1 · CAS 2022 Q2."
+      zh: 接收日期：2025-03-17。按接收时点回溯的最近公开指标：IF 3.8（2024），JCR 2023 Q1，中科院 2022 Q2。
+      ja: 採択日：2025-03-17。採択時点に最も近い公開指標：IF 3.8 (2024) · JCR 2023 Q1 · CAS 2022 Q2。
+  venue_url: https://www.nature.com/srep/
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1038%2Fs41598-025-94734-3
+      mode: search
+      copy_text: 10.1038/s41598-025-94734-3
+    openalex:
+      url: https://openalex.org/W4408822989
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/c3ce41acc973fd5458fb30b9441b3911c05ef23f
+      mode: direct
+      copy_text: ""
+  selected: true
+  public: true
+  citation_authors_html: S. Wang, <strong>S. Tao†</strong>, Y. Zhu, Q. Gu, P. Ni, W. Zhang, C. Wu, R. Zhao, W. Hu, M. Diao
+  preview: /assets/img/publication_preview/va-ecmo-mortality.jpg
+- id: adaptive-product-family-formation-a-medoid-based-fuzzy-clustering-method-for-mixed-products-assembly-in-the-shared-human-robot-collaborative-system
+  title:
+    "Adaptive product family formation: A medoid-based fuzzy clustering method for mixed products assembly in the shared human-robot collaborative
+    system"
+  authors:
+    - Ruihan Zhao
+    - Sichen Tao
+    - Pengzhong Li
+  author_line: Ruihan Zhao, Sichen Tao, Pengzhong Li
+  year: 2025
+  date: "2025"
+  type: journal
+  status: under_review
+  venue: Applied Soft Computing
+  venue_line: Applied Soft Computing
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: ""
+  citations: 0
+  author_role: coauthor
+  role_note: ""
+  source_group: cv_supplement
+  source_label: CV-only supplement not yet present in the indexed dossier snapshot
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Adaptive+product+family+formation%3A+A+medoid-based+fuzzy+clustering+method+for+mixed+products+assembly+in+the+shared+human-robot+collaborative+system%22
+  url: https://www.sciencedirect.com/journal/applied-soft-computing
+  doi: ""
+  tags:
+    - Human-Robot
+  metadata_source: CV_SichenTao.tex
+  venue_url: https://www.sciencedirect.com/journal/applied-soft-computing
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Adaptive+product+family+formation%3A+A+medoid-based+fuzzy+clustering+method+for+mixed+products+assembly+in+the+shared+human-robot+collaborative+system%22
+      mode: search
+      copy_text: "Adaptive product family formation: A medoid-based fuzzy clustering method for mixed products assembly in the shared human-robot
+        collaborative system"
+    openalex:
+      url: https://openalex.org/works?search=%22Adaptive+product+family+formation%3A+A+medoid-based+fuzzy+clustering+method+for+mixed+products+assembly+in+the+shared+human-robot+collaborative+system%22
+      mode: search
+      copy_text: "Adaptive product family formation: A medoid-based fuzzy clustering method for mixed products assembly in the shared human-robot
+        collaborative system"
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=%22Adaptive+product+family+formation%3A+A+medoid-based+fuzzy+clustering+method+for+mixed+products+assembly+in+the+shared+human-robot+collaborative+system%22
+      mode: search
+      copy_text: "Adaptive product family formation: A medoid-based fuzzy clustering method for mixed products assembly in the shared human-robot
+        collaborative system"
+  selected: false
+  public: false
+  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+- id: a-state-of-the-art-fractional-order-driven-differential-evolution-for-wind-farm-layout-optimization
+  title: A State-of-the-Art Fractional Order-Driven Differential Evolution for Wind Farm Layout Optimization
+  authors:
+    - Sichen Tao
+    - Sicheng Liu
+    - Ruihan Zhao
+    - Yifei Yang
+    - Hiroyoshi Todo
+    - Haichuan Yang
+  author_line: Sichen Tao, Sicheng Liu, Ruihan Zhao, Yifei Yang, Hiroyoshi Todo, Haichuan Yang
+  year: 2025
+  date: "2025"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "13"
+  issue: "2"
+  pages: 282-282
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 8
+  author_role: corresponding_author
+  role_note: Corresponding author and first author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath13020282
+  url: https://www.mdpi.com/2227-7390/13/2/282
+  doi: 10.3390/math13020282
+  tags:
+    - Optimization
+    - Wind Farm
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/13/2/282
+  verification:
+    doi: 10.3390/math13020282
+    url: https://doi.org/10.3390/math13020282
+    publisher_url: https://www.mdpi.com/2227-7390/13/2/282
+    accepted_date: "2025-01-14"
+    published_date: "2025-01-16"
+    crossref_created_date: "2025-01-16"
+    metric_anchor_date: "2025-01-14"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.3
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2024
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2025-01-14. Closest public metrics at acceptance: IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2025-01-14。按接收时点回溯的最近公开指标：IF 2.3（2024），JCR 2024 Q1，中科院 2022 Q3。
+      ja: 採択日：2025-01-14。採択時点に最も近い公開指標：IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath13020282
+      mode: search
+      copy_text: 10.3390/math13020282
+    openalex:
+      url: https://openalex.org/W4406437323
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/682c474460843c539ac875111f8fd39240fc70ff
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao*</strong>, S. Liu, R. Zhao, Y. Yang, H. Todo, H. Yang
+- id: a-reinforcement-learning-assisted-fractional-order-differential-evolution-for-solving-wind-farm-layout-optimization-problems
+  title: A Reinforcement Learning-Assisted Fractional-Order Differential Evolution for Solving Wind Farm Layout Optimization Problems
+  authors:
+    - Yufei Wang
+    - Yifei Yang
+    - Sichen Tao
+    - Lianzhi Qi
+    - Hao Shen
+  author_line: Yufei Wang, Yifei Yang, Sichen Tao, Lianzhi Qi, Hao Shen
+  year: 2025
+  date: "2025"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "13"
+  issue: "18"
+  pages: 2935-2935
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 0
+  author_role: corresponding_author
+  role_note: Corresponding author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath13182935
+  url: https://www.mdpi.com/2227-7390/13/18/2935
+  doi: 10.3390/math13182935
+  tags:
+    - Optimization
+    - Wind Farm
+    - Reinforcement Learning
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/13/18/2935
+  verification:
+    doi: 10.3390/math13182935
+    url: https://doi.org/10.3390/math13182935
+    publisher_url: https://www.mdpi.com/2227-7390/13/18/2935
+    accepted_date: "2025-09-04"
+    published_date: "2025-09-10"
+    crossref_created_date: "2025-09-10"
+    metric_anchor_date: "2025-09-04"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.2
+    if_year: 2025
+    jcr_quartile: Q1
+    jcr_year: 2025
+    cas_quartile: Q4
+    cas_year: 2025
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile_fallback
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile_fallback
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2025-09-04. Closest public metrics at acceptance: IF 2.2 (2025) · JCR 2025 Q1 · CAS 2025 Q4."
+      zh: 接收日期：2025-09-04。按接收时点回溯的最近公开指标：IF 2.2（2025），JCR 2025 Q1，中科院 2025 Q4。
+      ja: 採択日：2025-09-04。採択時点に最も近い公開指標：IF 2.2 (2025) · JCR 2025 Q1 · CAS 2025 Q4。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath13182935
+      mode: search
+      copy_text: 10.3390/math13182935
+    openalex:
+      url: https://openalex.org/W4414091153
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/45b0ff50f61c947f78d1a3801d34629a2b231ed6
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Y. Wang, Y. Yang, <strong>S. Tao*</strong>, L. Qi, H. Shen
+- id: a-novel-detection-and-replacement-based-order-operator-for-differential-evolution-in-solving-complex-bound-constrained-optimization-problems
+  title: A Novel Detection-and-Replacement-Based Order-Operator for Differential Evolution in Solving Complex Bound Constrained Optimization Problems
+  authors:
+    - Sichen Tao
+    - Sicheng Liu
+    - Shinichi Ohta
+    - Ruihan Zhao
+    - Zheng Tang
+    - Yifei Yang
+  author_line: Sichen Tao, Sicheng Liu, Shinichi Ohta, Ruihan Zhao, Zheng Tang, Yifei Yang
+  year: 2025
+  date: "2025"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "13"
+  issue: "9"
+  pages: 1389-1389
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 2
+  author_role: corresponding_author
+  role_note: Corresponding author and first author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath13091389
+  url: https://www.mdpi.com/2227-7390/13/9/1389
+  doi: 10.3390/math13091389
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/13/9/1389
+  verification:
+    doi: 10.3390/math13091389
+    url: https://doi.org/10.3390/math13091389
+    publisher_url: https://www.mdpi.com/2227-7390/13/9/1389
+    accepted_date: ""
+    published_date: "2025-04-24"
+    crossref_created_date: "2025-04-24"
+    metric_anchor_date: "2025-04-24"
+    metric_anchor_kind: crossref_created_date
+    verification_status: published_date_only_verified
+    if_value: 2.3
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2024
+    cas_quartile: Q4
+    cas_year: 2025
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-04-24): IF 2.3 (2024) · JCR 2024 Q1 · CAS 2025 Q4."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-04-24）回溯的最近公开指标：IF 2.3（2024），JCR 2024 Q1，中科院 2025 Q4。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-04-24）に最も近い公開指標：IF 2.3 (2024) · JCR 2024 Q1 · CAS 2025 Q4。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath13091389
+      mode: search
+      copy_text: 10.3390/math13091389
+    openalex:
+      url: https://openalex.org/W4409766818
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/05c071a9360b9e707acab8ff11e393279ce21648
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao*</strong>, S. Liu, S. Ohta, R. Zhao, Z. Tang, Y. Yang
+- id: a-biologically-inspired-model-for-detecting-object-motion-direction-in-stereoscopic-vision
+  title: A Biologically Inspired Model for Detecting Object Motion Direction in Stereoscopic Vision
+  authors:
+    - Yuxiao Hua
+    - Sichen Tao
+    - Yuki Todo
+    - Tianqi Chen
+    - Zhiyu Qiu
+    - Zheng Tang
+  author_line: Yuxiao Hua, Sichen Tao, Yuki Todo, Tianqi Chen, Zhiyu Qiu, Zheng Tang
+  year: 2025
+  date: "2025"
+  type: journal
+  status: published
+  venue: Symmetry
+  venue_line: Symmetry
+  volume: "17"
+  issue: "2"
+  pages: 162-162
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 0
+  author_role: corresponding_author
+  role_note: Corresponding author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fsym17020162
+  url: https://www.mdpi.com/2073-8994/17/2/162
+  doi: 10.3390/sym17020162
+  tags:
+    - Visual Systems
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2073-8994/17/2/162
+  verification:
+    doi: 10.3390/sym17020162
+    url: https://doi.org/10.3390/sym17020162
+    publisher_url: https://www.mdpi.com/2073-8994/17/2/162
+    accepted_date: "2025-01-18"
+    published_date: "2025-01-22"
+    crossref_created_date: "2025-01-22"
+    metric_anchor_date: "2025-01-18"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.2
+    if_year: 2024
+    jcr_quartile: Q2
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Symmetry
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_source_url: https://www.fabiao.com.cn/sci/20738994/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Symmetry
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Symmetry
+    jcr_public_source_url: https://jrank.net/journals/symmetry_basel/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    jcr_supporting_source_url: https://jrank.net/journals/symmetry_basel/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2025-01-18. Closest public metrics at acceptance: IF 2.2 (2024) · JCR 2023 Q2 · CAS 2022 Q3."
+      zh: 接收日期：2025-01-18。按接收时点回溯的最近公开指标：IF 2.2（2024），JCR 2023 Q2，中科院 2022 Q3。
+      ja: 採択日：2025-01-18。採択時点に最も近い公開指標：IF 2.2 (2024) · JCR 2023 Q2 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/symmetry
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fsym17020162
+      mode: search
+      copy_text: 10.3390/sym17020162
+    openalex:
+      url: https://openalex.org/W4406703920
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/08b48ceae49e60869affc9c4385bfc9ed3c223fd
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Y. Hua, <strong>S. Tao*</strong>, Y. Todo, T. Chen, Z. Qiu, Z. Tang
+- id: spherical-search-algorithm-with-memory-guided-population-stage-wise-control-for-bound-constrained-global-optimization-problems
+  title: Spherical search algorithm with memory-guided population stage-wise control for bound-constrained global optimization problems
+  authors:
+    - Sichen Tao
+    - Kaiyu Wang
+    - Ting Jin
+    - Zhengwei Wu
+    - Zhenyu Lei
+    - Shangce Gao
+  author_line: Sichen Tao, Kaiyu Wang, Ting Jin, Zhengwei Wu, Zhenyu Lei, Shangce Gao
+  year: 2024
+  date: "2024"
+  type: journal
+  status: published
+  venue: Applied Soft Computing
+  venue_line: Applied Soft Computing
+  volume: "161"
+  issue: ""
+  pages: 111677-111677
+  publisher: Elsevier BV
+  citations: 13
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.asoc.2024.111677
+  url: https://doi.org/10.1016/j.asoc.2024.111677
+  doi: 10.1016/j.asoc.2024.111677
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://doi.org/10.1016/j.asoc.2024.111677
+  verification:
+    doi: 10.1016/j.asoc.2024.111677
+    url: https://doi.org/10.1016/j.asoc.2024.111677
+    publisher_url: https://doi.org/10.1016/j.asoc.2024.111677
+    accepted_date: ""
+    published_date: "2024-08-01"
+    crossref_created_date: "2024-05-15"
+    metric_anchor_date: "2024-05-15"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 8.7
+    if_year: 2023
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q1
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2023&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2023
+    if_search_copy_text: Applied Soft Computing
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_source_url: https://www.fabiao.com.cn/sci/15684946/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Applied Soft Computing
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Applied Soft Computing
+    jcr_public_source_url: https://jrank.net/journals/appl-soft-comput/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    jcr_supporting_source_url: https://jrank.net/journals/appl-soft-comput/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2024-05-15): IF 8.7 (2023) · JCR 2023 Q1 · CAS 2022 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2024-05-15）回溯的最近公开指标：IF 8.7（2023），JCR 2023 Q1，中科院 2022 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2024-05-15）に最も近い公開指標：IF 8.7 (2023) · JCR 2023 Q1 · CAS 2022 Q1。
+  venue_url: https://www.sciencedirect.com/journal/applied-soft-computing
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.asoc.2024.111677
+      mode: search
+      copy_text: 10.1016/j.asoc.2024.111677
+    openalex:
+      url: https://openalex.org/W4396919833
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/b2fc7edaba992724dfd4e6022b8e49ff247af576
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, K. Wang, T. Jin, Z. Wu, Z. Lei, S. Gao
+- id: improving-the-music-harmony-search-using-a-differential-exploration-phase-for-solving-bound-constrained-optimization-problems
+  title: Improving the Music Harmony Search Using a Differential Exploration Phase for Solving Bound Constrained Optimization Problems
+  authors:
+    - Sha Sun
+    - Ruihan Zhao
+    - Chenxi Wang
+    - Zheng Tang
+    - Sichen Tao
+  author_line: Sha Sun, Ruihan Zhao, Chenxi Wang, Zheng Tang, Sichen Tao
+  year: 2024
+  date: "2024"
+  type: conference
+  status: published
+  venue: 2024 IEEE 7th Information Technology, Networking, Electronic and Automation Control Conference (ITNEC)
+  venue_line: ""
+  volume: ""
+  issue: ""
+  pages: 1337-1341
+  publisher: ""
+  citations: 0
+  author_role: corresponding_author
+  role_note: Corresponding author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FITNEC60942.2024.10733307
+  url: https://doi.org/10.1109/ITNEC60942.2024.10733307
+  doi: 10.1109/ITNEC60942.2024.10733307
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  venue_url: http://www.itnec.org/
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FITNEC60942.2024.10733307
+      mode: search
+      copy_text: 10.1109/ITNEC60942.2024.10733307
+    openalex:
+      url: https://openalex.org/W4404036129
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/e520e80e09bf6b30b712ca51e091313dcdd11e68
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: S. Sun, R. Zhao, C. Wang, Z. Tang, <strong>S. Tao*</strong>
+- id: competitive-elimination-improved-differential-evolution-for-wind-farm-layout-optimization-problems
+  title: Competitive Elimination Improved Differential Evolution for Wind Farm Layout Optimization Problems
+  authors:
+    - Sichen Tao
+    - Yifei Yang
+    - Ruihan Zhao
+    - Hiroyoshi Todo
+    - Zheng Tang
+  author_line: Sichen Tao, Yifei Yang, Ruihan Zhao, Hiroyoshi Todo, Zheng Tang
+  year: 2024
+  date: "2024"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "12"
+  issue: "23"
+  pages: 3762-3762
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 3
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath12233762
+  url: https://www.mdpi.com/2227-7390/12/23/3762
+  doi: 10.3390/math12233762
+  tags:
+    - Optimization
+    - Wind Farm
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/12/23/3762
+  verification:
+    doi: 10.3390/math12233762
+    url: https://doi.org/10.3390/math12233762
+    publisher_url: https://www.mdpi.com/2227-7390/12/23/3762
+    accepted_date: "2024-11-25"
+    published_date: "2024-11-28"
+    crossref_created_date: "2024-11-29"
+    metric_anchor_date: "2024-11-25"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.3
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2024
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2024-11-25. Closest public metrics at acceptance: IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2024-11-25。按接收时点回溯的最近公开指标：IF 2.3（2024），JCR 2024 Q1，中科院 2022 Q3。
+      ja: 採択日：2024-11-25。採択時点に最も近い公開指標：IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath12233762
+      mode: search
+      copy_text: 10.3390/math12233762
+    openalex:
+      url: https://openalex.org/W4404863298
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/bd14ef1c0c0729b212b46397eef4c60986acf16c
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, Y. Yang, R. Zhao, H. Todo, Z. Tang
+- id: bio-inspired-computational-model-for-direction-and-speed-detection
+  title: Bio-inspired computational model for direction and speed detection
+  authors:
+    - Yuxiao Hua
+    - Yuki Todo
+    - Sichen Tao
+    - Zheng Tang
+    - Tianqi Cheng
+    - Zhiyu Qiu
+  author_line: Yuxiao Hua, Yuki Todo, Sichen Tao, Zheng Tang, Tianqi Cheng, Zhiyu Qiu
+  year: 2024
+  date: "2024"
+  type: journal
+  status: published
+  venue: Knowledge-Based Systems
+  venue_line: Knowledge-Based Systems
+  volume: "300"
+  issue: ""
+  pages: 112195-112195
+  publisher: Elsevier BV
+  citations: 7
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.knosys.2024.112195
+  url: https://doi.org/10.1016/j.knosys.2024.112195
+  doi: 10.1016/j.knosys.2024.112195
+  tags:
+    - Computational Intelligence
+  metadata_source: OpenAlex
+  publisher_url: https://doi.org/10.1016/j.knosys.2024.112195
+  verification:
+    doi: 10.1016/j.knosys.2024.112195
+    url: https://doi.org/10.1016/j.knosys.2024.112195
+    publisher_url: https://doi.org/10.1016/j.knosys.2024.112195
+    accepted_date: ""
+    published_date: "2024-09-01"
+    crossref_created_date: "2024-07-04"
+    metric_anchor_date: "2024-07-04"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 7.2
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q1
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Knowledge-Based Systems
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_source_url: https://www.fabiao.com.cn/sci/09507051/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Knowledge-Based Systems
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Knowledge-Based Systems
+    jcr_public_source_url: https://jrank.net/journals/knowl_based-syst/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    jcr_supporting_source_url: https://jrank.net/journals/knowl_based-syst/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2024-07-04): IF 7.2 (2024) · JCR 2023 Q1 · CAS 2022 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2024-07-04）回溯的最近公开指标：IF 7.2（2024），JCR 2023 Q1，中科院 2022 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2024-07-04）に最も近い公開指標：IF 7.2 (2024) · JCR 2023 Q1 · CAS 2022 Q1。
+  venue_url: https://www.sciencedirect.com/journal/knowledge-based-systems
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.knosys.2024.112195
+      mode: search
+      copy_text: 10.1016/j.knosys.2024.112195
+    openalex:
+      url: https://openalex.org/W4400337330
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/6a68998eff23c3701f78a2f32a1ebaec18d529f1
+      mode: direct
+      copy_text: ""
+  ccf:
+    class: C
+    year: 2022
+    source_url: /assets/docs/official/ccf_ai_category_official.html
+    supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
+  selected: false
+  public: true
+  citation_authors_html: Y. Hua, Y. Todo, <strong>S. Tao</strong>, Z. Tang, T. Cheng, Z. Qiu
+- id: artificial-visual-network-with-fully-modeled-retinal-direction-selective-neural-pathway-for-motion-direction-detection-in-grayscale-scenes
+  title: Artificial Visual Network with Fully Modeled Retinal Direction-Selective Neural Pathway for Motion Direction Detection in Grayscale Scenes
+  authors:
+    - Sichen Tao
+    - Ruihan Zhao
+    - Yifei Yang
+    - Hiroyoshi Todo
+    - Zheng Tang
+    - Yuki Todo
+  author_line: Sichen Tao, Ruihan Zhao, Yifei Yang, Hiroyoshi Todo, Zheng Tang, Yuki Todo
+  year: 2024
+  date: "2024"
+  type: journal
+  status: published
+  venue: Symmetry
+  venue_line: Symmetry
+  volume: "16"
+  issue: "12"
+  pages: 1592-1592
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 1
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fsym16121592
+  url: https://www.mdpi.com/2073-8994/16/12/1592
+  doi: 10.3390/sym16121592
+  tags:
+    - Visual Systems
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2073-8994/16/12/1592
+  verification:
+    doi: 10.3390/sym16121592
+    url: https://doi.org/10.3390/sym16121592
+    publisher_url: https://www.mdpi.com/2073-8994/16/12/1592
+    accepted_date: "2024-11-26"
+    published_date: "2024-11-28"
+    crossref_created_date: "2024-11-28"
+    metric_anchor_date: "2024-11-26"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.2
+    if_year: 2024
+    jcr_quartile: Q2
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Symmetry
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_source_url: https://www.fabiao.com.cn/sci/20738994/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Symmetry
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Symmetry
+    jcr_public_source_url: https://jrank.net/journals/symmetry_basel/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    jcr_supporting_source_url: https://jrank.net/journals/symmetry_basel/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2024-11-26. Closest public metrics at acceptance: IF 2.2 (2024) · JCR 2023 Q2 · CAS 2022 Q3."
+      zh: 接收日期：2024-11-26。按接收时点回溯的最近公开指标：IF 2.2（2024），JCR 2023 Q2，中科院 2022 Q3。
+      ja: 採択日：2024-11-26。採択時点に最も近い公開指標：IF 2.2 (2024) · JCR 2023 Q2 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/symmetry
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fsym16121592
+      mode: search
+      copy_text: 10.3390/sym16121592
+    openalex:
+      url: https://openalex.org/W4404817271
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/8ba56522e12735523db0d0674d4110b8e0c5c7d1
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, R. Zhao, Y. Yang, H. Todo, Z. Tang, Y. Todo
+- id: an-efficient-reconstructed-differential-evolution-variant-by-some-of-the-current-state-of-the-art-strategies-for-solving-single-objective-bound-constrained-problems
+  title: An Efficient Reconstructed Differential Evolution Variant by Some of the Current State-of-the-art Strategies for Solving Single Objective
+    Bound Constrained Problems
+  authors:
+    - Sichen Tao
+    - Ruihan Zhao
+    - Kaiyu Wang
+    - Shangce Gao
+  author_line: Sichen Tao, Ruihan Zhao, Kaiyu Wang, Shangce Gao
+  year: 2024
+  date: "2024"
+  type: preprint
+  status: published
+  venue: arXiv
+  venue_line: arXiv (Cornell University)
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: Cornell University
+  citations: 12
+  author_role: corresponding_author
+  role_note: Corresponding author and first author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.48550%2FarXiv.2404.16280
+  url: https://doi.org/10.48550/arXiv.2404.16280
+  doi: 10.48550/arXiv.2404.16280
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  venue_url: https://arxiv.org/
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.48550%2FarXiv.2404.16280
+      mode: search
+      copy_text: 10.48550/arXiv.2404.16280
+    openalex:
+      url: https://openalex.org/W4395686790
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/04a6785c57c27a6f020a80d5bf66d12d1f5f49c1
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao*</strong>, R. Zhao, K. Wang, S. Gao
+- id: a-novel-artificial-visual-system-with-fully-modeled-retinal-direction-selectivity-ganglion-cell-pathway-for-motion-direction-detection-in-grayscale-images
+  title: A Novel Artificial Visual System with Fully Modeled Retinal Direction-selectivity Ganglion Cell Pathway for Motion Direction Detection
+    in Grayscale Images
+  authors:
+    - Yumekatsu Shoji
+    - Sichen Tao
+    - Yuki Todo
+    - Zheng Tang
+    - Ruihan Zhao
+  author_line: Yumekatsu Shoji, Sichen Tao, Yuki Todo, Zheng Tang, Ruihan Zhao
+  year: 2024
+  date: "2024"
+  type: conference
+  status: published
+  venue: SPML 2024
+  venue_line: ""
+  volume: ""
+  issue: ""
+  pages: 212-215
+  publisher: ""
+  citations: 0
+  author_role: corresponding_author
+  role_note: Corresponding author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3686490.3686521
+  url: https://doi.org/10.1145/3686490.3686521
+  doi: 10.1145/3686490.3686521
+  tags:
+    - Visual Systems
+  metadata_source: OpenAlex
+  venue_url: https://www.spml.net/2024.html
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3686490.3686521
+      mode: search
+      copy_text: 10.1145/3686490.3686521
+    openalex:
+      url: https://openalex.org/W4403332821
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/d274673a933264a6e73bc486147805a63be954f4
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Y. Shoji, <strong>S. Tao*</strong>, Y. Todo, Z. Tang, R. Zhao
+- id: a-novel-artificial-visual-system-for-motion-direction-detection-in-color-images
+  title: A novel artificial visual system for motion direction detection in color images
+  authors:
+    - Sichen Tao
+    - Zhiming Zhang
+    - Ruihan Zhao
+    - Zheng Tang
+    - Yuki Todo
+  author_line: Sichen Tao, Zhiming Zhang, Ruihan Zhao, Zheng Tang, Yuki Todo
+  year: 2024
+  date: "2024"
+  type: journal
+  status: published
+  venue: Knowledge-Based Systems
+  venue_line: Knowledge-Based Systems
+  volume: "295"
+  issue: ""
+  pages: 111816-111816
+  publisher: Elsevier BV
+  citations: 8
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.knosys.2024.111816
+  url: https://www.sciencedirect.com/science/article/pii/S0950705124004507
+  doi: 10.1016/j.knosys.2024.111816
+  tags:
+    - Visual Systems
+  metadata_source: OpenAlex
+  publisher_url: https://www.sciencedirect.com/science/article/pii/S0950705124004507
+  verification:
+    doi: 10.1016/j.knosys.2024.111816
+    url: https://doi.org/10.1016/j.knosys.2024.111816
+    publisher_url: https://www.sciencedirect.com/science/article/pii/S0950705124004507
+    accepted_date: ""
+    published_date: "2024-07-01"
+    crossref_created_date: "2024-04-18"
+    metric_anchor_date: "2024-04-18"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 8.8
+    if_year: 2023
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q1
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2023&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2023
+    if_search_copy_text: Knowledge-Based Systems
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_source_url: https://www.fabiao.com.cn/sci/09507051/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Knowledge-Based Systems
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Knowledge-Based Systems
+    jcr_public_source_url: https://jrank.net/journals/knowl_based-syst/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    jcr_supporting_source_url: https://jrank.net/journals/knowl_based-syst/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2024-04-18): IF 8.8 (2023) · JCR 2023 Q1 · CAS 2022 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2024-04-18）回溯的最近公开指标：IF 8.8（2023），JCR 2023 Q1，中科院 2022 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2024-04-18）に最も近い公開指標：IF 8.8 (2023) · JCR 2023 Q1 · CAS 2022 Q1。
+  venue_url: https://www.sciencedirect.com/journal/knowledge-based-systems
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.knosys.2024.111816
+      mode: search
+      copy_text: 10.1016/j.knosys.2024.111816
+    openalex:
+      url: https://openalex.org/W4394912469
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/8e2854287e935bca4885edafe8a3f5730dc1e7e7
+      mode: direct
+      copy_text: ""
+  ccf:
+    class: C
+    year: 2022
+    source_url: /assets/docs/official/ccf_ai_category_official.html
+    supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, Z. Zhang, R. Zhao, Z. Tang, Y. Todo
+- id: a-multi-local-search-based-shade-for-wind-farm-layout-optimization
+  title: A Multi-Local Search-Based SHADE for Wind Farm Layout Optimization
+  authors:
+    - Yifei Yang
+    - Sichen Tao
+    - Haotian Li
+    - Haichuan Yang
+    - Zheng Tang
+  author_line: Yifei Yang, Sichen Tao, Haotian Li, Haichuan Yang, Zheng Tang
+  year: 2024
+  date: "2024"
+  type: journal
+  status: published
+  venue: Electronics
+  venue_line: Electronics
+  volume: "13"
+  issue: "16"
+  pages: 3196-3196
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 3
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Felectronics13163196
+  url: https://www.mdpi.com/2079-9292/13/16/3196
+  doi: 10.3390/electronics13163196
+  tags:
+    - Optimization
+    - Wind Farm
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2079-9292/13/16/3196
+  verification:
+    doi: 10.3390/electronics13163196
+    url: https://doi.org/10.3390/electronics13163196
+    publisher_url: https://www.mdpi.com/2079-9292/13/16/3196
+    accepted_date: "2024-08-09"
+    published_date: "2024-08-13"
+    crossref_created_date: "2024-08-13"
+    metric_anchor_date: "2024-08-09"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.6
+    if_year: 2024
+    jcr_quartile: Q2
+    jcr_year: 2024
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ELECTRONICS-SWITZ&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Electronics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=peVkX5
+    cas_source_url: https://www.fabiao.com.cn/sci/20799292/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=peVkX5
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Electronics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ELECTRONICS-SWITZ&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Electronics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/530/Electronics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=peVkX5
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=peVkX5
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/530/Electronics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ELECTRONICS-SWITZ&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2024-08-09. Closest public metrics at acceptance: IF 2.6 (2024) · JCR 2024 Q2 · CAS 2022 Q3."
+      zh: 接收日期：2024-08-09。按接收时点回溯的最近公开指标：IF 2.6（2024），JCR 2024 Q2，中科院 2022 Q3。
+      ja: 採択日：2024-08-09。採択時点に最も近い公開指標：IF 2.6 (2024) · JCR 2024 Q2 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/electronics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Felectronics13163196
+      mode: search
+      copy_text: 10.3390/electronics13163196
+    openalex:
+      url: https://openalex.org/W4401545611
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/c17bb245b907147fbcdc243273eed2a6993c30a8
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Y. Yang, <strong>S. Tao</strong>, H. Li, H. Yang, Z. Tang
+- id: a-differential-search-integrated-music-harmony-search-algorithm-for-solving-bound-constrained-optimization-problems
+  title: A Differential Search Integrated Music Harmony Search Algorithm for Solving Bound Constrained Optimization Problems
+  authors:
+    - Sha Sun
+    - Ruihan Zhao
+    - Chenxi Wang
+    - Zheng Tang
+    - Sichen Tao
+  author_line: Sha Sun, Ruihan Zhao, Chenxi Wang, Zheng Tang, Sichen Tao
+  year: 2024
+  date: "2024"
+  type: conference
+  status: published
+  venue: SPML 2024
+  venue_line: ""
+  volume: ""
+  issue: ""
+  pages: 231-235
+  publisher: ""
+  citations: 0
+  author_role: corresponding_author
+  role_note: Corresponding author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3686490.3686524
+  url: https://doi.org/10.1145/3686490.3686524
+  doi: 10.1145/3686490.3686524
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  venue_url: https://www.spml.net/2024.html
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3686490.3686524
+      mode: search
+      copy_text: 10.1145/3686490.3686524
+    openalex:
+      url: https://openalex.org/W4403332795
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/be551c08b086b0e646b916eef1b32d6c2254797c
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: S. Sun, R. Zhao, C. Wang, Z. Tang, <strong>S. Tao*</strong>
+- id: a-bio-inspired-model-for-object-motion-direction-and-speed-detection-against-colored-backgrounds
+  title: A bio-inspired model for object motion direction and speed detection against colored backgrounds
+  authors:
+    - Yuxiao Hua
+    - Yuki Todo
+    - Sichen Tao
+    - Tianqi Chen
+    - Zhiyu Qiu
+    - Minhui Dong
+    - Zheng Tang
+  author_line: Yuxiao Hua, Yuki Todo, Sichen Tao, Tianqi Chen, Zhiyu Qiu, Minhui Dong, Zheng Tang
+  year: 2024
+  date: "2024"
+  type: conference
+  status: published
+  venue: Proceedings of the 5th International Conference on Computer Vision and Information Technology (CVIT 2024)
+  venue_line: ""
+  volume: ""
+  issue: ""
+  pages: 8-8
+  publisher: ""
+  citations: 0
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1117%2F12.3056633
+  url: https://doi.org/10.1117/12.3056633
+  doi: 10.1117/12.3056633
+  tags:
+    - Visual Systems
+  metadata_source: OpenAlex
+  venue_url: https://www.cvit.org/cvit2024.html
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1117%2F12.3056633
+      mode: search
+      copy_text: 10.1117/12.3056633
+    openalex:
+      url: https://openalex.org/W4404928032
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/36b972651e78f1cf0d9e079adea26e7c314435ee
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Y. Hua, Y. Todo, <strong>S. Tao</strong>, T. Chen, Z. Qiu, M. Dong, Z. Tang
+- id: the-mechanism-of-orientation-detection-based-on-artificial-visual-system-for-greyscale-images
+  title: The Mechanism of Orientation Detection Based on Artificial Visual System for Greyscale Images
+  authors:
+    - Xiliang Zhang
+    - Sichen Tao
+    - Zheng Tang
+    - Shuxin Zheng
+    - Yuki Todo
+  author_line: Xiliang Zhang, Sichen Tao, Zheng Tang, Shuxin Zheng, Yuki Todo
+  year: 2023
+  date: "2023"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "11"
+  issue: "12"
+  pages: 2715-2715
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 1
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath11122715
+  url: https://www.mdpi.com/2227-7390/11/12/2715
+  doi: 10.3390/math11122715
+  tags:
+    - Visual Systems
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/11/12/2715
+  verification:
+    doi: 10.3390/math11122715
+    url: https://doi.org/10.3390/math11122715
+    publisher_url: https://www.mdpi.com/2227-7390/11/12/2715
+    accepted_date: "2023-06-14"
+    published_date: "2023-06-15"
+    crossref_created_date: "2023-06-16"
+    metric_anchor_date: "2023-06-14"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.592
+    if_year: 2022
+    jcr_quartile: Q1
+    jcr_year: 2022
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2022
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2022
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2022
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2023-06-14. Closest public metrics at acceptance: IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2023-06-14。按接收时点回溯的最近公开指标：IF 2.592（2022），JCR 2022 Q1，中科院 2022 Q3。
+      ja: 採択日：2023-06-14。採択時点に最も近い公開指標：IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath11122715
+      mode: search
+      copy_text: 10.3390/math11122715
+    openalex:
+      url: https://openalex.org/W4380990171
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/862330292d215efb4be764da00fad7f9c69af3e6
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: X. Zhang, <strong>S. Tao</strong>, Z. Tang, S. Zheng, Y. Todo
+- id: spherical-search-algorithm-with-adaptive-population-control-for-global-continuous-optimization-problems
+  title: Spherical search algorithm with adaptive population control for global continuous optimization problems
+  authors:
+    - Kaiyu Wang
+    - Yirui Wang
+    - Sichen Tao
+    - Zonghui Cai
+    - Zhenyu Lei
+    - Shangce Gao
+  author_line: Kaiyu Wang, Yirui Wang, Sichen Tao, Zonghui Cai, Zhenyu Lei, Shangce Gao
+  year: 2023
+  date: "2022"
+  type: journal
+  status: published
+  venue: Applied Soft Computing
+  venue_line: Applied Soft Computing
+  volume: "132"
+  issue: ""
+  pages: 109845-109845
+  publisher: Elsevier BV
+  citations: 39
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.asoc.2022.109845
+  url: https://doi.org/10.1016/j.asoc.2022.109845
+  doi: 10.1016/j.asoc.2022.109845
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://doi.org/10.1016/j.asoc.2022.109845
+  verification:
+    doi: 10.1016/j.asoc.2022.109845
+    url: https://doi.org/10.1016/j.asoc.2022.109845
+    publisher_url: https://doi.org/10.1016/j.asoc.2022.109845
+    accepted_date: ""
+    published_date: "2023-01-01"
+    crossref_created_date: "2022-11-21"
+    metric_anchor_date: "2022-11-21"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 8.263
+    if_year: 2022
+    jcr_quartile: Q1
+    jcr_year: 2022
+    cas_quartile: Q1
+    cas_year: 2022
+    cas_top: true
+    cas_top_year: 2022
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2022&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2022
+    if_search_copy_text: Applied Soft Computing
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_source_url: https://www.fabiao.com.cn/sci/15684946/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Applied Soft Computing
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2022&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2022
+    jcr_search_copy_text: Applied Soft Computing
+    jcr_public_source_url: https://jrank.net/journals/appl-soft-comput/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    jcr_supporting_source_url: https://jrank.net/journals/appl-soft-comput/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2022&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2022
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2022-11-21): IF 8.263 (2022) · JCR 2022 Q1 · CAS 2022 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2022-11-21）回溯的最近公开指标：IF 8.263（2022），JCR 2022 Q1，中科院 2022 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2022-11-21）に最も近い公開指標：IF 8.263 (2022) · JCR 2022 Q1 · CAS 2022 Q1。
+  venue_url: https://www.sciencedirect.com/journal/applied-soft-computing
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.asoc.2022.109845
+      mode: search
+      copy_text: 10.1016/j.asoc.2022.109845
+    openalex:
+      url: https://openalex.org/W4309531266
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/147dd5265b987edd211e2f66cda192c6ee13d398
+      mode: direct
+      copy_text: ""
+  selected: true
+  public: true
+  citation_authors_html: K. Wang, Y. Wang, <strong>S. Tao</strong>, Z. Cai, Z. Lei, S. Gao
+  preview: /assets/img/publication_preview/spherical-search.jpg
+- id: hierarchical-manta-ray-foraging-optimization-with-weighted-fitness-distance-balance-selection
+  title: Hierarchical Manta Ray Foraging Optimization with Weighted Fitness-Distance Balance Selection
+  authors:
+    - Zhentao Tang
+    - Kaiyu Wang
+    - Sichen Tao
+    - Yuki Todo
+    - Rong‐Long Wang
+    - Shangce Gao
+  author_line: Zhentao Tang, Kaiyu Wang, Sichen Tao, Yuki Todo, Rong‐Long Wang, Shangce Gao
+  year: 2023
+  date: "2023"
+  type: journal
+  status: published
+  venue: International Journal of Computational Intelligence Systems
+  venue_line: International Journal of Computational Intelligence Systems
+  volume: "16"
+  issue: "1"
+  pages: ""
+  publisher: Springer Nature
+  citations: 17
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1007%2Fs44196-023-00289-4
+  url: https://link.springer.com/article/10.1007/s44196-023-00289-4
+  doi: 10.1007/s44196-023-00289-4
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://link.springer.com/article/10.1007/s44196-023-00289-4
+  verification:
+    doi: 10.1007/s44196-023-00289-4
+    url: https://doi.org/10.1007/s44196-023-00289-4
+    publisher_url: https://link.springer.com/article/10.1007/s44196-023-00289-4
+    accepted_date: "2023-06-17"
+    published_date: "2023-07-15"
+    crossref_created_date: "2023-07-15"
+    metric_anchor_date: "2023-06-17"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 1.736
+    if_year: 2022
+    jcr_quartile: Q3
+    jcr_year: 2022
+    cas_quartile: Q4
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2022&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2022
+    if_search_copy_text: International Journal of Computational Intelligence Systems
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_source_url: https://www.fabiao.com.cn/sci/18756891/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: International Journal of Computational Intelligence Systems
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2022&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2022
+    jcr_search_copy_text: International Journal of Computational Intelligence Systems
+    jcr_public_source_url: https://jrank.net/journals/int-j-comput-int-sys/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    jcr_supporting_source_url: https://jrank.net/journals/int-j-comput-int-sys/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2022&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2022
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2023-06-17. Closest public metrics at acceptance: IF 1.736 (2022) · JCR 2022 Q3 · CAS 2022 Q4."
+      zh: 接收日期：2023-06-17。按接收时点回溯的最近公开指标：IF 1.736（2022），JCR 2022 Q3，中科院 2022 Q4。
+      ja: 採択日：2023-06-17。採択時点に最も近い公開指標：IF 1.736 (2022) · JCR 2022 Q3 · CAS 2022 Q4。
+  venue_url: https://www.tandfonline.com/journals/tcis20
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1007%2Fs44196-023-00289-4
+      mode: search
+      copy_text: 10.1007/s44196-023-00289-4
+    openalex:
+      url: https://openalex.org/W4384406773
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/ec716b6b764aab2fcd2319b9710cb35b8e8d0fd1
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Z. Tang, K. Wang, <strong>S. Tao</strong>, Y. Todo, R. Wang, S. Gao
+- id: dynamic-complex-network-exploring-differential-evolution-algorithms-from-another-perspective
+  title: Dynamic Complex Network, Exploring Differential Evolution Algorithms from Another Perspective
+  authors:
+    - Yifei Yang
+    - Sichen Tao
+    - Haichuan Yang
+    - Zijing Yuan
+    - Zheng Tang
+  author_line: Yifei Yang, Sichen Tao, Haichuan Yang, Zijing Yuan, Zheng Tang
+  year: 2023
+  date: "2023"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "11"
+  issue: "13"
+  pages: 2979-2979
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 6
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath11132979
+  url: https://www.mdpi.com/2227-7390/11/13/2979
+  doi: 10.3390/math11132979
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/11/13/2979
+  verification:
+    doi: 10.3390/math11132979
+    url: https://doi.org/10.3390/math11132979
+    publisher_url: https://www.mdpi.com/2227-7390/11/13/2979
+    accepted_date: "2023-06-30"
+    published_date: "2023-07-04"
+    crossref_created_date: "2023-07-05"
+    metric_anchor_date: "2023-06-30"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.4
+    if_year: 2023
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2023
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2023-06-30. Closest public metrics at acceptance: IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2023-06-30。按接收时点回溯的最近公开指标：IF 2.4（2023），JCR 2023 Q1，中科院 2022 Q3。
+      ja: 採択日：2023-06-30。採択時点に最も近い公開指標：IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath11132979
+      mode: search
+      copy_text: 10.3390/math11132979
+    openalex:
+      url: https://openalex.org/W4383262848
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/4b0af70854e6ddfe671edac7a93e0db029d91950
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Y. Yang, <strong>S. Tao</strong>, H. Yang, Z. Yuan, Z. Tang
+- id: an-adaptive-dimension-weighting-spherical-evolution-to-solve-continuous-optimization-problems
+  title: An Adaptive Dimension Weighting Spherical Evolution to Solve Continuous Optimization Problems
+  authors:
+    - Yifei Yang
+    - Sichen Tao
+    - Shibo Dong
+    - Masahiro Nomura
+    - Zheng Tang
+  author_line: Yifei Yang, Sichen Tao, Shibo Dong, Masahiro Nomura, Zheng Tang
+  year: 2023
+  date: "2023"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "11"
+  issue: "17"
+  pages: 3733-3733
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 1
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath11173733
+  url: https://www.mdpi.com/2227-7390/11/17/3733
+  doi: 10.3390/math11173733
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/11/17/3733
+  verification:
+    doi: 10.3390/math11173733
+    url: https://doi.org/10.3390/math11173733
+    publisher_url: https://www.mdpi.com/2227-7390/11/17/3733
+    accepted_date: ""
+    published_date: "2023-08-30"
+    crossref_created_date: "2023-08-30"
+    metric_anchor_date: "2023-08-30"
+    metric_anchor_kind: crossref_created_date
+    verification_status: published_date_only_verified
+    if_value: 2.4
+    if_year: 2023
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2023
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2023-08-30): IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2023-08-30）回溯的最近公开指标：IF 2.4（2023），JCR 2023 Q1，中科院 2022 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2023-08-30）に最も近い公開指標：IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath11173733
+      mode: search
+      copy_text: 10.3390/math11173733
+    openalex:
+      url: https://openalex.org/W4386303401
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/6190846d35395267945003e4bbf303193ae891fb
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Y. Yang, <strong>S. Tao</strong>, S. Dong, M. Nomura, Z. Tang
+- id: a-novel-artificial-visual-system-for-motion-direction-detection-with-completely-modeled-retinal-direction-selective-pathway
+  title: A Novel Artificial Visual System for Motion Direction Detection with Completely Modeled Retinal Direction-Selective Pathway
+  authors:
+    - Sichen Tao
+    - Xiliang Zhang
+    - Yuxiao Hua
+    - Zheng Tang
+    - Yuki Todo
+  author_line: Sichen Tao, Xiliang Zhang, Yuxiao Hua, Zheng Tang, Yuki Todo
+  year: 2023
+  date: "2023"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "11"
+  issue: "17"
+  pages: 3732-3732
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 7
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath11173732
+  url: https://www.mdpi.com/2227-7390/11/17/3732
+  doi: 10.3390/math11173732
+  tags:
+    - Visual Systems
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/11/17/3732
+  verification:
+    doi: 10.3390/math11173732
+    url: https://doi.org/10.3390/math11173732
+    publisher_url: https://www.mdpi.com/2227-7390/11/17/3732
+    accepted_date: "2023-08-28"
+    published_date: "2023-08-30"
+    crossref_created_date: "2023-08-30"
+    metric_anchor_date: "2023-08-28"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.4
+    if_year: 2023
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2023
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2023-08-28. Closest public metrics at acceptance: IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2023-08-28。按接收时点回溯的最近公开指标：IF 2.4（2023），JCR 2023 Q1，中科院 2022 Q3。
+      ja: 採択日：2023-08-28。採択時点に最も近い公開指標：IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath11173732
+      mode: search
+      copy_text: 10.3390/math11173732
+    openalex:
+      url: https://openalex.org/W4386303945
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/8c142174f98e40d752dba1756807ae60aa74b7aa
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, X. Zhang, Y. Hua, Z. Tang, Y. Todo
+- id: spatial-information-sampling-another-feedback-mechanism-of-realising-adaptive-parameter-control-in-meta-heuristic-algorithms
+  title: "Spatial information sampling: another feedback mechanism of realising adaptive parameter control in meta-heuristic algorithms"
+  authors:
+    - Haichuan Yang
+    - Sichen Tao
+    - Zhiming Zhang
+    - Zonghui Cai
+    - Shangce Gao
+  author_line: Haichuan Yang, Sichen Tao, Zhiming Zhang, Zonghui Cai, Shangce Gao
+  year: 2022
+  date: "2022"
+  type: journal
+  status: published
+  venue: International Journal of Bio-Inspired Computation
+  venue_line: International Journal of Bio-Inspired Computation
+  volume: "19"
+  issue: "1"
+  pages: 48-48
+  publisher: Inderscience Publishers
+  citations: 21
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1504%2FIJBIC.2022.120751
+  url: https://doi.org/10.1504/IJBIC.2022.120751
+  doi: 10.1504/IJBIC.2022.120751
+  tags:
+    - Computational Intelligence
+  metadata_source: OpenAlex
+  publisher_url: https://doi.org/10.1504/IJBIC.2022.120751
+  verification:
+    doi: 10.1504/IJBIC.2022.120751
+    url: https://doi.org/10.1504/IJBIC.2022.120751
+    publisher_url: https://doi.org/10.1504/IJBIC.2022.120751
+    accepted_date: ""
+    published_date: "2022-01-01"
+    crossref_created_date: "2022-02-08"
+    metric_anchor_date: "2022-02-08"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 3.977
+    if_year: 2021
+    jcr_quartile: Q2
+    jcr_year: 2021
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20BIO-INSPIR%20COM&year=2021&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2021
+    if_search_copy_text: International Journal of Bio-Inspired Computation
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5dZ1kr
+    cas_source_url: https://www.fabiao.com.cn/sci/17580366/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5dZ1kr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: International Journal of Bio-Inspired Computation
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20BIO-INSPIR%20COM&year=2021&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2021
+    jcr_search_copy_text: International Journal of Bio-Inspired Computation
+    jcr_public_source_url: https://jrank.net/journals/int-j-bio_inspir-com/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5dZ1kr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5dZ1kr
+    jcr_supporting_source_url: https://jrank.net/journals/int-j-bio_inspir-com/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20BIO-INSPIR%20COM&year=2021&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2021
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2022-02-08): IF 3.977 (2021) · JCR 2021 Q2 · CAS 2022 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2022-02-08）回溯的最近公开指标：IF 3.977（2021），JCR 2021 Q2，中科院 2022 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2022-02-08）に最も近い公開指標：IF 3.977 (2021) · JCR 2021 Q2 · CAS 2022 Q3。
+  venue_url: https://www.inderscience.com/ijbic
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1504%2FIJBIC.2022.120751
+      mode: search
+      copy_text: 10.1504/IJBIC.2022.120751
+    openalex:
+      url: https://openalex.org/W4225792038
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=10.1504%2FIJBIC.2022.120751
+      mode: search
+      copy_text: 10.1504/IJBIC.2022.120751
+  selected: false
+  public: true
+  citation_authors_html: H. Yang, <strong>S. Tao</strong>, Z. Zhang, Z. Cai, S. Gao
+- id: paidde-a-permutation-archive-information-directed-differential-evolution-algorithm
+  title: "PAIDDE: A Permutation-Archive Information Directed Differential Evolution Algorithm"
+  authors:
+    - Xiaosi Li
+    - Kaiyu Wang
+    - Haichuan Yang
+    - Sichen Tao
+    - Shuai Feng
+    - Shangce Gao
+  author_line: Xiaosi Li, Kaiyu Wang, Haichuan Yang, Sichen Tao, Shuai Feng, Shangce Gao
+  year: 2022
+  date: "2022"
+  type: journal
+  status: published
+  venue: IEEE Access
+  venue_line: IEEE Access
+  volume: "10"
+  issue: ""
+  pages: 50384-50402
+  publisher: Institute of Electrical and Electronics Engineers
+  citations: 17
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FACCESS.2022.3173622
+  url: https://doi.org/10.1109/ACCESS.2022.3173622
+  doi: 10.1109/ACCESS.2022.3173622
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://doi.org/10.1109/ACCESS.2022.3173622
+  verification:
+    doi: 10.1109/ACCESS.2022.3173622
+    url: https://doi.org/10.1109/ACCESS.2022.3173622
+    publisher_url: https://doi.org/10.1109/ACCESS.2022.3173622
+    accepted_date: ""
+    published_date: "2022-01-01"
+    crossref_created_date: "2022-05-09"
+    metric_anchor_date: "2022-05-09"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 3.367
+    if_year: 2021
+    jcr_quartile: Q2
+    jcr_year: 2021
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20ACCESS&year=2021&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2021
+    if_search_copy_text: IEEE Access
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=r7mlY5
+    cas_source_url: https://www.fabiao.com.cn/sci/21693536/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=r7mlY5
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: IEEE Access
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20ACCESS&year=2021&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2021
+    jcr_search_copy_text: IEEE Access
+    jcr_public_source_url: https://jrank.net/journals/ieee-access/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=r7mlY5
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=r7mlY5
+    jcr_supporting_source_url: https://jrank.net/journals/ieee-access/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20ACCESS&year=2021&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2021
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2022-05-09): IF 3.367 (2021) · JCR 2021 Q2 · CAS 2022 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2022-05-09）回溯的最近公开指标：IF 3.367（2021），JCR 2021 Q2，中科院 2022 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2022-05-09）に最も近い公開指標：IF 3.367 (2021) · JCR 2021 Q2 · CAS 2022 Q3。
+  venue_url: https://ieeeaccess.ieee.org/
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FACCESS.2022.3173622
+      mode: search
+      copy_text: 10.1109/ACCESS.2022.3173622
+    openalex:
+      url: https://openalex.org/W4285133160
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/4d0940fd92890e2e91c81f10f73b38f932c8858b
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: X. Li, K. Wang, H. Yang, <strong>S. Tao</strong>, S. Feng, S. Gao
+- id: hierarchical-water-wave-optimization
+  title: Hierarchical Water Wave Optimization
+  authors:
+    - Shibo Dong
+    - Haichuan Yang
+    - Haotian Li
+    - Baohang Zhang
+    - Sichen Tao
+    - Shangce Gao
+  author_line: Shibo Dong, Haichuan Yang, Haotian Li, Baohang Zhang, Sichen Tao, Shangce Gao
+  year: 2022
+  date: "2022"
+  type: conference
+  status: published
+  venue: ICNSC 2022
+  venue_line: 2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)
+  volume: ""
+  issue: ""
+  pages: 1-5
+  publisher: ""
+  citations: 3
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FICNSC55942.2022.10004174
+  url: https://doi.org/10.1109/ICNSC55942.2022.10004174
+  doi: 10.1109/ICNSC55942.2022.10004174
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  venue_url: https://easychair.org/cfp/2022icnsc
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FICNSC55942.2022.10004174
+      mode: search
+      copy_text: 10.1109/ICNSC55942.2022.10004174
+    openalex:
+      url: https://openalex.org/W4315777709
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/7c5f931834dcbbb94d441e95c9bf69f8b1be6c8c
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: S. Dong, H. Yang, H. Li, B. Zhang, <strong>S. Tao</strong>, S. Gao
+- id: chaotic-wind-driven-optimization-with-fitness-distance-balance-strategy
+  title: Chaotic Wind Driven Optimization with Fitness Distance Balance Strategy
+  authors:
+    - Zhentao Tang
+    - Sichen Tao
+    - Kaiyu Wang
+    - Bo Lü
+    - Yuki Todo
+    - Shangce Gao
+  author_line: Zhentao Tang, Sichen Tao, Kaiyu Wang, Bo Lü, Yuki Todo, Shangce Gao
+  year: 2022
+  date: "2022"
+  type: journal
+  status: published
+  venue: International Journal of Computational Intelligence Systems
+  venue_line: International Journal of Computational Intelligence Systems
+  volume: "15"
+  issue: "1"
+  pages: ""
+  publisher: Springer Nature
+  citations: 19
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1007%2Fs44196-022-00099-0
+  url: https://link.springer.com/article/10.1007/s44196-022-00099-0
+  doi: 10.1007/s44196-022-00099-0
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://link.springer.com/article/10.1007/s44196-022-00099-0
+  verification:
+    doi: 10.1007/s44196-022-00099-0
+    url: https://doi.org/10.1007/s44196-022-00099-0
+    publisher_url: https://link.springer.com/article/10.1007/s44196-022-00099-0
+    accepted_date: "2022-06-20"
+    published_date: "2022-07-19"
+    crossref_created_date: "2022-07-19"
+    metric_anchor_date: "2022-06-20"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.153
+    if_year: 2021
+    jcr_quartile: Q3
+    jcr_year: 2021
+    cas_quartile: Q4
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2021&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2021
+    if_search_copy_text: International Journal of Computational Intelligence Systems
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_source_url: https://www.fabiao.com.cn/sci/18756891/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: International Journal of Computational Intelligence Systems
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2021&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2021
+    jcr_search_copy_text: International Journal of Computational Intelligence Systems
+    jcr_public_source_url: https://jrank.net/journals/int-j-comput-int-sys/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    jcr_supporting_source_url: https://jrank.net/journals/int-j-comput-int-sys/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2021&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2021
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2022-06-20. Closest public metrics at acceptance: IF 2.153 (2021) · JCR 2021 Q3 · CAS 2022 Q4."
+      zh: 接收日期：2022-06-20。按接收时点回溯的最近公开指标：IF 2.153（2021），JCR 2021 Q3，中科院 2022 Q4。
+      ja: 採択日：2022-06-20。採択時点に最も近い公開指標：IF 2.153 (2021) · JCR 2021 Q3 · CAS 2022 Q4。
+  venue_url: https://www.tandfonline.com/journals/tcis20
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1007%2Fs44196-022-00099-0
+      mode: search
+      copy_text: 10.1007/s44196-022-00099-0
+    openalex:
+      url: https://openalex.org/W4285795717
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/59198dbae6dd4127b100e47c06382637f496eb53
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Z. Tang, <strong>S. Tao</strong>, K. Wang, B. Lü, Y. Todo, S. Gao
+- id: an-optimal-parent-crossover-based-differential-evolution
+  title: An Optimal-Parent-Crossover based Differential Evolution
+  authors:
+    - Ruihan Zhao
+    - Sichen Tao
+    - Pengzhong Li
+  author_line: Ruihan Zhao, Sichen Tao, Pengzhong Li
+  year: 2022
+  date: "2022"
+  type: conference
+  status: published
+  venue: ISCID 2022
+  venue_line: ""
+  volume: "11"
+  issue: ""
+  pages: 276-281
+  publisher: ""
+  citations: 2
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FISCID56505.2022.00068
+  url: https://doi.org/10.1109/ISCID56505.2022.00068
+  doi: 10.1109/ISCID56505.2022.00068
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  venue_url: https://www.aconf.org/conf_185668.2022_15th_International_Symposium_on_Computational_Intelligence_and_Design_.html
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FISCID56505.2022.00068
+      mode: search
+      copy_text: 10.1109/ISCID56505.2022.00068
+    openalex:
+      url: https://openalex.org/W4320028318
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/72b7ad29ab694536eaab7f5c1ffa7f869f72812d
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+- id: an-immigration-strategy-based-spherical-search-algorithm
+  title: An Immigration Strategy-based Spherical Search Algorithm
+  authors:
+    - Qingya Sui
+    - Sichen Tao
+    - Lin Zhong
+    - Haichuan Yang
+    - Zhenyu Lei
+    - Shangce Gao
+  author_line: Qingya Sui, Sichen Tao, Lin Zhong, Haichuan Yang, Zhenyu Lei, Shangce Gao
+  year: 2022
+  date: "2022"
+  type: conference
+  status: published
+  venue: ICNSC 2022
+  venue_line: 2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)
+  volume: ""
+  issue: ""
+  pages: 1-5
+  publisher: ""
+  citations: 1
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FICNSC55942.2022.10004149
+  url: https://doi.org/10.1109/ICNSC55942.2022.10004149
+  doi: 10.1109/ICNSC55942.2022.10004149
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  venue_url: https://easychair.org/cfp/2022icnsc
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FICNSC55942.2022.10004149
+      mode: search
+      copy_text: 10.1109/ICNSC55942.2022.10004149
+    openalex:
+      url: https://openalex.org/W4315783483
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/d468bc4b9870fcf2e98bfe0af37f65eefbec9cc6
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Q. Sui, <strong>S. Tao</strong>, L. Zhong, H. Yang, Z. Lei, S. Gao
+- id: a-population-resource-allocation-based-adaptive-spherical-search-algorithm
+  title: A Population Resource Allocation-based Adaptive Spherical Search Algorithm
+  authors:
+    - Lin Zhong
+    - Sichen Tao
+    - Qingya Sui
+    - Haichuan Yang
+    - Zhenyu Lei
+    - Shangce Gao
+  author_line: Lin Zhong, Sichen Tao, Qingya Sui, Haichuan Yang, Zhenyu Lei, Shangce Gao
+  year: 2022
+  date: "2022"
+  type: conference
+  status: published
+  venue: ICNSC 2022
+  venue_line: 2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)
+  volume: ""
+  issue: ""
+  pages: 1-4
+  publisher: ""
+  citations: 1
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FICNSC55942.2022.10004116
+  url: https://doi.org/10.1109/ICNSC55942.2022.10004116
+  doi: 10.1109/ICNSC55942.2022.10004116
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  venue_url: https://easychair.org/cfp/2022icnsc
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FICNSC55942.2022.10004116
+      mode: search
+      copy_text: 10.1109/ICNSC55942.2022.10004116
+    openalex:
+      url: https://openalex.org/W4315783544
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/a2f84a234cf2d97dc29b9e4016552d180251d3f0
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: L. Zhong, <strong>S. Tao</strong>, Q. Sui, H. Yang, Z. Lei, S. Gao
+- id: a-novel-bio-inspired-motion-direction-detection-mechanism-in-binary-and-grayscale-background
+  title: A Novel Bio-Inspired Motion Direction Detection Mechanism in Binary and Grayscale Background
+  authors:
+    - Yuxiao Hua
+    - Yuki Todo
+    - Zheng Tang
+    - Sichen Tao
+    - Bin Li
+    - Riku Inoue
+  author_line: Yuxiao Hua, Yuki Todo, Zheng Tang, Sichen Tao, Bin Li, Riku Inoue
+  year: 2022
+  date: "2022"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "10"
+  issue: "20"
+  pages: 3767-3767
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 2
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath10203767
+  url: https://www.mdpi.com/2227-7390/10/20/3767
+  doi: 10.3390/math10203767
+  tags:
+    - Visual Systems
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/10/20/3767
+  verification:
+    doi: 10.3390/math10203767
+    url: https://doi.org/10.3390/math10203767
+    publisher_url: https://www.mdpi.com/2227-7390/10/20/3767
+    accepted_date: ""
+    published_date: "2022-10-13"
+    crossref_created_date: "2022-10-13"
+    metric_anchor_date: "2022-10-13"
+    metric_anchor_kind: crossref_created_date
+    verification_status: published_date_only_verified
+    if_value: 2.592
+    if_year: 2022
+    jcr_quartile: Q1
+    jcr_year: 2022
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2022
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2022
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2022
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2022-10-13): IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2022-10-13）回溯的最近公开指标：IF 2.592（2022），JCR 2022 Q1，中科院 2022 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2022-10-13）に最も近い公開指標：IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath10203767
+      mode: search
+      copy_text: 10.3390/math10203767
+    openalex:
+      url: https://openalex.org/W4306152096
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/439448f74b4e69c60933b1c7f4719e1e43aa26e8
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Y. Hua, Y. Todo, Z. Tang, <strong>S. Tao</strong>, B. Li, R. Inoue
+- id: a-novel-artificial-visual-system-for-motion-direction-detection-in-grayscale-images
+  title: A Novel Artificial Visual System for Motion Direction Detection in Grayscale Images
+  authors:
+    - Sichen Tao
+    - Yuki Todo
+    - Zheng Tang
+    - Bin Li
+    - Zhiming Zhang
+    - Riku Inoue
+  author_line: Sichen Tao, Yuki Todo, Zheng Tang, Bin Li, Zhiming Zhang, Riku Inoue
+  year: 2022
+  date: "2022"
+  type: journal
+  status: published
+  venue: Mathematics
+  venue_line: Mathematics
+  volume: "10"
+  issue: "16"
+  pages: 2975-2975
+  publisher: Multidisciplinary Digital Publishing Institute
+  citations: 14
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath10162975
+  url: https://www.mdpi.com/2227-7390/10/16/2975
+  doi: 10.3390/math10162975
+  tags:
+    - Visual Systems
+  metadata_source: OpenAlex
+  publisher_url: https://www.mdpi.com/2227-7390/10/16/2975
+  verification:
+    doi: 10.3390/math10162975
+    url: https://doi.org/10.3390/math10162975
+    publisher_url: https://www.mdpi.com/2227-7390/10/16/2975
+    accepted_date: ""
+    published_date: "2022-08-17"
+    crossref_created_date: "2022-08-17"
+    metric_anchor_date: "2022-08-17"
+    metric_anchor_kind: crossref_created_date
+    verification_status: published_date_only_verified
+    if_value: 2.592
+    if_year: 2022
+    jcr_quartile: Q1
+    jcr_year: 2022
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2022
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2022
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2022
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2022-08-17): IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2022-08-17）回溯的最近公开指标：IF 2.592（2022），JCR 2022 Q1，中科院 2022 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2022-08-17）に最も近い公開指標：IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3。
+  venue_url: https://www.mdpi.com/journal/mathematics
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.3390%2Fmath10162975
+      mode: search
+      copy_text: 10.3390/math10162975
+    openalex:
+      url: https://openalex.org/W4292253326
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/9b965d7dadd49060bf78b8f18e5a36e7e708673c
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, Y. Todo, Z. Tang, B. Li, Z. Zhang, R. Inoue
+- id: fitness-distance-balance-with-functional-weights-a-new-selection-method-for-evolutionary-algorithms
+  title: "Fitness-Distance Balance with Functional Weights: A New Selection Method for Evolutionary Algorithms"
+  authors:
+    - Kaiyu Wang
+    - Sichen Tao
+    - Rong‐Long Wang
+    - Yuki Todo
+    - Shangce Gao
+  author_line: Kaiyu Wang, Sichen Tao, Rong‐Long Wang, Yuki Todo, Shangce Gao
+  year: 2021
+  date: "2021"
+  type: journal
+  status: published
+  venue: IEICE Transactions on Information and Systems
+  venue_line: IEICE Transactions on Information and Systems
+  volume: E104.D
+  issue: "10"
+  pages: 1789-1792
+  publisher: Institute of Electronics, Information and Communication Engineers
+  citations: 12
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1587%2Ftransinf.2021EDL8033
+  url: https://www.jstage.jst.go.jp/article/transinf/E104.D/10/E104.D_2021EDL8033/_article
+  doi: 10.1587/transinf.2021EDL8033
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://www.jstage.jst.go.jp/article/transinf/E104.D/10/E104.D_2021EDL8033/_article
+  verification:
+    doi: 10.1587/transinf.2021EDL8033
+    url: https://doi.org/10.1587/transinf.2021EDL8033
+    publisher_url: https://www.jstage.jst.go.jp/article/transinf/E104.D/10/E104.D_2021EDL8033/_article
+    accepted_date: ""
+    published_date: "2021-10-01"
+    crossref_created_date: "2021-09-30"
+    metric_anchor_date: "2021-09-30"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 0.5
+    if_year: 2021
+    jcr_quartile: Q4
+    jcr_year: 2021
+    cas_quartile: Q4
+    cas_year: 2021
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEICE%20T%20INF%20SYST&year=2021&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2021
+    if_search_copy_text: IEICE Transactions on Information and Systems
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5gNbGp
+    cas_source_url: https://www.fabiao.com.cn/sci/17451361/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5gNbGp
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: IEICE Transactions on Information and Systems
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEICE%20T%20INF%20SYST&year=2021&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2021
+    jcr_search_copy_text: IEICE Transactions on Information and Systems
+    jcr_public_source_url: https://www.fabiao.com.cn/sci/17451361/
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5gNbGp
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5gNbGp
+    jcr_supporting_source_url: https://www.fabiao.com.cn/sci/17451361/
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEICE%20T%20INF%20SYST&year=2021&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2021
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2021-09-30): IF 0.5 (2021) · JCR 2021 Q4 · CAS 2021 Q4."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2021-09-30）回溯的最近公开指标：IF 0.5（2021），JCR 2021 Q4，中科院 2021 Q4。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2021-09-30）に最も近い公開指標：IF 0.5 (2021) · JCR 2021 Q4 · CAS 2021 Q4。
+  venue_url: https://www.jstage.jst.go.jp/browse/transinf
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1587%2Ftransinf.2021EDL8033
+      mode: search
+      copy_text: 10.1587/transinf.2021EDL8033
+    openalex:
+      url: https://openalex.org/W3204868505
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/d25e017fa4d6c1a310d4a3bef07b973c47074877
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: K. Wang, <strong>S. Tao</strong>, R. Wang, Y. Todo, S. Gao
+- id: a-state-of-the-art-differential-evolution-algorithm-for-parameter-estimation-of-solar-photovoltaic-models
+  title: A state-of-the-art differential evolution algorithm for parameter estimation of solar photovoltaic models
+  authors:
+    - Shangce Gao
+    - Kaiyu Wang
+    - Sichen Tao
+    - Ting Jin
+    - Hongwei Dai
+    - Jiujun Cheng
+  author_line: Shangce Gao, Kaiyu Wang, Sichen Tao, Ting Jin, Hongwei Dai, Jiujun Cheng
+  year: 2021
+  date: "2021"
+  type: journal
+  status: published
+  venue: Energy Conversion and Management
+  venue_line: Energy Conversion and Management
+  volume: "230"
+  issue: ""
+  pages: 113784-113784
+  publisher: Elsevier BV
+  citations: 281
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.enconman.2020.113784
+  url: https://doi.org/10.1016/j.enconman.2020.113784
+  doi: 10.1016/j.enconman.2020.113784
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  publisher_url: https://doi.org/10.1016/j.enconman.2020.113784
+  verification:
+    doi: 10.1016/j.enconman.2020.113784
+    url: https://doi.org/10.1016/j.enconman.2020.113784
+    publisher_url: https://doi.org/10.1016/j.enconman.2020.113784
+    accepted_date: ""
+    published_date: "2021-02-01"
+    crossref_created_date: "2021-01-07"
+    metric_anchor_date: "2021-01-07"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 8.208
+    if_year: 2020
+    jcr_quartile: Q1
+    jcr_year: 2020
+    cas_quartile: Q1
+    cas_year: 2021
+    cas_top: true
+    cas_top_year: 2021
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ENERG%20CONVERS%20MANAGE&year=2020&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2020
+    if_search_copy_text: Energy Conversion and Management
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=pe962p
+    cas_source_url: https://www.fabiao.com.cn/sci/01968904/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=pe962p
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Energy Conversion and Management
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ENERG%20CONVERS%20MANAGE&year=2020&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2020
+    jcr_search_copy_text: Energy Conversion and Management
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/969/Energy_Conversion_and_Management
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=pe962p
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=pe962p
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/969/Energy_Conversion_and_Management
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ENERG%20CONVERS%20MANAGE&year=2020&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2020
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2021-01-07): IF 8.208 (2020) · JCR 2020 Q1 · CAS 2021 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2021-01-07）回溯的最近公开指标：IF 8.208（2020），JCR 2020 Q1，中科院 2021 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2021-01-07）に最も近い公開指標：IF 8.208 (2020) · JCR 2020 Q1 · CAS 2021 Q1。
+  venue_url: https://www.sciencedirect.com/journal/energy-conversion-and-management
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.enconman.2020.113784
+      mode: search
+      copy_text: 10.1016/j.enconman.2020.113784
+    openalex:
+      url: https://openalex.org/W3120057316
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/130bf5eaae44ab051739942e83d01c00338568fc
+      mode: direct
+      copy_text: ""
+  selected: true
+  public: true
+  citation_authors_html: S. Gao, K. Wang, <strong>S. Tao</strong>, T. Jin, H. Dai, J. Cheng
+  preview: /assets/img/publication_preview/pv-parameter-estimation.jpg
+- id: a-motion-direction-detective-mechanism-for-greyscale-images
+  title: A Motion Direction Detective Mechanism for Greyscale Images
+  authors:
+    - Sichen Tao
+    - Riku Inoue
+    - Yuki Todo
+    - Zheng Tang
+  author_line: Sichen Tao, Riku Inoue, Yuki Todo, Zheng Tang
+  year: 2021
+  date: "2021"
+  type: conference
+  status: published
+  venue: SPML 2021
+  venue_line: ""
+  volume: ""
+  issue: ""
+  pages: 18-25
+  publisher: ""
+  citations: 0
+  author_role: corresponding_author
+  role_note: Corresponding author and first author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3483207.3483211
+  url: https://doi.org/10.1145/3483207.3483211
+  doi: 10.1145/3483207.3483211
+  tags:
+    - Visual Systems
+  metadata_source: OpenAlex
+  venue_url: https://www.spml.net/2021.html
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3483207.3483211
+      mode: search
+      copy_text: 10.1145/3483207.3483211
+    openalex:
+      url: https://openalex.org/W3208998959
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/1f41c008eb8ad81563ba219d480f0237bb173a90
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao*</strong>, R. Inoue, Y. Todo, Z. Tang
+- id: using-grey-wolf-hunting-mechanism-to-improve-spherical-search
+  title: Using Grey Wolf Hunting Mechanism to Improve Spherical Search
+  authors:
+    - Sicheng Liu
+    - Sichen Tao
+    - Haichuan Yang
+    - Lin Jiang
+    - Yuki Todo
+    - Shangce Gao
+  author_line: Sicheng Liu, Sichen Tao, Haichuan Yang, Lin Jiang, Yuki Todo, Shangce Gao
+  year: 2020
+  date: "2020"
+  type: conference
+  status: published
+  venue: ISCID 2020
+  venue_line: ""
+  volume: "2"
+  issue: ""
+  pages: 67-71
+  publisher: ""
+  citations: 2
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FISCID51228.2020.00022
+  url: https://doi.org/10.1109/ISCID51228.2020.00022
+  doi: 10.1109/ISCID51228.2020.00022
+  tags:
+    - Computational Intelligence
+  metadata_source: OpenAlex
+  venue_url: https://www.aconf.cn/conf_175479.html
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FISCID51228.2020.00022
+      mode: search
+      copy_text: 10.1109/ISCID51228.2020.00022
+    openalex:
+      url: https://openalex.org/W3126095438
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/59795d6ff72aba169d54ede319e7b964c21da622
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: S. Liu, <strong>S. Tao</strong>, H. Yang, L. Jiang, Y. Todo, S. Gao
+- id: a-novel-optimization-algorithm-inherited-from-gravitational-and-spherical-search-dynamics
+  title: A Novel Optimization Algorithm Inherited From Gravitational and Spherical Search Dynamics
+  authors:
+    - Zhentao Tang
+    - Kaiyu Wang
+    - Jiarui Shi
+    - Sichen Tao
+    - Yuki Todo
+    - Shangce Gao
+  author_line: Zhentao Tang, Kaiyu Wang, Jiarui Shi, Sichen Tao, Yuki Todo, Shangce Gao
+  year: 2020
+  date: "2020"
+  type: conference
+  status: published
+  venue: ISCID 2020
+  venue_line: ""
+  volume: "220"
+  issue: ""
+  pages: 91-96
+  publisher: ""
+  citations: 2
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FISCID51228.2020.00027
+  url: https://doi.org/10.1109/ISCID51228.2020.00027
+  doi: 10.1109/ISCID51228.2020.00027
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  venue_url: https://www.aconf.cn/conf_175479.html
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FISCID51228.2020.00027
+      mode: search
+      copy_text: 10.1109/ISCID51228.2020.00027
+    openalex:
+      url: https://openalex.org/W3122540550
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/af91037edaf6e13fd10c370e09cedd5c579541b0
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: Z. Tang, K. Wang, J. Shi, <strong>S. Tao</strong>, Y. Todo, S. Gao
+- id: a-hybrid-spherical-search-and-sine-cosine-algorithm
+  title: A Hybrid Spherical Search and Sine Cosine Algorithm
+  authors:
+    - Kaiyu Wang
+    - Sichen Tao
+    - Zhiming Zhang
+    - Yuki Todo
+    - Shangce Gao
+  author_line: Kaiyu Wang, Sichen Tao, Zhiming Zhang, Yuki Todo, Shangce Gao
+  year: 2020
+  date: "2020"
+  type: conference
+  status: published
+  venue: IHMSC 2020
+  venue_line: ""
+  volume: ""
+  issue: ""
+  pages: 205-210
+  publisher: ""
+  citations: 2
+  author_role: coauthor
+  role_note: ""
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FIHMSC49165.2020.00053
+  url: https://doi.org/10.1109/IHMSC49165.2020.00053
+  doi: 10.1109/IHMSC49165.2020.00053
+  tags:
+    - Computational Intelligence
+  metadata_source: OpenAlex
+  venue_url: https://ihmsc.zju.edu.cn/
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FIHMSC49165.2020.00053
+      mode: search
+      copy_text: 10.1109/IHMSC49165.2020.00053
+    openalex:
+      url: https://openalex.org/W3088120766
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/d521b3ed1180f73091b59a40fb1a6952cce14786
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: K. Wang, <strong>S. Tao</strong>, Z. Zhang, Y. Todo, S. Gao
+- id: a-hybrid-spherical-search-and-moth-flame-optimization-algorithm
+  title: A Hybrid Spherical Search and Moth-flame optimization Algorithm
+  authors:
+    - Sichen Tao
+    - Kaiyu Wang
+    - Zhiming Zhang
+    - Chiyan Lee
+    - Yuki Todo
+    - Shangce Gao
+  author_line: Sichen Tao, Kaiyu Wang, Zhiming Zhang, Chiyan Lee, Yuki Todo, Shangce Gao
+  year: 2020
+  date: "2020"
+  type: conference
+  status: published
+  venue: IHMSC 2020
+  venue_line: ""
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: ""
+  citations: 1
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FIHMSC49165.2020.00054
+  url: https://doi.org/10.1109/IHMSC49165.2020.00054
+  doi: 10.1109/IHMSC49165.2020.00054
+  tags:
+    - Optimization
+  metadata_source: OpenAlex
+  venue_url: https://ihmsc.zju.edu.cn/
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FIHMSC49165.2020.00054
+      mode: search
+      copy_text: 10.1109/IHMSC49165.2020.00054
+    openalex:
+      url: https://openalex.org/W3088600056
+      mode: direct
+      copy_text: ""
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/30b18b0bb5139738fe85934ad699967c1b60a080
+      mode: direct
+      copy_text: ""
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, K. Wang, Z. Zhang, C. Lee, Y. Todo, S. Gao

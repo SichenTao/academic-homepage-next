@@ -1,0 +1,345 @@
+:root {
+  --global-theme-color: #5b3fa3;
+  --global-hover-color: #472f84;
+  --global-code-bg-color: rgba(91, 63, 163, 0.06);
+  --sichen-soft-purple: rgba(91, 63, 163, 0.1);
+  --sichen-control-bg: #ffffff;
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #1c1c1d;
+  --global-text-color: #e8e8e8;
+  --global-theme-color: #bba8ee;
+  --global-hover-color: #d3c7f4;
+  --sichen-soft-purple: rgba(187, 168, 238, 0.14);
+  --sichen-control-bg: #242427;
+}
+
+body {
+  color: var(--global-text-color);
+  font-family:
+    Roboto,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  font-weight: 300;
+  line-height: 1.56;
+}
+
+h1,
+h2,
+h3,
+.post-title {
+  font-family: "Roboto Slab", Georgia, serif;
+  font-weight: 300;
+}
+
+.post-header {
+  margin-bottom: 1.25rem;
+}
+
+.post-title {
+  letter-spacing: -0.025em;
+}
+
+.post-title .font-weight-bold,
+.post-title .fw-bold {
+  font-weight: 700 !important;
+}
+
+.post .profile {
+  margin-right: 1.5rem;
+  width: min(30%, 250px);
+}
+
+.post .profile img {
+  aspect-ratio: 4 / 5;
+  border-radius: 5px;
+  box-shadow: 0 4px 16px rgba(21, 18, 29, 0.16);
+  object-fit: cover;
+  object-position: 50% 24%;
+  width: 100%;
+}
+
+.post article > .clearfix p {
+  margin-bottom: 1rem;
+}
+
+.post h2 {
+  font-size: 1.75rem;
+  margin-top: 1.55rem;
+}
+
+.table.table-sm th,
+.table.table-sm td {
+  line-height: 1.4;
+  padding-bottom: 0.38rem;
+  padding-top: 0.38rem;
+}
+
+.table.table-sm th {
+  color: var(--global-text-color);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.author-note {
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  margin-top: -0.35rem;
+}
+
+.selected-publications-list {
+  display: grid;
+  gap: 1.15rem;
+}
+
+.selected-publication {
+  align-items: start;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 210px minmax(0, 1fr);
+}
+
+.selected-publication img {
+  aspect-ratio: 3 / 2;
+  border-radius: 5px;
+  box-shadow: 0 3px 12px rgba(21, 18, 29, 0.13);
+  height: auto;
+  object-fit: cover;
+  width: 100%;
+}
+
+.selected-publication h3 {
+  font-family:
+    Roboto,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  font-size: 1.02rem;
+  font-weight: 500;
+  line-height: 1.35;
+  margin: 0 0 0.35rem;
+}
+
+.publication-authors,
+.publication-venue,
+.publication-actions {
+  font-size: 0.91rem;
+  line-height: 1.45;
+  margin: 0 0 0.28rem;
+}
+
+.publication-actions,
+.citation-actions {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.publication-actions a,
+.citation-actions a,
+.copy-citation {
+  background: transparent;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 3px;
+  color: var(--global-theme-color);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.78rem;
+  line-height: 1.2;
+  padding: 0.18rem 0.4rem;
+}
+
+.publication-actions a:hover,
+.citation-actions a:hover,
+.copy-citation:hover {
+  background: var(--sichen-soft-purple);
+  text-decoration: none;
+}
+
+.publication-search {
+  margin: 0.25rem 0 1.25rem;
+  max-width: 620px;
+}
+
+.publication-search label {
+  display: block;
+  font-size: 0.88rem;
+  font-weight: 500;
+  margin-bottom: 0.35rem;
+}
+
+.publication-search input {
+  background: var(--sichen-control-bg);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+  color: var(--global-text-color);
+  padding: 0.58rem 0.7rem;
+  width: 100%;
+}
+
+.publication-search input:focus-visible,
+.copy-citation:focus-visible {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 2px;
+}
+
+#publication-filter-status {
+  color: var(--global-text-color-light);
+  font-size: 0.82rem;
+  margin: 0.35rem 0 0;
+}
+
+.citation-year-group {
+  margin-top: 1.15rem;
+}
+
+.citation-year-group > h3 {
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 1.22rem;
+  margin-bottom: 0.65rem;
+  padding-bottom: 0.24rem;
+}
+
+.citation-list {
+  padding-left: 2.55rem;
+}
+
+.publication-entry {
+  line-height: 1.48;
+  margin-bottom: 0.83rem;
+  padding-left: 0.25rem;
+}
+
+.citation-title {
+  font-weight: 400;
+}
+
+.citation-actions {
+  margin-left: 0.28rem;
+}
+
+.publication-metrics {
+  color: var(--global-text-color-light);
+  display: inline-block;
+  font-size: 0.8rem;
+  margin-left: 0.3rem;
+}
+
+.publication-metrics summary {
+  color: var(--global-theme-color);
+  cursor: pointer;
+  display: inline;
+}
+
+.publication-metrics[open] {
+  display: block;
+  margin: 0.35rem 0 0;
+}
+
+.publication-metrics span {
+  margin-right: 0.7rem;
+}
+
+.direct-list-page section + section,
+.profile-links,
+.contact-primary + section {
+  margin-top: 1.6rem;
+}
+
+.direct-list-page h2,
+.contact-primary h2,
+.profile-links h2 {
+  font-size: 1.45rem;
+}
+
+.direct-list-page ul,
+.profile-links ul {
+  padding-left: 1.2rem;
+}
+
+.direct-list-page li,
+.profile-links li {
+  margin-bottom: 0.58rem;
+}
+
+.direct-list-page .year {
+  font-weight: 500;
+}
+
+.direct-list-page .title {
+  font-style: italic;
+}
+
+.award-detail {
+  color: var(--global-text-color-light);
+  display: block;
+  font-size: 0.9rem;
+  margin-top: 0.16rem;
+}
+
+.contact-primary dl {
+  display: grid;
+  gap: 0.35rem 1rem;
+  grid-template-columns: 110px minmax(0, 1fr);
+  margin: 0;
+}
+
+.contact-primary dt {
+  font-weight: 500;
+}
+
+.contact-primary dd {
+  margin: 0;
+}
+
+.profile-tag {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 3px;
+  color: var(--global-text-color-light);
+  display: inline-block;
+  font-size: 0.72rem;
+  margin-right: 0.3rem;
+  padding: 0.08rem 0.3rem;
+  text-transform: uppercase;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+@media (max-width: 575.98px) {
+  .post .profile {
+    float: none !important;
+    margin: 0 0 1rem;
+    width: 100%;
+  }
+
+  .post .profile img {
+    aspect-ratio: 4 / 3;
+    max-height: 300px;
+  }
+
+  .selected-publication {
+    grid-template-columns: 1fr;
+  }
+
+  .selected-publication img {
+    max-height: 245px;
+  }
+
+  .citation-list {
+    padding-left: 2rem;
+  }
+
+  .contact-primary dl {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-primary dd {
+    margin-bottom: 0.45rem;
+  }
+}

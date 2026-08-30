@@ -1,0 +1,1454 @@
+- id: relu-neural-networks-and-their-training
+  verification:
+    doi: 10.3390/math14010039
+    url: https://doi.org/10.3390/math14010039
+    publisher_url: https://www.mdpi.com/2227-7390/14/1/39
+    accepted_date: ""
+    published_date: "2025-12-22"
+    crossref_created_date: "2025-12-22"
+    metric_anchor_date: "2025-12-22"
+    metric_anchor_kind: crossref_created_date
+    verification_status: published_date_only_verified
+    if_value: 2.2
+    if_year: 2025
+    jcr_quartile: Q1
+    jcr_year: 2025
+    cas_quartile: Q4
+    cas_year: 2025
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile_fallback
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile_fallback
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-12-22): IF 2.2 (2025) · JCR 2025 Q1 · CAS 2025 Q4."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-12-22）回溯的最近公开指标：IF 2.2（2025），JCR 2025 Q1，中科院 2025 Q4。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-12-22）に最も近い公開指標：IF 2.2 (2025) · JCR 2025 Q1 · CAS 2025 Q4。
+- id: cityscalecast-spatiotemporal-gnn-for-city-scale-weather-prediction-with-graphcast-guided-parallel-modeling-and-multi-step-forecasting-in-sendai
+  verification: {}
+- id: adversarial-game-optimization-a-game-theoretic-metaheuristic-for-efficient-complex-optimization-and-engineering-applications
+  verification:
+    doi: 10.1016/j.ins.2025.123022
+    url: https://doi.org/10.1016/j.ins.2025.123022
+    publisher_url: https://doi.org/10.1016/j.ins.2025.123022
+    accepted_date: ""
+    published_date: "2026-04-01"
+    crossref_created_date: "2025-12-20"
+    metric_anchor_date: "2025-12-20"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 6.8
+    if_year: 2025
+    jcr_quartile: Q1
+    jcr_year: 2025
+    cas_quartile: Q1
+    cas_year: 2025
+    cas_top: true
+    cas_top_year: 2025
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile_fallback
+    if_source_official_year: 2024
+    if_search_copy_text: Information Sciences
+    if_public_source_url: https://www.sciencedirect.com/journal/information-sciences
+    cas_source_url: https://www.fabiao.com.cn/sci/00200255/
+    cas_public_source_url: https://www.fabiao.com.cn/sci/00200255/
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Information Sciences
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile_fallback
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Information Sciences
+    jcr_public_source_url: https://jrank.net/journals/inform-sciences/metrics
+    if_supporting_source_url: https://www.sciencedirect.com/journal/information-sciences
+    cas_supporting_source_url: https://www.fabiao.com.cn/sci/00200255/
+    jcr_supporting_source_url: https://jrank.net/journals/inform-sciences/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-12-20): IF 6.8 (2025) · JCR 2025 Q1 · CAS 2025 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-12-20）回溯的最近公开指标：IF 6.8（2025），JCR 2025 Q1，中科院 2025 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-12-20）に最も近い公開指標：IF 6.8 (2025) · JCR 2025 Q1 · CAS 2025 Q1。
+- id: unleashing-the-inherent-potential-of-differential-evolution-using-nonlinear-population-size-reduction-for-wind-farm-layout-optimization
+  verification: {}
+- id: safety-efficiency-integrated-assembly-the-next-stage-adaptive-task-allocation-and-planning-framework-for-human-robot-collaboration
+  verification:
+    doi: 10.1016/j.rcim.2024.102942
+    url: https://doi.org/10.1016/j.rcim.2024.102942
+    publisher_url: https://www.sciencedirect.com/science/article/pii/S0736584524002291
+    accepted_date: ""
+    published_date: "2025-08-01"
+    crossref_created_date: "2025-01-07"
+    metric_anchor_date: "2025-01-07"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 9.1
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q1
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ROBOT%20CIM-INT%20MANUF&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Robotics and Computer-Integrated Manufacturing
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=pPNZBD
+    cas_source_url: https://www.fabiao.com.cn/sci/07365845/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=pPNZBD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Robotics and Computer-Integrated Manufacturing
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ROBOT%20CIM-INT%20MANUF&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Robotics and Computer-Integrated Manufacturing
+    jcr_public_source_url: https://jrank.net/journals/robot-cim_int-manuf/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=pPNZBD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=pPNZBD
+    jcr_supporting_source_url: https://jrank.net/journals/robot-cim_int-manuf/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ROBOT%20CIM-INT%20MANUF&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-01-07): IF 9.1 (2024) · JCR 2023 Q1 · CAS 2022 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-01-07）回溯的最近公开指标：IF 9.1（2024），JCR 2023 Q1，中科院 2022 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-01-07）に最も近い公開指標：IF 9.1 (2024) · JCR 2023 Q1 · CAS 2022 Q1。
+- id: neurophysiological-knowledge-driven-artificial-visual-system-neural-network-for-explainable-motion-direction-detection
+  verification: {}
+- id: level-direction-guided-hierarchical-genetic-learning-particle-swarm-optimization-for-wind-farm-layout-optimization-considering-landowners-behavior
+  verification: {}
+- id: improved-spherical-search-algorithm-with-memory-based-dynamic-population-for-optimization
+  verification:
+    doi: 10.1007/s11227-025-07095-z
+    url: https://doi.org/10.1007/s11227-025-07095-z
+    publisher_url: https://link.springer.com/article/10.1007/s11227-025-07095-z
+    accepted_date: "2025-02-18"
+    published_date: "2025-04-10"
+    crossref_created_date: "2025-04-10"
+    metric_anchor_date: "2025-02-18"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.5
+    if_year: 2024
+    jcr_quartile: Q2
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=J%20SUPERCOMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: The Journal of Supercomputing
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=DaNoNr
+    cas_source_url: https://www.fabiao.com.cn/sci/09208542/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=DaNoNr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: The Journal of Supercomputing
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=J%20SUPERCOMPUT&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: The Journal of Supercomputing
+    jcr_public_source_url: https://jrank.net/journals/j-supercomput/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=DaNoNr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=DaNoNr
+    jcr_supporting_source_url: https://jrank.net/journals/j-supercomput/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=J%20SUPERCOMPUT&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2025-02-18. Closest public metrics at acceptance: IF 2.5 (2024) · JCR 2023 Q2 · CAS 2022 Q3."
+      zh: 接收日期：2025-02-18。按接收时点回溯的最近公开指标：IF 2.5（2024），JCR 2023 Q2，中科院 2022 Q3。
+      ja: 採択日：2025-02-18。採択時点に最も近い公開指標：IF 2.5 (2024) · JCR 2023 Q2 · CAS 2022 Q3。
+- id: human-robot-collaborative-resource-and-task-planning-for-assembly-systems-with-self-learning-multi-objective-evolutionary-optimizer
+  verification: {}
+- id: human-centric-assembly-planning-framework-for-human-robot-collaborative-systems-with-efficient-reinforcement-self-learning-multi-objective-evolutionary-optimizer
+  verification:
+    doi: 10.1016/j.aei.2025.103508
+    url: https://doi.org/10.1016/j.aei.2025.103508
+    publisher_url: https://doi.org/10.1016/j.aei.2025.103508
+    accepted_date: ""
+    published_date: "2025-09-01"
+    crossref_created_date: "2025-06-17"
+    metric_anchor_date: "2025-06-17"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 8.0
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q1
+    cas_year: 2025
+    cas_top: true
+    cas_top_year: 2025
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ADV%20ENG%20INFORM&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Advanced Engineering Informatics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=BDagop
+    cas_source_url: https://www.fabiao.com.cn/sci/14740346/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=BDagop
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Advanced Engineering Informatics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ADV%20ENG%20INFORM&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Advanced Engineering Informatics
+    jcr_public_source_url: https://jrank.net/journals/adv-eng-inform/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=BDagop
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=BDagop
+    jcr_supporting_source_url: https://jrank.net/journals/adv-eng-inform/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ADV%20ENG%20INFORM&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-06-17): IF 8 (2024) · JCR 2023 Q1 · CAS 2025 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-06-17）回溯的最近公开指标：IF 8（2024），JCR 2023 Q1，中科院 2025 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-06-17）に最も近い公開指標：IF 8 (2024) · JCR 2023 Q1 · CAS 2025 Q1。
+- id: gpu-cuda-accelerated-gradient-growth-optimizer-for-efficient-complex-numerical-global-optimization
+  verification:
+    doi: 10.1016/j.parco.2025.103160
+    url: https://doi.org/10.1016/j.parco.2025.103160
+    publisher_url: https://doi.org/10.1016/j.parco.2025.103160
+    accepted_date: ""
+    published_date: "2025-11-01"
+    crossref_created_date: "2025-10-10"
+    metric_anchor_date: "2025-10-10"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 2.1
+    if_year: 2025
+    jcr_quartile: Q2
+    jcr_year: 2025
+    cas_quartile: Q3
+    cas_year: 2025
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=PARALLEL%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile_fallback
+    if_source_official_year: 2024
+    if_search_copy_text: Parallel Computing
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=52aKYp
+    cas_source_url: https://www.fabiao.com.cn/sci/01678191/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=52aKYp
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Parallel Computing
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=PARALLEL%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile_fallback
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Parallel Computing
+    jcr_public_source_url: https://jrank.net/journals/parallel-comput/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=52aKYp
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=52aKYp
+    jcr_supporting_source_url: https://jrank.net/journals/parallel-comput/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=PARALLEL%20COMPUT&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-10-10): IF 2.1 (2025) · JCR 2025 Q2 · CAS 2025 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-10-10）回溯的最近公开指标：IF 2.1（2025），JCR 2025 Q2，中科院 2025 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-10-10）に最も近い公開指標：IF 2.1 (2025) · JCR 2025 Q2 · CAS 2025 Q3。
+- id: enhancing-convolutional-neural-network-robustness-against-image-noise-via-an-artificial-visual-system
+  verification:
+    doi: 10.3390/math13010142
+    url: https://doi.org/10.3390/math13010142
+    publisher_url: https://www.mdpi.com/2227-7390/13/1/142
+    accepted_date: "2024-12-30"
+    published_date: "2025-01-02"
+    crossref_created_date: "2025-01-02"
+    metric_anchor_date: "2024-12-30"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.3
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2024
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2024-12-30. Closest public metrics at acceptance: IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2024-12-30。按接收时点回溯的最近公开指标：IF 2.3（2024），JCR 2024 Q1，中科院 2022 Q3。
+      ja: 採択日：2024-12-30。採択時点に最も近い公開指標：IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3。
+- id: an-artificial-visual-system-constructed-by-fully-modeled-retinal-direction-selective-networks-on-detecting-motion-direction-in-color-images
+  verification: {}
+- id: ai-powered-model-for-predicting-mortality-risk-in-va-ecmo-patients-a-multicenter-cohort-study
+  verification:
+    doi: 10.1038/s41598-025-94734-3
+    url: https://doi.org/10.1038/s41598-025-94734-3
+    publisher_url: https://www.nature.com/articles/s41598-025-94734-3
+    accepted_date: "2025-03-17"
+    published_date: "2025-03-26"
+    crossref_created_date: "2025-03-26"
+    metric_anchor_date: "2025-03-17"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 3.8
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q2
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SCI%20REP-UK&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Scientific Reports
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=rAXQeD
+    cas_source_url: https://www.fabiao.com.cn/sci/20452322/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=rAXQeD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Scientific Reports
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SCI%20REP-UK&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Scientific Reports
+    jcr_public_source_url: https://jrank.net/journals/sci-rep_uk/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAXQeD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAXQeD
+    jcr_supporting_source_url: https://jrank.net/journals/sci-rep_uk/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SCI%20REP-UK&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2025-03-17. Closest public metrics at acceptance: IF 3.8 (2024) · JCR 2023 Q1 · CAS 2022 Q2."
+      zh: 接收日期：2025-03-17。按接收时点回溯的最近公开指标：IF 3.8（2024），JCR 2023 Q1，中科院 2022 Q2。
+      ja: 採択日：2025-03-17。採択時点に最も近い公開指標：IF 3.8 (2024) · JCR 2023 Q1 · CAS 2022 Q2。
+- id: adaptive-product-family-formation-a-medoid-based-fuzzy-clustering-method-for-mixed-products-assembly-in-the-shared-human-robot-collaborative-system
+  verification: {}
+- id: a-state-of-the-art-fractional-order-driven-differential-evolution-for-wind-farm-layout-optimization
+  verification:
+    doi: 10.3390/math13020282
+    url: https://doi.org/10.3390/math13020282
+    publisher_url: https://www.mdpi.com/2227-7390/13/2/282
+    accepted_date: "2025-01-14"
+    published_date: "2025-01-16"
+    crossref_created_date: "2025-01-16"
+    metric_anchor_date: "2025-01-14"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.3
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2024
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2025-01-14. Closest public metrics at acceptance: IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2025-01-14。按接收时点回溯的最近公开指标：IF 2.3（2024），JCR 2024 Q1，中科院 2022 Q3。
+      ja: 採択日：2025-01-14。採択時点に最も近い公開指標：IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3。
+- id: a-reinforcement-learning-assisted-fractional-order-differential-evolution-for-solving-wind-farm-layout-optimization-problems
+  verification:
+    doi: 10.3390/math13182935
+    url: https://doi.org/10.3390/math13182935
+    publisher_url: https://www.mdpi.com/2227-7390/13/18/2935
+    accepted_date: "2025-09-04"
+    published_date: "2025-09-10"
+    crossref_created_date: "2025-09-10"
+    metric_anchor_date: "2025-09-04"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.2
+    if_year: 2025
+    jcr_quartile: Q1
+    jcr_year: 2025
+    cas_quartile: Q4
+    cas_year: 2025
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile_fallback
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile_fallback
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2025-09-04. Closest public metrics at acceptance: IF 2.2 (2025) · JCR 2025 Q1 · CAS 2025 Q4."
+      zh: 接收日期：2025-09-04。按接收时点回溯的最近公开指标：IF 2.2（2025），JCR 2025 Q1，中科院 2025 Q4。
+      ja: 採択日：2025-09-04。採択時点に最も近い公開指標：IF 2.2 (2025) · JCR 2025 Q1 · CAS 2025 Q4。
+- id: a-novel-detection-and-replacement-based-order-operator-for-differential-evolution-in-solving-complex-bound-constrained-optimization-problems
+  verification:
+    doi: 10.3390/math13091389
+    url: https://doi.org/10.3390/math13091389
+    publisher_url: https://www.mdpi.com/2227-7390/13/9/1389
+    accepted_date: ""
+    published_date: "2025-04-24"
+    crossref_created_date: "2025-04-24"
+    metric_anchor_date: "2025-04-24"
+    metric_anchor_kind: crossref_created_date
+    verification_status: published_date_only_verified
+    if_value: 2.3
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2024
+    cas_quartile: Q4
+    cas_year: 2025
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2025-04-24): IF 2.3 (2024) · JCR 2024 Q1 · CAS 2025 Q4."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-04-24）回溯的最近公开指标：IF 2.3（2024），JCR 2024 Q1，中科院 2025 Q4。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-04-24）に最も近い公開指標：IF 2.3 (2024) · JCR 2024 Q1 · CAS 2025 Q4。
+- id: a-biologically-inspired-model-for-detecting-object-motion-direction-in-stereoscopic-vision
+  verification:
+    doi: 10.3390/sym17020162
+    url: https://doi.org/10.3390/sym17020162
+    publisher_url: https://www.mdpi.com/2073-8994/17/2/162
+    accepted_date: "2025-01-18"
+    published_date: "2025-01-22"
+    crossref_created_date: "2025-01-22"
+    metric_anchor_date: "2025-01-18"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.2
+    if_year: 2024
+    jcr_quartile: Q2
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Symmetry
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_source_url: https://www.fabiao.com.cn/sci/20738994/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Symmetry
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Symmetry
+    jcr_public_source_url: https://jrank.net/journals/symmetry_basel/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    jcr_supporting_source_url: https://jrank.net/journals/symmetry_basel/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2025-01-18. Closest public metrics at acceptance: IF 2.2 (2024) · JCR 2023 Q2 · CAS 2022 Q3."
+      zh: 接收日期：2025-01-18。按接收时点回溯的最近公开指标：IF 2.2（2024），JCR 2023 Q2，中科院 2022 Q3。
+      ja: 採択日：2025-01-18。採択時点に最も近い公開指標：IF 2.2 (2024) · JCR 2023 Q2 · CAS 2022 Q3。
+- id: spherical-search-algorithm-with-memory-guided-population-stage-wise-control-for-bound-constrained-global-optimization-problems
+  verification:
+    doi: 10.1016/j.asoc.2024.111677
+    url: https://doi.org/10.1016/j.asoc.2024.111677
+    publisher_url: https://doi.org/10.1016/j.asoc.2024.111677
+    accepted_date: ""
+    published_date: "2024-08-01"
+    crossref_created_date: "2024-05-15"
+    metric_anchor_date: "2024-05-15"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 8.7
+    if_year: 2023
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q1
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2023&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2023
+    if_search_copy_text: Applied Soft Computing
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_source_url: https://www.fabiao.com.cn/sci/15684946/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Applied Soft Computing
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Applied Soft Computing
+    jcr_public_source_url: https://jrank.net/journals/appl-soft-comput/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    jcr_supporting_source_url: https://jrank.net/journals/appl-soft-comput/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2024-05-15): IF 8.7 (2023) · JCR 2023 Q1 · CAS 2022 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2024-05-15）回溯的最近公开指标：IF 8.7（2023），JCR 2023 Q1，中科院 2022 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2024-05-15）に最も近い公開指標：IF 8.7 (2023) · JCR 2023 Q1 · CAS 2022 Q1。
+- id: improving-the-music-harmony-search-using-a-differential-exploration-phase-for-solving-bound-constrained-optimization-problems
+  verification: {}
+- id: competitive-elimination-improved-differential-evolution-for-wind-farm-layout-optimization-problems
+  verification:
+    doi: 10.3390/math12233762
+    url: https://doi.org/10.3390/math12233762
+    publisher_url: https://www.mdpi.com/2227-7390/12/23/3762
+    accepted_date: "2024-11-25"
+    published_date: "2024-11-28"
+    crossref_created_date: "2024-11-29"
+    metric_anchor_date: "2024-11-25"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.3
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2024
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2024-11-25. Closest public metrics at acceptance: IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2024-11-25。按接收时点回溯的最近公开指标：IF 2.3（2024），JCR 2024 Q1，中科院 2022 Q3。
+      ja: 採択日：2024-11-25。採択時点に最も近い公開指標：IF 2.3 (2024) · JCR 2024 Q1 · CAS 2022 Q3。
+- id: bio-inspired-computational-model-for-direction-and-speed-detection
+  verification:
+    doi: 10.1016/j.knosys.2024.112195
+    url: https://doi.org/10.1016/j.knosys.2024.112195
+    publisher_url: https://doi.org/10.1016/j.knosys.2024.112195
+    accepted_date: ""
+    published_date: "2024-09-01"
+    crossref_created_date: "2024-07-04"
+    metric_anchor_date: "2024-07-04"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 7.2
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q1
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Knowledge-Based Systems
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_source_url: https://www.fabiao.com.cn/sci/09507051/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Knowledge-Based Systems
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Knowledge-Based Systems
+    jcr_public_source_url: https://jrank.net/journals/knowl_based-syst/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    jcr_supporting_source_url: https://jrank.net/journals/knowl_based-syst/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2024-07-04): IF 7.2 (2024) · JCR 2023 Q1 · CAS 2022 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2024-07-04）回溯的最近公开指标：IF 7.2（2024），JCR 2023 Q1，中科院 2022 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2024-07-04）に最も近い公開指標：IF 7.2 (2024) · JCR 2023 Q1 · CAS 2022 Q1。
+- id: artificial-visual-network-with-fully-modeled-retinal-direction-selective-neural-pathway-for-motion-direction-detection-in-grayscale-scenes
+  verification:
+    doi: 10.3390/sym16121592
+    url: https://doi.org/10.3390/sym16121592
+    publisher_url: https://www.mdpi.com/2073-8994/16/12/1592
+    accepted_date: "2024-11-26"
+    published_date: "2024-11-28"
+    crossref_created_date: "2024-11-28"
+    metric_anchor_date: "2024-11-26"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.2
+    if_year: 2024
+    jcr_quartile: Q2
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Symmetry
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_source_url: https://www.fabiao.com.cn/sci/20738994/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Symmetry
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Symmetry
+    jcr_public_source_url: https://jrank.net/journals/symmetry_basel/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=DXd2YD
+    jcr_supporting_source_url: https://jrank.net/journals/symmetry_basel/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=SYMMETRY-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2024-11-26. Closest public metrics at acceptance: IF 2.2 (2024) · JCR 2023 Q2 · CAS 2022 Q3."
+      zh: 接收日期：2024-11-26。按接收时点回溯的最近公开指标：IF 2.2（2024），JCR 2023 Q2，中科院 2022 Q3。
+      ja: 採択日：2024-11-26。採択時点に最も近い公開指標：IF 2.2 (2024) · JCR 2023 Q2 · CAS 2022 Q3。
+- id: an-efficient-reconstructed-differential-evolution-variant-by-some-of-the-current-state-of-the-art-strategies-for-solving-single-objective-bound-constrained-problems
+  verification: {}
+- id: a-novel-artificial-visual-system-with-fully-modeled-retinal-direction-selectivity-ganglion-cell-pathway-for-motion-direction-detection-in-grayscale-images
+  verification: {}
+- id: a-novel-artificial-visual-system-for-motion-direction-detection-in-color-images
+  verification:
+    doi: 10.1016/j.knosys.2024.111816
+    url: https://doi.org/10.1016/j.knosys.2024.111816
+    publisher_url: https://www.sciencedirect.com/science/article/pii/S0950705124004507
+    accepted_date: ""
+    published_date: "2024-07-01"
+    crossref_created_date: "2024-04-18"
+    metric_anchor_date: "2024-04-18"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 8.8
+    if_year: 2023
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q1
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2023&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2023
+    if_search_copy_text: Knowledge-Based Systems
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_source_url: https://www.fabiao.com.cn/sci/09507051/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Knowledge-Based Systems
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Knowledge-Based Systems
+    jcr_public_source_url: https://jrank.net/journals/knowl_based-syst/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=rAA2jr
+    jcr_supporting_source_url: https://jrank.net/journals/knowl_based-syst/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=KNOWL-BASED%20SYST&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2024-04-18): IF 8.8 (2023) · JCR 2023 Q1 · CAS 2022 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2024-04-18）回溯的最近公开指标：IF 8.8（2023），JCR 2023 Q1，中科院 2022 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2024-04-18）に最も近い公開指標：IF 8.8 (2023) · JCR 2023 Q1 · CAS 2022 Q1。
+- id: a-multi-local-search-based-shade-for-wind-farm-layout-optimization
+  verification:
+    doi: 10.3390/electronics13163196
+    url: https://doi.org/10.3390/electronics13163196
+    publisher_url: https://www.mdpi.com/2079-9292/13/16/3196
+    accepted_date: "2024-08-09"
+    published_date: "2024-08-13"
+    crossref_created_date: "2024-08-13"
+    metric_anchor_date: "2024-08-09"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.6
+    if_year: 2024
+    jcr_quartile: Q2
+    jcr_year: 2024
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ELECTRONICS-SWITZ&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2024
+    if_search_copy_text: Electronics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=peVkX5
+    cas_source_url: https://www.fabiao.com.cn/sci/20799292/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=peVkX5
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Electronics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ELECTRONICS-SWITZ&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Electronics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/530/Electronics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=peVkX5
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=peVkX5
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/530/Electronics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ELECTRONICS-SWITZ&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2024-08-09. Closest public metrics at acceptance: IF 2.6 (2024) · JCR 2024 Q2 · CAS 2022 Q3."
+      zh: 接收日期：2024-08-09。按接收时点回溯的最近公开指标：IF 2.6（2024），JCR 2024 Q2，中科院 2022 Q3。
+      ja: 採択日：2024-08-09。採択時点に最も近い公開指標：IF 2.6 (2024) · JCR 2024 Q2 · CAS 2022 Q3。
+- id: a-differential-search-integrated-music-harmony-search-algorithm-for-solving-bound-constrained-optimization-problems
+  verification: {}
+- id: a-bio-inspired-model-for-object-motion-direction-and-speed-detection-against-colored-backgrounds
+  verification: {}
+- id: the-mechanism-of-orientation-detection-based-on-artificial-visual-system-for-greyscale-images
+  verification:
+    doi: 10.3390/math11122715
+    url: https://doi.org/10.3390/math11122715
+    publisher_url: https://www.mdpi.com/2227-7390/11/12/2715
+    accepted_date: "2023-06-14"
+    published_date: "2023-06-15"
+    crossref_created_date: "2023-06-16"
+    metric_anchor_date: "2023-06-14"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.592
+    if_year: 2022
+    jcr_quartile: Q1
+    jcr_year: 2022
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2022
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2022
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2022
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2023-06-14. Closest public metrics at acceptance: IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2023-06-14。按接收时点回溯的最近公开指标：IF 2.592（2022），JCR 2022 Q1，中科院 2022 Q3。
+      ja: 採択日：2023-06-14。採択時点に最も近い公開指標：IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3。
+- id: spherical-search-algorithm-with-adaptive-population-control-for-global-continuous-optimization-problems
+  verification:
+    doi: 10.1016/j.asoc.2022.109845
+    url: https://doi.org/10.1016/j.asoc.2022.109845
+    publisher_url: https://doi.org/10.1016/j.asoc.2022.109845
+    accepted_date: ""
+    published_date: "2023-01-01"
+    crossref_created_date: "2022-11-21"
+    metric_anchor_date: "2022-11-21"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 8.263
+    if_year: 2022
+    jcr_quartile: Q1
+    jcr_year: 2022
+    cas_quartile: Q1
+    cas_year: 2022
+    cas_top: true
+    cas_top_year: 2022
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2022&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2022
+    if_search_copy_text: Applied Soft Computing
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_source_url: https://www.fabiao.com.cn/sci/15684946/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Applied Soft Computing
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2022&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2022
+    jcr_search_copy_text: Applied Soft Computing
+    jcr_public_source_url: https://jrank.net/journals/appl-soft-comput/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=yp1WdD
+    jcr_supporting_source_url: https://jrank.net/journals/appl-soft-comput/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=APPL%20SOFT%20COMPUT&year=2022&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2022
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2022-11-21): IF 8.263 (2022) · JCR 2022 Q1 · CAS 2022 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2022-11-21）回溯的最近公开指标：IF 8.263（2022），JCR 2022 Q1，中科院 2022 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2022-11-21）に最も近い公開指標：IF 8.263 (2022) · JCR 2022 Q1 · CAS 2022 Q1。
+- id: hierarchical-manta-ray-foraging-optimization-with-weighted-fitness-distance-balance-selection
+  verification:
+    doi: 10.1007/s44196-023-00289-4
+    url: https://doi.org/10.1007/s44196-023-00289-4
+    publisher_url: https://link.springer.com/article/10.1007/s44196-023-00289-4
+    accepted_date: "2023-06-17"
+    published_date: "2023-07-15"
+    crossref_created_date: "2023-07-15"
+    metric_anchor_date: "2023-06-17"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 1.736
+    if_year: 2022
+    jcr_quartile: Q3
+    jcr_year: 2022
+    cas_quartile: Q4
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2022&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2022
+    if_search_copy_text: International Journal of Computational Intelligence Systems
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_source_url: https://www.fabiao.com.cn/sci/18756891/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: International Journal of Computational Intelligence Systems
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2022&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2022
+    jcr_search_copy_text: International Journal of Computational Intelligence Systems
+    jcr_public_source_url: https://jrank.net/journals/int-j-comput-int-sys/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    jcr_supporting_source_url: https://jrank.net/journals/int-j-comput-int-sys/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2022&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2022
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2023-06-17. Closest public metrics at acceptance: IF 1.736 (2022) · JCR 2022 Q3 · CAS 2022 Q4."
+      zh: 接收日期：2023-06-17。按接收时点回溯的最近公开指标：IF 1.736（2022），JCR 2022 Q3，中科院 2022 Q4。
+      ja: 採択日：2023-06-17。採択時点に最も近い公開指標：IF 1.736 (2022) · JCR 2022 Q3 · CAS 2022 Q4。
+- id: dynamic-complex-network-exploring-differential-evolution-algorithms-from-another-perspective
+  verification:
+    doi: 10.3390/math11132979
+    url: https://doi.org/10.3390/math11132979
+    publisher_url: https://www.mdpi.com/2227-7390/11/13/2979
+    accepted_date: "2023-06-30"
+    published_date: "2023-07-04"
+    crossref_created_date: "2023-07-05"
+    metric_anchor_date: "2023-06-30"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.4
+    if_year: 2023
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2023
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2023-06-30. Closest public metrics at acceptance: IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2023-06-30。按接收时点回溯的最近公开指标：IF 2.4（2023），JCR 2023 Q1，中科院 2022 Q3。
+      ja: 採択日：2023-06-30。採択時点に最も近い公開指標：IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3。
+- id: an-adaptive-dimension-weighting-spherical-evolution-to-solve-continuous-optimization-problems
+  verification:
+    doi: 10.3390/math11173733
+    url: https://doi.org/10.3390/math11173733
+    publisher_url: https://www.mdpi.com/2227-7390/11/17/3733
+    accepted_date: ""
+    published_date: "2023-08-30"
+    crossref_created_date: "2023-08-30"
+    metric_anchor_date: "2023-08-30"
+    metric_anchor_kind: crossref_created_date
+    verification_status: published_date_only_verified
+    if_value: 2.4
+    if_year: 2023
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2023
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2023-08-30): IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2023-08-30）回溯的最近公开指标：IF 2.4（2023），JCR 2023 Q1，中科院 2022 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2023-08-30）に最も近い公開指標：IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3。
+- id: a-novel-artificial-visual-system-for-motion-direction-detection-with-completely-modeled-retinal-direction-selective-pathway
+  verification:
+    doi: 10.3390/math11173732
+    url: https://doi.org/10.3390/math11173732
+    publisher_url: https://www.mdpi.com/2227-7390/11/17/3732
+    accepted_date: "2023-08-28"
+    published_date: "2023-08-30"
+    crossref_created_date: "2023-08-30"
+    metric_anchor_date: "2023-08-28"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.4
+    if_year: 2023
+    jcr_quartile: Q1
+    jcr_year: 2023
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2023
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2023
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2023&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2023
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2023-08-28. Closest public metrics at acceptance: IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3."
+      zh: 接收日期：2023-08-28。按接收时点回溯的最近公开指标：IF 2.4（2023），JCR 2023 Q1，中科院 2022 Q3。
+      ja: 採択日：2023-08-28。採択時点に最も近い公開指標：IF 2.4 (2023) · JCR 2023 Q1 · CAS 2022 Q3。
+- id: spatial-information-sampling-another-feedback-mechanism-of-realising-adaptive-parameter-control-in-meta-heuristic-algorithms
+  verification:
+    doi: 10.1504/IJBIC.2022.120751
+    url: https://doi.org/10.1504/IJBIC.2022.120751
+    publisher_url: https://doi.org/10.1504/IJBIC.2022.120751
+    accepted_date: ""
+    published_date: "2022-01-01"
+    crossref_created_date: "2022-02-08"
+    metric_anchor_date: "2022-02-08"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 3.977
+    if_year: 2021
+    jcr_quartile: Q2
+    jcr_year: 2021
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20BIO-INSPIR%20COM&year=2021&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2021
+    if_search_copy_text: International Journal of Bio-Inspired Computation
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5dZ1kr
+    cas_source_url: https://www.fabiao.com.cn/sci/17580366/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5dZ1kr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: International Journal of Bio-Inspired Computation
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20BIO-INSPIR%20COM&year=2021&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2021
+    jcr_search_copy_text: International Journal of Bio-Inspired Computation
+    jcr_public_source_url: https://jrank.net/journals/int-j-bio_inspir-com/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5dZ1kr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5dZ1kr
+    jcr_supporting_source_url: https://jrank.net/journals/int-j-bio_inspir-com/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20BIO-INSPIR%20COM&year=2021&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2021
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2022-02-08): IF 3.977 (2021) · JCR 2021 Q2 · CAS 2022 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2022-02-08）回溯的最近公开指标：IF 3.977（2021），JCR 2021 Q2，中科院 2022 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2022-02-08）に最も近い公開指標：IF 3.977 (2021) · JCR 2021 Q2 · CAS 2022 Q3。
+- id: paidde-a-permutation-archive-information-directed-differential-evolution-algorithm
+  verification:
+    doi: 10.1109/ACCESS.2022.3173622
+    url: https://doi.org/10.1109/ACCESS.2022.3173622
+    publisher_url: https://doi.org/10.1109/ACCESS.2022.3173622
+    accepted_date: ""
+    published_date: "2022-01-01"
+    crossref_created_date: "2022-05-09"
+    metric_anchor_date: "2022-05-09"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 3.367
+    if_year: 2021
+    jcr_quartile: Q2
+    jcr_year: 2021
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20ACCESS&year=2021&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2021
+    if_search_copy_text: IEEE Access
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=r7mlY5
+    cas_source_url: https://www.fabiao.com.cn/sci/21693536/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=r7mlY5
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: IEEE Access
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20ACCESS&year=2021&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2021
+    jcr_search_copy_text: IEEE Access
+    jcr_public_source_url: https://jrank.net/journals/ieee-access/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=r7mlY5
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=r7mlY5
+    jcr_supporting_source_url: https://jrank.net/journals/ieee-access/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20ACCESS&year=2021&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2021
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2022-05-09): IF 3.367 (2021) · JCR 2021 Q2 · CAS 2022 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2022-05-09）回溯的最近公开指标：IF 3.367（2021），JCR 2021 Q2，中科院 2022 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2022-05-09）に最も近い公開指標：IF 3.367 (2021) · JCR 2021 Q2 · CAS 2022 Q3。
+- id: hierarchical-water-wave-optimization
+  verification: {}
+- id: chaotic-wind-driven-optimization-with-fitness-distance-balance-strategy
+  verification:
+    doi: 10.1007/s44196-022-00099-0
+    url: https://doi.org/10.1007/s44196-022-00099-0
+    publisher_url: https://link.springer.com/article/10.1007/s44196-022-00099-0
+    accepted_date: "2022-06-20"
+    published_date: "2022-07-19"
+    crossref_created_date: "2022-07-19"
+    metric_anchor_date: "2022-06-20"
+    metric_anchor_kind: accepted_date
+    verification_status: accepted_date_verified
+    if_value: 2.153
+    if_year: 2021
+    jcr_quartile: Q3
+    jcr_year: 2021
+    cas_quartile: Q4
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2021&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2021
+    if_search_copy_text: International Journal of Computational Intelligence Systems
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_source_url: https://www.fabiao.com.cn/sci/18756891/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: International Journal of Computational Intelligence Systems
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2021&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2021
+    jcr_search_copy_text: International Journal of Computational Intelligence Systems
+    jcr_public_source_url: https://jrank.net/journals/int-j-comput-int-sys/metrics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5x6mzr
+    jcr_supporting_source_url: https://jrank.net/journals/int-j-comput-int-sys/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INT%20J%20COMPUT%20INT%20SYS&year=2021&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2021
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Accepted 2022-06-20. Closest public metrics at acceptance: IF 2.153 (2021) · JCR 2021 Q3 · CAS 2022 Q4."
+      zh: 接收日期：2022-06-20。按接收时点回溯的最近公开指标：IF 2.153（2021），JCR 2021 Q3，中科院 2022 Q4。
+      ja: 採択日：2022-06-20。採択時点に最も近い公開指標：IF 2.153 (2021) · JCR 2021 Q3 · CAS 2022 Q4。
+- id: an-optimal-parent-crossover-based-differential-evolution
+  verification: {}
+- id: an-immigration-strategy-based-spherical-search-algorithm
+  verification: {}
+- id: a-population-resource-allocation-based-adaptive-spherical-search-algorithm
+  verification: {}
+- id: a-novel-bio-inspired-motion-direction-detection-mechanism-in-binary-and-grayscale-background
+  verification:
+    doi: 10.3390/math10203767
+    url: https://doi.org/10.3390/math10203767
+    publisher_url: https://www.mdpi.com/2227-7390/10/20/3767
+    accepted_date: ""
+    published_date: "2022-10-13"
+    crossref_created_date: "2022-10-13"
+    metric_anchor_date: "2022-10-13"
+    metric_anchor_kind: crossref_created_date
+    verification_status: published_date_only_verified
+    if_value: 2.592
+    if_year: 2022
+    jcr_quartile: Q1
+    jcr_year: 2022
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2022
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2022
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2022
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2022-10-13): IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2022-10-13）回溯的最近公开指标：IF 2.592（2022），JCR 2022 Q1，中科院 2022 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2022-10-13）に最も近い公開指標：IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3。
+- id: a-novel-artificial-visual-system-for-motion-direction-detection-in-grayscale-images
+  verification:
+    doi: 10.3390/math10162975
+    url: https://doi.org/10.3390/math10162975
+    publisher_url: https://www.mdpi.com/2227-7390/10/16/2975
+    accepted_date: ""
+    published_date: "2022-08-17"
+    crossref_created_date: "2022-08-17"
+    metric_anchor_date: "2022-08-17"
+    metric_anchor_kind: crossref_created_date
+    verification_status: published_date_only_verified
+    if_value: 2.592
+    if_year: 2022
+    jcr_quartile: Q1
+    jcr_year: 2022
+    cas_quartile: Q3
+    cas_year: 2022
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2022
+    if_search_copy_text: Mathematics
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_source_url: https://www.fabiao.com.cn/sci/22277390/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Mathematics
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2022
+    jcr_search_copy_text: Mathematics
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5kPKjD
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/486/Mathematics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=MATHEMATICS-BASEL&year=2022&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2022
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2022-08-17): IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2022-08-17）回溯的最近公开指标：IF 2.592（2022），JCR 2022 Q1，中科院 2022 Q3。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2022-08-17）に最も近い公開指標：IF 2.592 (2022) · JCR 2022 Q1 · CAS 2022 Q3。
+- id: fitness-distance-balance-with-functional-weights-a-new-selection-method-for-evolutionary-algorithms
+  verification:
+    doi: 10.1587/transinf.2021EDL8033
+    url: https://doi.org/10.1587/transinf.2021EDL8033
+    publisher_url: https://www.jstage.jst.go.jp/article/transinf/E104.D/10/E104.D_2021EDL8033/_article
+    accepted_date: ""
+    published_date: "2021-10-01"
+    crossref_created_date: "2021-09-30"
+    metric_anchor_date: "2021-09-30"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 0.5
+    if_year: 2021
+    jcr_quartile: Q4
+    jcr_year: 2021
+    cas_quartile: Q4
+    cas_year: 2021
+    cas_top: false
+    cas_top_year: null
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEICE%20T%20INF%20SYST&year=2021&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2021
+    if_search_copy_text: IEICE Transactions on Information and Systems
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=5gNbGp
+    cas_source_url: https://www.fabiao.com.cn/sci/17451361/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=5gNbGp
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: IEICE Transactions on Information and Systems
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEICE%20T%20INF%20SYST&year=2021&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2021
+    jcr_search_copy_text: IEICE Transactions on Information and Systems
+    jcr_public_source_url: https://www.fabiao.com.cn/sci/17451361/
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=5gNbGp
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=5gNbGp
+    jcr_supporting_source_url: https://www.fabiao.com.cn/sci/17451361/
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEICE%20T%20INF%20SYST&year=2021&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2021
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2021-09-30): IF 0.5 (2021) · JCR 2021 Q4 · CAS 2021 Q4."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2021-09-30）回溯的最近公开指标：IF 0.5（2021），JCR 2021 Q4，中科院 2021 Q4。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2021-09-30）に最も近い公開指標：IF 0.5 (2021) · JCR 2021 Q4 · CAS 2021 Q4。
+- id: a-state-of-the-art-differential-evolution-algorithm-for-parameter-estimation-of-solar-photovoltaic-models
+  verification:
+    doi: 10.1016/j.enconman.2020.113784
+    url: https://doi.org/10.1016/j.enconman.2020.113784
+    publisher_url: https://doi.org/10.1016/j.enconman.2020.113784
+    accepted_date: ""
+    published_date: "2021-02-01"
+    crossref_created_date: "2021-01-07"
+    metric_anchor_date: "2021-01-07"
+    metric_anchor_kind: crossref_created_date
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 8.208
+    if_year: 2020
+    jcr_quartile: Q1
+    jcr_year: 2020
+    cas_quartile: Q1
+    cas_year: 2021
+    cas_top: true
+    cas_top_year: 2021
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ENERG%20CONVERS%20MANAGE&year=2020&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile
+    if_source_official_year: 2020
+    if_search_copy_text: Energy Conversion and Management
+    if_public_source_url: https://www.ablesci.com/journal/detail?id=pe962p
+    cas_source_url: https://www.fabiao.com.cn/sci/01968904/
+    cas_public_source_url: https://www.ablesci.com/journal/detail?id=pe962p
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Energy Conversion and Management
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ENERG%20CONVERS%20MANAGE&year=2020&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile
+    jcr_source_official_year: 2020
+    jcr_search_copy_text: Energy Conversion and Management
+    jcr_public_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/969/Energy_Conversion_and_Management
+    if_supporting_source_url: https://www.ablesci.com/journal/detail?id=pe962p
+    cas_supporting_source_url: https://www.ablesci.com/journal/detail?id=pe962p
+    jcr_supporting_source_url: https://www.iit.comillas.edu/publicacion/info_revista/en/969/Energy_Conversion_and_Management
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ENERG%20CONVERS%20MANAGE&year=2020&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2020
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    verification_note:
+      en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
+        registration date (2021-01-07): IF 8.208 (2020) · JCR 2020 Q1 · CAS 2021 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2021-01-07）回溯的最近公开指标：IF 8.208（2020），JCR 2020 Q1，中科院 2021 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2021-01-07）に最も近い公開指標：IF 8.208 (2020) · JCR 2020 Q1 · CAS 2021 Q1。
+- id: a-motion-direction-detective-mechanism-for-greyscale-images
+  verification: {}
+- id: using-grey-wolf-hunting-mechanism-to-improve-spherical-search
+  verification: {}
+- id: a-novel-optimization-algorithm-inherited-from-gravitational-and-spherical-search-dynamics
+  verification: {}
+- id: a-hybrid-spherical-search-and-sine-cosine-algorithm
+  verification: {}
+- id: a-hybrid-spherical-search-and-moth-flame-optimization-algorithm
+  verification: {}

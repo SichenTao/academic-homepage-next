@@ -1,0 +1,67 @@
+- title: Tohoku University Cyberscience Center
+  tag: Official
+  url: https://www.cc.tohoku.ac.jp/english/member/rd/
+  localized_urls:
+    en: https://www.cc.tohoku.ac.jp/english/member/rd/
+    zh: https://www.cc.tohoku.ac.jp/english/member/rd/
+    ja: https://www.cc.tohoku.ac.jp/member/rd/
+  icon: ./assets/profile-icons/tohoku-cyberscience-center.svg
+  description: Official research division listing showing Sichen Tao in the Research Division on Supercomputing Systems.
+- title: Takizawa Lab Member Page
+  tag: Official
+  url: https://www.hpc.is.tohoku.ac.jp/home-en/member-en/
+  localized_urls:
+    en: https://www.hpc.is.tohoku.ac.jp/home-en/member-en/
+    zh: https://www.hpc.is.tohoku.ac.jp/home-en/member-en/
+    ja: https://www.hpc.is.tohoku.ac.jp/home/member/
+  icon: ./assets/profile-icons/takizawa-lab.png
+  description: Current member profile in the High Performance Computing Laboratory.
+- title: Takizawa Lab Joining Announcement
+  tag: Official
+  url: https://www.hpc.is.tohoku.ac.jp/event-en/2025/5231/
+  localized_urls:
+    en: https://www.hpc.is.tohoku.ac.jp/event-en/2025/5231/
+    zh: https://www.hpc.is.tohoku.ac.jp/event-en/2025/5231/
+    ja: https://www.hpc.is.tohoku.ac.jp/event/2025/5226/
+  icon: ./assets/profile-icons/takizawa-lab.png
+  description: Public announcement posted on 2025-10-27 after joining the institute on 2025-10-01.
+- title: Google Scholar
+  tag: Academic
+  url: https://scholar.google.com/citations?user=gmOx-i4AAAAJ&hl=en
+  icon: ./assets/profile-icons/google-scholar.ico
+  description: Citation profile and indexed publication record.
+- title: DBLP
+  tag: Academic
+  url: https://dblp.org/pid/283/6924.html
+  icon: ./assets/profile-icons/dblp.png
+  description: Computer science bibliography profile with ORCID linkage.
+- title: ORCID
+  tag: Identifier
+  url: https://orcid.org/0000-0001-9858-4208
+  icon: ./assets/profile-icons/orcid.svg
+  description: Persistent researcher identifier linked from DBLP and GitHub.
+- title: J-GLOBAL
+  tag: Registry
+  url: https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202601018035308144
+  icon: ./assets/profile-icons/jglobal-logo-cropped.png
+  description: Japanese researcher registry record with fields, keywords, work history, and association memberships.
+- title: ResearchMap
+  tag: Registry
+  url: https://researchmap.jp/sichentao?lang=en
+  icon: ./assets/profile-icons/researchmap.gif
+  description: Japanese academic profile page with affiliations, publication lists, and career information.
+- title: ResearchGate
+  tag: Academic
+  url: https://www.researchgate.net/profile/Sichen-Tao
+  icon: ./assets/profile-icons/researchgate.ico
+  description: Public academic networking profile.
+- title: GitHub
+  tag: Code
+  url: https://github.com/SichenTao
+  icon: ./assets/profile-icons/github.svg
+  description: Public repositories and open-source work related to optimization, competitions, and research software.
+- title: University of Toyama Dissertation Record
+  tag: Repository
+  url: https://toyama.repo.nii.ac.jp/records/2001776
+  icon: ./assets/institutions/toyama-symbol.svg
+  description: Institutional repository record for the doctoral dissertation.

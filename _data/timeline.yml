@@ -1,0 +1,130 @@
+- period: "2026-02-11"
+  start: "2026-02-11"
+  end: "2026-02-11"
+  category: Service
+  title: IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC) 2026 Track Chair
+  organization: 19th IEEE MCSoC 2026, Shanghai Jiao Tong University
+  description: Served as Track Chair for Cognitive Computing Models and Brain-Derived Algorithms in MCSoC-NeuroCore 2026.
+  institution_theme: tohoku
+  url: https://mcsoc-forum.org/site/index.php/neurocore-t13/
+  source_url: https://mcsoc-forum.org/site/index.php/all-session-chairs/
+- period: 2025-10-01 to present
+  start: "2025-10-01"
+  category: Position
+  title: Assistant Professor
+  organization: Tohoku University, Cyberscience Center, High Performance Computing Laboratory
+  description: Affiliated with the Research Division on Supercomputing Systems and the Takizawa Laboratory.
+  institution_theme: tohoku
+- period: "2025-09-26"
+  start: "2025-09-26"
+  end: "2025-09-26"
+  category: Education
+  title: Doctor of Engineering conferred
+  organization: University of Toyama
+  description: "Degree conferred. Thesis: Development of Artificial Intelligence Systems for Data Analysis and Optimization Based on Brain-inspired
+    and Evolutionary Intelligence."
+  institution_theme: toyama
+- period: 2023-05 to 2025-01
+  start: "2023-05-01"
+  end: "2025-01-31"
+  category: Editorial
+  title: Editor Assistant
+  organization: Frontiers in Neuroscience
+  description: Supported the topic Artificial Systems Based on Human and Animal Natural Vision in Image and Video.
+  institution_theme: toyama
+- period: 2023-04 to 2025-09
+  start: "2023-04-01"
+  end: "2025-09-30"
+  category: Fellowship
+  title: JST SPRING Researcher
+  organization: Japan Science and Technology Agency
+  description: Supported by the JST Support for Pioneering Research Initiated by the Next Generation (SPRING) program.
+  institution_theme: toyama
+- period: 2023-03 to 2025-09
+  start: "2023-03-01"
+  end: "2025-09-30"
+  category: Editorial
+  title: Editor Assistant
+  organization: Mathematics, MDPI
+  description: Supported the special issue Dynamics in Neural Networks across initial review, reviewer assignment, and editorial process support.
+  institution_theme: toyama
+- period: 2022-12
+  start: "2022-12-01"
+  end: "2022-12-31"
+  category: Visit
+  title: Research Visit
+  organization: Department of Physiology, The University of Tokyo
+  description: Visited for discussions on mammalian visual-system modeling and potential collaborative research.
+  institution_theme: toyama
+- period: 2022-10 to 2025-09
+  start: "2022-10-01"
+  end: "2025-09-30"
+  category: Position
+  title: Research Assistant
+  organization: AI Laboratory, University of Toyama
+  description: Supported seminars, student guidance, collaborative research, and paper review activities.
+  institution_theme: toyama
+- period: 2022-10 to 2024-03
+  start: "2022-10-01"
+  end: "2024-03-31"
+  category: Fellowship
+  title: JST Fellowship Researcher
+  organization: Japan Science and Technology Agency / University of Toyama
+  description: Supported by the JST Establishment of University Fellowships towards the Creation of Science, Technology and Innovation program.
+  institution_theme: toyama
+- period: "2022-10-01"
+  start: "2022-10-01"
+  end: "2022-10-01"
+  category: Education
+  title: Entered doctoral program
+  organization: University of Toyama, Graduate School of Science and Engineering for Education
+  description: Started the Doctor of Engineering program.
+  institution_theme: toyama
+- period: "2022-09-26"
+  start: "2022-09-26"
+  end: "2022-09-26"
+  category: Education
+  title: Master of Engineering conferred
+  organization: University of Toyama
+  description: "Degree conferred. Thesis: A Novel Artificial Visual System for Motion Direction Detection in Grayscale Images."
+  institution_theme: toyama
+- period: 2020-10 to 2022-09
+  start: "2020-10-01"
+  end: "2022-09-30"
+  category: Teaching
+  title: Teaching Assistant
+  organization: AI Laboratory, University of Toyama
+  description: Supported courses and research-related lectures for undergraduates.
+  institution_theme: toyama
+- period: "2020-10-01"
+  start: "2020-10-01"
+  end: "2020-10-01"
+  category: Education
+  title: Entered master's program
+  organization: University of Toyama, Graduate School of Science and Engineering for Education
+  description: Started the Master of Engineering program.
+  institution_theme: toyama
+- period: 2019-10 to 2020-09
+  start: "2019-10-01"
+  end: "2020-09-30"
+  category: Education
+  title: Research Student
+  organization: University of Toyama
+  description: Focused on the theory and real-world applications of metaheuristic optimization.
+  institution_theme: toyama
+- period: 2018-08
+  start: "2018-08-01"
+  end: "2018-08-01"
+  category: Education
+  title: Bachelor of Engineering conferred
+  organization: University of Shanghai for Science and Technology
+  description: Completed the EUR-ACE-accredited program in Mechanical Design, Manufacture, and Automation.
+  institution_theme: usst
+- period: 2014-09
+  start: "2014-09-01"
+  end: "2014-09-01"
+  category: Education
+  title: Entered bachelor's program
+  organization: University of Shanghai for Science and Technology
+  description: Started the Bachelor of Engineering program in Mechanical Design, Manufacture, and Automation.
+  institution_theme: usst

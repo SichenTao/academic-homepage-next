@@ -1,0 +1,146 @@
+- date: 2025-06
+  title: IEEE Congress on Evolutionary Computation (CEC) 2025 Competition Champion
+  description: Champion of the bound-constrained single-objective numerical optimization competition track at the IEEE Congress on Evolutionary
+    Computation (CEC) 2025.
+  context: IEEE Congress on Evolutionary Computation (CEC) is a world-class event in evolutionary computation and one of the flagship conferences
+    of the IEEE Computational Intelligence Society.
+  url: https://cis.ieee.org/conferences/conference-calendar
+  links:
+    - kind: official
+      url: https://cis.ieee.org/conferences/conference-calendar
+      label:
+        en: Official Page
+        zh: Official Page
+        ja: Official Page
+    - kind: github
+      url: https://github.com/P-N-Suganthan/2025-CEC
+    - kind: mine
+      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx
+- date: 2025-06
+  title: IEEE Congress on Evolutionary Computation (CEC) 2025 Competition Champion
+  description: Champion of the constrained single-objective numerical optimization competition track at the IEEE Congress on Evolutionary Computation
+    (CEC) 2025.
+  context: IEEE Congress on Evolutionary Computation (CEC) is a world-class event in evolutionary computation and one of the flagship conferences
+    of the IEEE Computational Intelligence Society.
+  url: https://cis.ieee.org/conferences/conference-calendar
+  links:
+    - kind: official
+      url: https://cis.ieee.org/conferences/conference-calendar
+      label:
+        en: Official Page
+        zh: Official Page
+        ja: Official Page
+    - kind: github
+      url: https://github.com/P-N-Suganthan/2025-CEC
+    - kind: mine
+      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx
+- date: 2025-06
+  title: IEEE Congress on Evolutionary Computation (CEC) 2025 Competition Champion
+  description: Champion of the bound-constrained multi-objective numerical optimization competition track at the IEEE Congress on Evolutionary
+    Computation (CEC) 2025.
+  context: IEEE Congress on Evolutionary Computation (CEC) is a world-class event in evolutionary computation and one of the flagship conferences
+    of the IEEE Computational Intelligence Society.
+  url: https://cis.ieee.org/conferences/conference-calendar
+  links:
+    - kind: official
+      url: https://cis.ieee.org/conferences/conference-calendar
+      label:
+        en: Official Page
+        zh: Official Page
+        ja: Official Page
+    - kind: github
+      url: https://github.com/P-N-Suganthan/2025-CEC
+    - kind: mine
+      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx
+- date: 2025-06
+  title: IEEE Congress on Evolutionary Computation (CEC) 2025 Competition Champion
+  description: Champion of the constrained multi-objective numerical optimization competition track at the IEEE Congress on Evolutionary Computation
+    (CEC) 2025.
+  context: IEEE Congress on Evolutionary Computation (CEC) is a world-class event in evolutionary computation and one of the flagship conferences
+    of the IEEE Computational Intelligence Society.
+  url: https://cis.ieee.org/conferences/conference-calendar
+  links:
+    - kind: official
+      url: https://cis.ieee.org/conferences/conference-calendar
+      label:
+        en: Official Page
+        zh: Official Page
+        ja: Official Page
+    - kind: github
+      url: https://github.com/P-N-Suganthan/2025-CEC
+    - kind: mine
+      url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx
+- date: 2024-06
+  title: IEEE World Congress on Computational Intelligence (WCCI) 2024 Competition Silver Award
+  description: Silver award in the numerical optimization competition track at the IEEE World Congress on Computational Intelligence (WCCI) 2024.
+  context: IEEE World Congress on Computational Intelligence (WCCI) is the world's largest technical event on computational intelligence, bringing
+    together the three flagship conferences of the IEEE Computational Intelligence Society under one roof.
+  url: https://2024.ieeewcci.org/program/competitions/
+  links:
+    - kind: official
+      url: https://2024.ieeewcci.org/program/competitions/
+    - kind: github
+      url: https://github.com/P-N-Suganthan/2024-CEC
+    - kind: mine
+      url: https://github.com/SichenTao/reconstructed-differential-evolution
+- date: 2023-04
+  title: Japan Science and Technology Agency (JST) Support for Pioneering Research Initiated by the Next Generation (SPRING) Fellowship Recipient
+  description: Japan Science and Technology Agency (JST), Support for Pioneering Research Initiated by the Next Generation (SPRING).
+  context: JST explains that SPRING selects outstanding PhD students and provides sustained support for research and living expenses as well as
+    career development opportunities, enabling them to pursue unrestricted, challenging, and interdisciplinary research.
+  url: https://www.jst.go.jp/jisedai/spring/en/index.html
+  agency_name: Japan Science and Technology Agency
+  agency_acronym: JST
+  program_name: Support for Pioneering Research Initiated by the Next Generation
+  program_acronym: SPRING
+- date: 2022-10
+  title: Japan Science and Technology Agency (JST) University Fellowship Recipient
+  description: Japan Science and Technology Agency (JST), Establishment of University Fellowships towards the Creation of Science, Technology
+    and Innovation.
+  context: JST explains that this program supports universities under integrated university-wide strategies so they can nurture excellent doctoral
+    students who will drive future science, technology, and innovation in Japan.
+  url: https://www.jst.go.jp/EN/programs/PE.html
+  agency_name: Japan Science and Technology Agency
+  agency_acronym: JST
+  program_name: Establishment of University Fellowships towards the Creation of Science, Technology and Innovation
+- date: 2022-10
+  title: JGC-S Scholarship Recipient
+  description: Awarded the JGC-S Scholarship through the designated-university nomination process.
+  context: The JGC-S Scholarship Foundation is a public-interest foundation supporting self-financed international students in science and engineering
+    at designated universities in Japan.
+  url: https://www.jgcs.or.jp/en/
+- date: 2021-10
+  title: Asahi International Education Foundation Scholarship Recipient
+  description: Awarded the Asahi International Education Foundation Scholarship as a selected international student in Toyama.
+  context: The Asahi International Education Foundation provides financial aid to selected international college students in Toyama from ASEAN
+    and other countries.
+  url: https://www.asahi-fie.com/admissions/
+- date: "2021"
+  title: ESI Highly Cited Paper
+  description: Recognized by Clarivate Essential Science Indicators (ESI) as a Highly Cited Paper, placing the paper in the worldwide top 1% by
+    citations for its field and publication year.
+  paper_title: A State-of-the-Art Differential Evolution Algorithm for Parameter Estimation of Solar Photovoltaic Models
+  paper_url: https://doi.org/10.1016/j.enconman.2020.113784
+  journal_title: Energy Conversion and Management
+  journal_url: https://www.sciencedirect.com/journal/energy-conversion-and-management
+  if_value: 8.208
+  if_year: 2020
+  jcr_quartile: Q1
+  jcr_year: 2020
+  cas_quartile: Q1
+  cas_year: 2021
+  cas_top: true
+  current_citations: 281
+  award_year_citations: 27
+  award_year: 2021
+  links:
+    - kind: official_esi
+      url: https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html
+      label:
+        en: Official ESI Criteria
+        zh: ESI官方说明
+        ja: ESI公式基準
+    - kind: paper
+      url: https://doi.org/10.1016/j.enconman.2020.113784
+    - kind: journal
+      url: https://www.sciencedirect.com/journal/energy-conversion-and-management

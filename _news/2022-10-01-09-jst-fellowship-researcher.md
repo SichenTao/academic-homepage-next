@@ -1,0 +1,12 @@
+---
+layout: post
+date: "2022-10-01"
+inline: false
+homepage: true
+category: Fellowship
+title: JST Fellowship Researcher
+organization: Japan Science and Technology Agency / University of Toyama
+external_url: ""
+---
+
+Supported by the JST Establishment of University Fellowships towards the Creation of Science, Technology and Innovation program.

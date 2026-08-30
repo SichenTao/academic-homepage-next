@@ -1,0 +1,72 @@
+name: Sichen Tao
+display_name_native: 陶思晨
+current_title: Assistant Professor
+current_title_note: Official public sources also note a specially appointed appointment wording in SENAC materials effective 2025-10-01.
+affiliation: Research Division on Supercomputing Systems, Cyberscience Center, Tohoku University ・ High Performance Computing Laboratory
+affiliation_hierarchy:
+  root:
+    - en: Tohoku University
+      zh: 东北大学
+      ja: 東北大学
+    - en: Cyberscience Center
+      zh: 网络科学中心
+      ja: サイバーサイエンスセンター
+  unit:
+    - en: Research Division on Supercomputing Systems
+      zh: 超级计算系统研究部
+      ja: スーパーコンピューティング研究部
+    - en: High Performance Computing Laboratory
+      zh: 高性能计算实验室
+      ja: 高性能計算研究室
+location: Sendai, Japan
+portrait: ./assets/images/avatar-openai.jpg
+emails:
+  - sichen.tao@tohoku.ac.jp
+  - taosc73@hotmail.com
+bio: My research focuses on artificial intelligence (AI) and high-performance computing (HPC), including deep learning, brain-inspired neural
+  networks, black-box optimization algorithms, and their intersections with HPC. Application areas include energy conversion and management, AI-agent-based
+  social simulation, emergency medicine, human-machine collaboration, and AI for Science.
+research_methods:
+  - Artificial intelligence
+  - Deep learning
+  - Brain-inspired neural networks
+  - Computational intelligence
+  - Evolutionary optimization
+  - Reinforcement learning
+  - High-performance computing
+application_domains:
+  - Wind farm layout optimization
+  - Human-robot collaboration
+  - Healthcare and medical AI
+  - AI for science
+  - Industry 5.0
+  - Autonomous driving
+  - Weather and spatiotemporal modeling
+keywords:
+  - Artificial Intelligence
+  - Computational Intelligence
+  - High Performance Computing
+  - Machine Learning
+  - Optimization
+  - Deep Learning
+  - Reinforcement Learning
+  - Neural Networks
+  - Large Language Models
+  - Applied Medical Engineering
+  - AI4Science
+memberships:
+  - IEEE
+  - The Japan Society for Evolutionary Computation
+languages:
+  - label: Chinese
+    level: Native
+  - label: Japanese
+    level: JLPT N2
+  - label: English
+    level: Business
+interests_outside_work:
+  - Soccer
+  - Running
+  - Singing
+  - Traveling
+  - Computer games
