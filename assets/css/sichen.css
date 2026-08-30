@@ -110,15 +110,15 @@ h3,
 
 .selected-publication-figure {
   margin: 0;
+  width: 100%;
 }
 
 .selected-publication-figure img {
-  aspect-ratio: 3 / 2;
   background: #fff;
   border: 1px solid rgba(21, 18, 29, 0.09);
   border-radius: 5px;
   box-shadow: 0 3px 12px rgba(21, 18, 29, 0.13);
-  height: auto;
+  height: 140px;
   object-fit: contain;
   width: 100%;
 }
@@ -140,6 +140,22 @@ h3,
   font-weight: 500;
   line-height: 1.35;
   margin: 0 0 0.35rem;
+}
+
+/* Keep homepage publication previews on one consistent visual grid. */
+.publications ol.bibliography li .abbr figure,
+.publications ol.bibliography li .abbr picture {
+  display: block;
+  margin: 0;
+  width: 100%;
+}
+
+.publications ol.bibliography li .abbr img.preview {
+  background: #fff;
+  border: 1px solid rgba(21, 18, 29, 0.09);
+  height: 105px !important;
+  object-fit: contain;
+  width: 100% !important;
 }
 
 .publication-authors,
@@ -346,7 +362,15 @@ h3,
   }
 
   .selected-publication-figure img {
-    max-height: 245px;
+    height: min(56vw, 220px);
+  }
+
+  .publications ol.bibliography li .abbr figure {
+    max-width: 240px;
+  }
+
+  .publications ol.bibliography li .abbr img.preview {
+    height: 160px !important;
   }
 
   .citation-list {

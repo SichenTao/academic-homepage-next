@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}?v=20260830b">
 
 {% assign selected_publications = site.data.publications | where: 'selected', true %}
 {% assign public_publications = site.data.publications | where: 'public', true %}
