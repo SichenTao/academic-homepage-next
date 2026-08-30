@@ -4,7 +4,7 @@ date: "2022-09-26"
 inline: false
 homepage: true
 category: Education
-title: Master of Engineering conferred
+title: Sichen Tao earns a Master of Engineering degree from the University of Toyama
 organization: University of Toyama
 external_url: ""
 ---

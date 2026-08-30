@@ -4,7 +4,7 @@ date: "2019-10-01"
 inline: false
 homepage: true
 category: Education
-title: Research Student
+title: Joins the University of Toyama as a research student in metaheuristic optimization
 organization: University of Toyama
 external_url: ""
 ---

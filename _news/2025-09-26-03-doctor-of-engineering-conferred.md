@@ -4,7 +4,7 @@ date: "2025-09-26"
 inline: false
 homepage: true
 category: Education
-title: Doctor of Engineering conferred
+title: Sichen Tao earns a Doctor of Engineering degree from the University of Toyama
 organization: University of Toyama
 external_url: ""
 ---

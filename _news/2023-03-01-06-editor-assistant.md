@@ -4,7 +4,7 @@ date: "2023-03-01"
 inline: false
 homepage: true
 category: Editorial
-title: Editor Assistant
+title: Joins the MDPI Mathematics special issue “Dynamics in Neural Networks” as an Editor Assistant
 organization: Mathematics, MDPI
 external_url: ""
 ---

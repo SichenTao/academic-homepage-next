@@ -4,7 +4,7 @@ date: "2026-06-26"
 inline: false
 homepage: true
 category: Award
-title: Four-track champion at IEEE CEC 2026
+title: RDE26 wins all four numerical optimization tracks at IEEE CEC 2026
 organization: IEEE WCCI / Congress on Evolutionary Computation 2026
 external_url: https://github.com/P-N-Suganthan/2026-CEC
 ---

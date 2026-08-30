@@ -27,7 +27,7 @@
     const entry = button.closest("[data-publication-entry]");
     if (!entry) return;
     const copy = entry.cloneNode(true);
-    copy.querySelectorAll(".citation-actions, .publication-metrics").forEach((node) => node.remove());
+    copy.querySelectorAll(".citation-actions, .publication-metrics, .publication-metric-line").forEach((node) => node.remove());
     const citation = copy.textContent.replace(/\s+/g, " ").trim();
     try {
       await navigator.clipboard.writeText(citation);

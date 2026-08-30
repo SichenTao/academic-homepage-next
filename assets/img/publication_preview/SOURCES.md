@@ -1,9 +1,10 @@
 # Selected-publication figure sources
 
-The publication thumbnails on this site are resized copies of Figure 1 from the respective papers. They are presented for scholarly identification and link back to the publisher record.
+The publication thumbnails on this site are resized copies of a principal figure from the respective papers. They are presented for scholarly identification and link back to the publisher or journal record.
 
 | Local file | DOI | Publisher source |
 | --- | --- | --- |
+| `fobes-framework-fig2.jpg` | Forthcoming | Figure 2 of the accepted manuscript; https://cis.ieee.org/publications/t-evolutionary-computation |
 | `adversarial-game-optimization-fig1.jpg` | `10.1016/j.ins.2025.123022` | https://www.sciencedirect.com/science/article/pii/S0020025525011594 |
 | `safety-efficiency-assembly-fig1.jpg` | `10.1016/j.rcim.2024.102942` | https://www.sciencedirect.com/science/article/pii/S0736584524002291 |
 | `human-centric-assembly-fig1.jpg` | `10.1016/j.aei.2025.103508` | https://www.sciencedirect.com/science/article/pii/S147403462500401X |

@@ -1,3 +1,171 @@
+- id: a-fractional-order-gradient-guided-dynamic-block-coordinate-evolution-strategy-for-large-scale-expensive-optimization
+  title: A Fractional-Order Gradient Guided Dynamic Block-Coordinate Evolution Strategy for Large-Scale Expensive Optimization
+  authors: [Hanyu Hu, Jian Wang, Zhilei Sun, Sichen Tao, Jacek Mańdziuk, Nikhil R. Pal]
+  author_line: Hanyu Hu, Jian Wang, Zhilei Sun, Sichen Tao, Jacek Mańdziuk, Nikhil R. Pal
+  year: 2026
+  date: "2026-08-28"
+  type: journal
+  status: accepted
+  venue: IEEE Transactions on Evolutionary Computation
+  venue_line: IEEE Transactions on Evolutionary Computation
+  venue_abbr: TEVC
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: IEEE
+  citations: 0
+  citation_checked_at: "2026-08-31"
+  author_role: coauthor
+  role_note: ""
+  source_group: accepted_manuscript
+  source_label: Acceptance decision and accepted manuscript verified; public bibliographic details cross-checked against the authors' institutional page
+  citation_source_url: https://scholar.google.com/scholar?q=%22A+Fractional-Order+Gradient+Guided+Dynamic+Block-Coordinate+Evolution+Strategy%22
+  url: https://cis.ieee.org/publications/t-evolutionary-computation
+  doi: ""
+  tags: [Optimization, Evolutionary Computation, Expensive Optimization]
+  metadata_source: Accepted manuscript and institutional publication record
+  venue_url: https://cis.ieee.org/publications/t-evolutionary-computation
+  verification:
+    accepted_date: "2026-08-28"
+    metric_anchor_date: "2026-08-28"
+    verification_status: formally_accepted_doi_pending
+    metric_status: 2026_journal_metrics_pending
+    cas_quartile: Q1
+    cas_year: 2025
+    cas_top: true
+    cas_top_year: 2025
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?q=%22A+Fractional-Order+Gradient+Guided+Dynamic+Block-Coordinate+Evolution+Strategy%22
+      mode: search
+      copy_text: A Fractional-Order Gradient Guided Dynamic Block-Coordinate Evolution Strategy for Large-Scale Expensive Optimization
+  abstract_summary: This work develops a fractional-order gradient-guided dynamic block-coordinate evolution strategy for large-scale expensive optimization, combining adaptive grouping, data-driven evolution-strategy sampling, consistency pre-screening, block-coordinate updates, and fractional-order gradient memory.
+  preview: /assets/img/publication_preview/fobes-framework-fig2.jpg
+  preview_alt: Schematic diagram of the FOBES framework, reproduced from Figure 2 of the accepted manuscript
+  preview_source_url: https://cis.ieee.org/publications/t-evolutionary-computation
+  selected: true
+  public: true
+  citation_authors_html: H. Hu, J. Wang, Z. Sun, <strong>S. Tao</strong>, J. Mańdziuk, N. R. Pal
+- id: rdex-cmop-feasibility-aware-indicator-guided-differential-evolution-for-fixed-budget-constrained-multiobjective-optimization
+  title: "RDEx-CMOP: Feasibility-Aware Indicator-Guided Differential Evolution for Fixed-Budget Constrained Multiobjective Optimization"
+  authors: [Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao]
+  author_line: Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao
+  year: 2026
+  date: "2026-04"
+  type: preprint
+  status: published
+  venue: arXiv
+  venue_line: arXiv
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: Cornell University
+  citations: 0
+  citation_checked_at: "2026-08-31"
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Public arXiv and official RDEx repository record
+  citation_source_url: https://scholar.google.com/scholar?q=10.48550%2FarXiv.2604.03708
+  url: https://doi.org/10.48550/arXiv.2604.03708
+  doi: 10.48550/arXiv.2604.03708
+  code_url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx-Series/tree/main/RDEx_CMOP
+  tags: [Optimization, Evolutionary Computation, Constrained Multiobjective Optimization]
+  metadata_source: arXiv and official GitHub repository
+  venue_url: https://arxiv.org/
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
+- id: rdex-mop-indicator-guided-reconstructed-differential-evolution-for-fixed-budget-multiobjective-optimization
+  title: "RDEx-MOP: Indicator-Guided Reconstructed Differential Evolution for Fixed-Budget Multiobjective Optimization"
+  authors: [Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao]
+  author_line: Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao
+  year: 2026
+  date: "2026-03"
+  type: preprint
+  status: published
+  venue: arXiv
+  venue_line: arXiv
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: Cornell University
+  citations: 0
+  citation_checked_at: "2026-08-31"
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Public arXiv and official RDEx repository record
+  citation_source_url: https://scholar.google.com/scholar?q=10.48550%2FarXiv.2603.27092
+  url: https://doi.org/10.48550/arXiv.2603.27092
+  doi: 10.48550/arXiv.2603.27092
+  code_url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx-Series/tree/main/RDEx_MOP
+  tags: [Optimization, Evolutionary Computation, Multiobjective Optimization]
+  metadata_source: arXiv and official GitHub repository
+  venue_url: https://arxiv.org/
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
+- id: rdex-csop-feasibility-aware-reconstructed-differential-evolution-with-adaptive-epsilon-constraint-ranking
+  title: "RDEx-CSOP: Feasibility-Aware Reconstructed Differential Evolution with Adaptive epsilon-Constraint Ranking"
+  authors: [Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao]
+  author_line: Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao
+  year: 2026
+  date: "2026-03"
+  type: preprint
+  status: published
+  venue: arXiv
+  venue_line: arXiv
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: Cornell University
+  citations: 0
+  citation_checked_at: "2026-08-31"
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Public arXiv and official RDEx repository record
+  citation_source_url: https://scholar.google.com/scholar?q=10.48550%2FarXiv.2603.27090
+  url: https://doi.org/10.48550/arXiv.2603.27090
+  doi: 10.48550/arXiv.2603.27090
+  code_url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx-Series/tree/main/RDEx_CSOP
+  tags: [Optimization, Evolutionary Computation, Constrained Optimization]
+  metadata_source: arXiv and official GitHub repository
+  venue_url: https://arxiv.org/
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
+- id: rdex-sop-exploitation-biased-reconstructed-differential-evolution-for-fixed-budget-bound-constrained-single-objective-optimization
+  title: "RDEx-SOP: Exploitation-Biased Reconstructed Differential Evolution for Fixed-Budget Bound-Constrained Single-Objective Optimization"
+  authors: [Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao]
+  author_line: Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao
+  year: 2026
+  date: "2026-03"
+  type: preprint
+  status: published
+  venue: arXiv
+  venue_line: arXiv
+  volume: ""
+  issue: ""
+  pages: ""
+  publisher: Cornell University
+  citations: 0
+  citation_checked_at: "2026-08-31"
+  author_role: first_author
+  role_note: First author
+  source_group: indexed
+  source_label: Public arXiv and official RDEx repository record
+  citation_source_url: https://scholar.google.com/scholar?q=10.48550%2FarXiv.2603.27089
+  url: https://doi.org/10.48550/arXiv.2603.27089
+  doi: 10.48550/arXiv.2603.27089
+  code_url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx-Series/tree/main/RDEx_SOP
+  tags: [Optimization, Evolutionary Computation, Single-Objective Optimization]
+  metadata_source: arXiv and official GitHub repository
+  venue_url: https://arxiv.org/
+  selected: false
+  public: true
+  citation_authors_html: <strong>S. Tao</strong>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
 - id: relu-neural-networks-and-their-training
   title: ReLU Neural Networks and Their Training
   authors:
@@ -333,10 +501,14 @@
     metric_anchor_date: "2025-01-07"
     metric_anchor_kind: crossref_created_date
     verification_status: publisher_record_verified_no_public_acceptance_date
-    if_value: 9.1
-    if_year: 2024
+    if_value: 11.4
+    if_year: 2025
     jcr_quartile: Q1
-    jcr_year: 2023
+    jcr_year: 2025
+    citescore: 27.6
+    citescore_year: 2025
+    metric_checked_at: "2026-08-31"
+    metric_public_source_url: https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing
     cas_quartile: Q1
     cas_year: 2022
     cas_top: false
@@ -684,10 +856,17 @@
     metric_anchor_date: "2025-06-17"
     metric_anchor_kind: crossref_created_date
     verification_status: publisher_record_verified_no_public_acceptance_date
-    if_value: 8.0
-    if_year: 2024
+    if_value: 9.9
+    if_year: 2025
     jcr_quartile: Q1
-    jcr_year: 2023
+    jcr_year: 2025
+    jcr_top_10: true
+    jcr_category: Engineering, Multidisciplinary
+    jcr_rank: 4/179
+    citescore: 15.8
+    citescore_year: 2025
+    metric_checked_at: "2026-08-31"
+    metric_public_source_url: https://www.sciencedirect.com/journal/advanced-engineering-informatics
     cas_quartile: Q1
     cas_year: 2025
     cas_top: true
@@ -1558,10 +1737,15 @@
     metric_anchor_date: "2024-05-15"
     metric_anchor_kind: crossref_created_date
     verification_status: publisher_record_verified_no_public_acceptance_date
-    if_value: 8.7
-    if_year: 2023
+    if_value: 6.6
+    if_year: 2024
     jcr_quartile: Q1
-    jcr_year: 2023
+    jcr_year: 2024
+    jcr_top_10: false
+    citescore: 14.5
+    citescore_year: 2024
+    metric_checked_at: "2026-08-31"
+    metric_public_source_url: https://www.sciencedirect.com/journal/applied-soft-computing
     cas_quartile: Q1
     cas_year: 2022
     cas_top: false
@@ -1797,10 +1981,14 @@
     metric_anchor_date: "2024-07-04"
     metric_anchor_kind: crossref_created_date
     verification_status: publisher_record_verified_no_public_acceptance_date
-    if_value: 7.2
+    if_value: 7.6
     if_year: 2024
     jcr_quartile: Q1
-    jcr_year: 2023
+    jcr_year: 2024
+    citescore: 15.8
+    citescore_year: 2024
+    metric_checked_at: "2026-08-31"
+    metric_public_source_url: https://www.sciencedirect.com/journal/knowledge-based-systems
     cas_quartile: Q1
     cas_year: 2022
     cas_top: false
@@ -1977,6 +2165,7 @@
   citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.48550%2FarXiv.2404.16280
   url: https://doi.org/10.48550/arXiv.2404.16280
   doi: 10.48550/arXiv.2404.16280
+  code_url: https://github.com/SichenTao/IEEE-WCCI-CEC-2024-Competition-RDE
   tags:
     - Optimization
   metadata_source: OpenAlex
@@ -2088,10 +2277,14 @@
     metric_anchor_date: "2024-04-18"
     metric_anchor_kind: crossref_created_date
     verification_status: publisher_record_verified_no_public_acceptance_date
-    if_value: 8.8
-    if_year: 2023
+    if_value: 7.6
+    if_year: 2024
     jcr_quartile: Q1
-    jcr_year: 2023
+    jcr_year: 2024
+    citescore: 15.8
+    citescore_year: 2024
+    metric_checked_at: "2026-08-31"
+    metric_public_source_url: https://www.sciencedirect.com/journal/knowledge-based-systems
     cas_quartile: Q1
     cas_year: 2022
     cas_top: false
@@ -2473,10 +2666,14 @@
     metric_anchor_date: "2022-11-21"
     metric_anchor_kind: crossref_created_date
     verification_status: publisher_record_verified_no_public_acceptance_date
-    if_value: 8.263
-    if_year: 2022
+    if_value: 7.2
+    if_year: 2023
     jcr_quartile: Q1
-    jcr_year: 2022
+    jcr_year: 2023
+    citescore: 15.8
+    citescore_year: 2023
+    metric_checked_at: "2026-08-31"
+    metric_public_source_url: https://www.sciencedirect.com/journal/applied-soft-computing
     cas_quartile: Q1
     cas_year: 2022
     cas_top: true
@@ -3692,10 +3889,14 @@
     metric_anchor_date: "2021-01-07"
     metric_anchor_kind: crossref_created_date
     verification_status: publisher_record_verified_no_public_acceptance_date
-    if_value: 8.208
-    if_year: 2020
+    if_value: 11.533
+    if_year: 2021
     jcr_quartile: Q1
-    jcr_year: 2020
+    jcr_year: 2021
+    citescore: 18.0
+    citescore_year: 2021
+    metric_checked_at: "2026-08-31"
+    metric_public_source_url: https://www.sciencedirect.com/journal/energy-conversion-and-management
     cas_quartile: Q1
     cas_year: 2021
     cas_top: true

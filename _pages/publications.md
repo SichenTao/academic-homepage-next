@@ -12,7 +12,7 @@ nav_order: 3
 {% assign selected_publications = site.data.publications | where: 'selected', true %}
 {% assign public_publications = site.data.publications | where: 'public', true %}
 
-<p class="author-note"><strong>*</strong> Corresponding author; <strong>†</strong> co-first author.</p>
+<p class="author-note"><strong>*</strong> Corresponding author; <strong>†</strong> co-first author. Citation counts were last checked on August 31, 2026; journal metrics are shown only when they match the publication year.</p>
 
 <section aria-labelledby="selected-publications-heading">
   <h2 id="selected-publications-heading">selected publications</h2>
@@ -22,7 +22,9 @@ nav_order: 3
       <article class="selected-publication">
         <figure class="selected-publication-figure">
           {% if publication.venue_abbr %}
-            <span class="publication-venue-badge" title="{{ publication.venue | escape }}">{{ publication.venue_abbr }}</span>
+            {% if publication.venue_url %}<a class="publication-venue-badge-link" href="{{ publication.venue_url }}" aria-label="Visit {{ publication.venue | escape }}">{% endif %}
+              <span class="publication-venue-badge" title="{{ publication.venue | escape }}">{{ publication.venue_abbr }}</span>
+            {% if publication.venue_url %}</a>{% endif %}
           {% endif %}
           <img
             src="{{ publication.preview | relative_url }}"
@@ -38,7 +40,7 @@ nav_order: 3
         <div>
           <h3>{{ publication.title }}</h3>
           <p class="publication-authors">{{ publication.citation_authors_html }}</p>
-          <p class="publication-venue"><em>{{ publication.venue }}</em>, {{ publication.year }}.</p>
+          <p class="publication-venue"><em>{% if publication.venue_url %}<a href="{{ publication.venue_url }}">{{ publication.venue }}</a>{% else %}{{ publication.venue }}{% endif %}</em>, {{ publication.year }}.</p>
           <div class="publication-actions">
             {% if publication.abstract_summary %}
               <details class="publication-abstract-details">
@@ -47,8 +49,10 @@ nav_order: 3
               </details>
             {% endif %}
             {% if publication.doi %}<a href="https://doi.org/{{ publication.doi }}">DOI</a>{% endif %}
+            {% if publication.code_url %}<a href="{{ publication.code_url }}">CODE</a>{% endif %}
             <a href="#{{ publication.id }}">Citation</a>
           </div>
+          {% include publication_metrics.liquid publication=publication %}
         </div>
       </article>
     {% endfor %}
@@ -80,19 +84,15 @@ nav_order: 3
             >
               <span class="citation-authors">{{ publication.citation_authors_html }}</span>,
               “<span class="citation-title">{{ publication.title }}</span>,”
-              <em>{{ publication.venue }}</em>{% if publication.volume %}, vol. {{ publication.volume }}{% endif %}{% if publication.issue %}, no. {{ publication.issue }}{% endif %}{% if publication.pages %}, {{ publication.pages }}{% endif %}, {{ publication.year }}.
+              <em>{% if publication.venue_url %}<a href="{{ publication.venue_url }}">{{ publication.venue }}</a>{% else %}{{ publication.venue }}{% endif %}</em>{% if publication.volume %}, vol. {{ publication.volume }}{% endif %}{% if publication.issue %}, no. {{ publication.issue }}{% endif %}{% if publication.pages %}, {{ publication.pages }}{% endif %}, {{ publication.year }}.
               <span class="citation-actions">
-                {% if publication.url %}<a href="{{ publication.url }}">Paper</a>{% endif %}
+                {% capture doi_url %}https://doi.org/{{ publication.doi }}{% endcapture %}
+                {% if publication.url and publication.url != doi_url %}<a href="{{ publication.url }}">Paper</a>{% endif %}
                 {% if publication.doi %}<a href="https://doi.org/{{ publication.doi }}">DOI</a>{% endif %}
+                {% if publication.code_url %}<a href="{{ publication.code_url }}">CODE</a>{% endif %}
                 <button type="button" class="copy-citation" data-copy-citation>Copy</button>
               </span>
-              <details class="publication-metrics">
-                <summary>Metrics</summary>
-                <span>Citations: {{ publication.citations | default: 0 }}</span>
-                {% if publication.verification.if_value %}<span>IF {{ publication.verification.if_value }} ({{ publication.verification.if_year }})</span>{% endif %}
-                {% if publication.verification.jcr_quartile %}<span>JCR {{ publication.verification.jcr_quartile }} ({{ publication.verification.jcr_year }})</span>{% endif %}
-                {% if publication.verification.cas_quartile %}<span>CAS {{ publication.verification.cas_quartile }} ({{ publication.verification.cas_year }})</span>{% endif %}
-              </details>
+              {% include publication_metrics.liquid publication=publication %}
             </li>
           {% endfor %}
         </ol>

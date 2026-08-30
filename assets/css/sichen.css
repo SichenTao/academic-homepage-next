@@ -132,6 +132,21 @@ h3,
   width: 100%;
 }
 
+.publication-venue-badge-link {
+  display: block;
+  text-decoration: none;
+}
+
+.publication-venue-badge-link:hover,
+.publication-venue-badge-link:focus-visible {
+  text-decoration: none;
+}
+
+.publication-venue-badge-link:hover .publication-venue-badge,
+.publication-venue-badge-link:focus-visible .publication-venue-badge {
+  background: var(--global-hover-color);
+}
+
 .selected-publication-figure img {
   background: #fff;
   border: 1px solid rgba(21, 18, 29, 0.09);
@@ -347,6 +362,27 @@ h3,
 
 .citation-actions {
   margin-left: 0.28rem;
+}
+
+.publication-venue a {
+  color: inherit;
+}
+
+.publication-metric-line {
+  color: var(--global-text-color-light);
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 0.78rem;
+  gap: 0.18rem 0.34rem;
+  line-height: 1.4;
+  margin: 0.3rem 0 0;
+}
+
+.publication-metric-line a {
+  color: var(--global-text-color-light);
+  text-decoration: underline;
+  text-decoration-color: var(--global-divider-color);
+  text-underline-offset: 2px;
 }
 
 .publication-metrics {

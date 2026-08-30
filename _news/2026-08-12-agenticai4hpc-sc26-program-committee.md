@@ -4,7 +4,7 @@ date: "2026-08-12"
 inline: false
 homepage: true
 category: Service
-title: Program Committee member for AgenticAI4HPC'26 at SC26
+title: Sichen Tao joins the AgenticAI4HPC'26 Program Committee at SC26
 organization: First International Workshop on Agentic AI for HPC, SC26
 external_url: https://ornl.github.io/events/agenticai4hpc2026/
 ---
