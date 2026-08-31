@@ -46,6 +46,7 @@ requireText(css, ".publication-citation-preview", "citation preview style");
 requireText(js, "navigator.clipboard", "clipboard interaction");
 requireText(js, 'button.setAttribute("aria-expanded"', "accessible abstract disclosure state");
 requireText(js, "positionCitationPreview", "viewport-aware citation preview placement");
+requireText(js, "menuPreviews", "all previews in one menu share viewport-aware placement");
 requireText(js, 'event.key !== "Escape"', "keyboard menu dismissal");
 requireText(metrics, "metric_basis contains 'acceptance'", "accepted-paper metrics");
 
