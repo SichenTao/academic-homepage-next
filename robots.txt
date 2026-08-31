@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sichentao.github.io/academic-homepage-next/sitemap.xml
