@@ -94,26 +94,37 @@
 
     <div class="publication-actions" aria-label="Publication actions">
       {% if publication.abstract %}
-        <details class="publication-abstract-details">
-          <summary>Abstract</summary>
-          <p>{{ publication.abstract }}</p>
-        </details>
+        <button
+          type="button"
+          class="publication-abstract-toggle publication-tooltip-trigger"
+          data-tooltip="Show detailed abstract"
+          aria-expanded="false"
+          aria-controls="abstract-{{ entry_id }}"
+        >
+          Abstract
+        </button>
       {% endif %}
       {% if paper_url -%}
-        <a href="{{ paper_url }}">{{ paper_label }}</a>
+        <a
+          href="{{ paper_url }}"
+          class="publication-tooltip-trigger"
+          data-tooltip="{% if paper_label == 'PDF' %}Open the full-text PDF{% else %}Open the publisher page to access the paper{% endif %}"
+        >
+          {{- paper_label -}}
+        </a>
       {%- endif %}
       {% if publication.doi -%}
         <span class="publication-doi-action">
           <button
             type="button"
             data-copy-value="{{ publication.doi | escape }}"
-            data-copy-label="DOI"
-            data-copy-success="Copied DOI: {{ publication.doi | escape }}"
+            data-copy-label="doi"
+            data-copy-success="Copied doi: {{ publication.doi | escape }}"
             aria-describedby="doi-tip-{{ entry_id }}"
           >
-            DOI
+            doi
           </button>
-          <span id="doi-tip-{{ entry_id }}" class="publication-action-tooltip" role="tooltip">Copy DOI: {{ publication.doi }}</span>
+          <span id="doi-tip-{{ entry_id }}" class="publication-action-tooltip" role="tooltip">Copy doi: {{ publication.doi }}</span>
         </span>
       {%- endif %}
       {% assign artifacts = publication.artifacts %}
@@ -122,7 +133,7 @@
       {% endif %}
       {% if artifacts and artifacts.size > 0 %}
         <details class="publication-action-menu publication-artifact-menu">
-          <summary>Data &amp; Code</summary>
+          <summary class="publication-tooltip-trigger" data-tooltip="View available data and code resources">Data &amp; Code</summary>
           <div class="publication-action-menu-panel" role="group" aria-label="Data and code resources">
             {% for artifact in artifacts %}
               <a href="{{ artifact.url }}">{{ artifact.label | default: artifact.type | capitalize }}</a>
@@ -131,29 +142,75 @@
         </details>
       {% elsif publication.code_url %}
         <details class="publication-action-menu publication-artifact-menu">
-          <summary>Data &amp; Code</summary>
+          <summary class="publication-tooltip-trigger" data-tooltip="View available data and code resources">Data &amp; Code</summary>
           <div class="publication-action-menu-panel" role="group" aria-label="Data and code resources">
             <a href="{{ publication.code_url }}">Code</a>
           </div>
         </details>
       {% endif %}
-      {% if copy_payload.ieee or copy_payload.bibtex %}
+      {% if copy_payload.ieee or copy_payload.nature or copy_payload.bibtex %}
         <details class="publication-action-menu publication-cite-menu">
-          <summary>Cite This</summary>
+          <summary class="publication-tooltip-trigger" data-tooltip="Copy a formatted citation or BibTeX">Cite This</summary>
           <div class="publication-action-menu-panel" role="group" aria-label="Citation formats">
-            {% if copy_payload.ieee %}
-              <button type="button" data-copy-source="cite-{{ entry_id }}" data-copy-label="IEEE citation">Copy IEEE citation</button>
-            {% endif %}
             {% if copy_payload.bibtex %}
-              <button type="button" data-copy-source="bib-{{ entry_id }}" data-copy-label="BibTeX">Copy BibTeX</button>
+              <div class="publication-citation-option">
+                <button
+                  type="button"
+                  data-copy-source="bib-{{ entry_id }}"
+                  data-copy-label="Copy - BibTeX"
+                  data-copy-success="BibTeX copied to clipboard."
+                >
+                  Copy - BibTeX
+                </button>
+              </div>
+            {% endif %}
+            {% if copy_payload.ieee %}
+              <div class="publication-citation-option">
+                <button
+                  type="button"
+                  data-copy-source="cite-ieee-{{ entry_id }}"
+                  data-copy-label="Copy - IEEE citation text"
+                  data-copy-success="IEEE citation text copied to clipboard."
+                  aria-describedby="cite-ieee-preview-{{ entry_id }}"
+                >
+                  Copy - IEEE citation text
+                </button>
+                <span id="cite-ieee-preview-{{ entry_id }}" class="publication-citation-preview" role="tooltip">
+                  {{- copy_payload.ieee | escape -}}
+                </span>
+              </div>
+            {% endif %}
+            {% if copy_payload.nature %}
+              <div class="publication-citation-option">
+                <button
+                  type="button"
+                  data-copy-source="cite-nature-{{ entry_id }}"
+                  data-copy-label="Copy - Nature citation text"
+                  data-copy-success="Nature citation text copied to clipboard."
+                  aria-describedby="cite-nature-preview-{{ entry_id }}"
+                >
+                  Copy - Nature citation text
+                </button>
+                <span id="cite-nature-preview-{{ entry_id }}" class="publication-citation-preview" role="tooltip">
+                  {{- copy_payload.nature | escape -}}
+                </span>
+              </div>
             {% endif %}
           </div>
         </details>
       {% endif %}
+      {% if publication.abstract %}
+        <div id="abstract-{{ entry_id }}" class="publication-abstract-panel" hidden>
+          <p>{{ publication.abstract }}</p>
+        </div>
+      {% endif %}
     </div>
 
     {% if copy_payload.ieee %}
-      <textarea id="cite-{{ entry_id }}" class="publication-copy-payload" tabindex="-1" aria-hidden="true">{{ copy_payload.ieee }}</textarea>
+      <textarea id="cite-ieee-{{ entry_id }}" class="publication-copy-payload" tabindex="-1" aria-hidden="true">{{ copy_payload.ieee }}</textarea>
+    {% endif %}
+    {% if copy_payload.nature %}
+      <textarea id="cite-nature-{{ entry_id }}" class="publication-copy-payload" tabindex="-1" aria-hidden="true">{{ copy_payload.nature }}</textarea>
     {% endif %}
     {% if copy_payload.bibtex %}
       <textarea id="bib-{{ entry_id }}" class="publication-copy-payload" tabindex="-1" aria-hidden="true">{{ copy_payload.bibtex }}</textarea>

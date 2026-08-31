@@ -38,6 +38,20 @@
     if (!copied) throw new Error("Clipboard copy failed");
   };
 
+  document.addEventListener("click", (event) => {
+    const button = event.target.closest(".publication-abstract-toggle");
+    if (!button) return;
+
+    const panelId = button.getAttribute("aria-controls");
+    const panel = panelId ? document.getElementById(panelId) : null;
+    if (!panel) return;
+
+    const willExpand = button.getAttribute("aria-expanded") !== "true";
+    button.setAttribute("aria-expanded", String(willExpand));
+    button.dataset.tooltip = willExpand ? "Hide detailed abstract" : "Show detailed abstract";
+    panel.hidden = !willExpand;
+  });
+
   const actionMenus = [...document.querySelectorAll(".publication-action-menu")];
   const closeMenus = (except = null) => {
     actionMenus.forEach((menu) => {

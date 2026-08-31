@@ -19,18 +19,32 @@ requireText(homepage, "publication_entry.liquid", "homepage selected publication
 requireText(entry, "publication.abstract", "shared publication entry");
 requireText(entry, "publication_stage", "publication stage rendering");
 requireText(entry, "publication.article_number", "article number rendering");
-requireText(entry, "<summary>Abstract</summary>", "clear Abstract action");
-requireText(entry, 'data-copy-label="DOI"', "DOI copy action");
-requireText(entry, "Copy DOI:", "DOI value tooltip");
-requireText(entry, "<summary>Cite This</summary>", "unified citation menu");
-requireText(entry, "Copy IEEE citation", "IEEE citation menu action");
-requireText(entry, "Copy BibTeX", "BibTeX menu action");
+requireText(entry, "Show detailed abstract", "clear Abstract action tooltip");
+requireText(entry, 'data-copy-label="doi"', "lowercase doi copy action");
+requireText(entry, "Copy doi:", "doi value tooltip");
+requireText(entry, "Copy a formatted citation or BibTeX", "unified citation menu");
+requireText(entry, "Copy - BibTeX", "BibTeX-first menu action");
+requireText(entry, "Copy - IEEE citation text", "IEEE citation menu action");
+requireText(entry, "Copy - Nature citation text", "Nature citation menu action");
 requireText(entry, "Data &amp; Code", "unified artifacts menu");
+
+const citationOrder = ["Copy - BibTeX", "Copy - IEEE citation text", "Copy - Nature citation text"].map((label) => entry.indexOf(label));
+if (citationOrder.some((index) => index < 0) || !(citationOrder[0] < citationOrder[1] && citationOrder[1] < citationOrder[2])) {
+  throw new Error("Cite This actions must stay ordered as BibTeX, IEEE, then Nature");
+}
+requireText(entry, 'data-copy-source="cite-ieee-', "IEEE copy source binding");
+requireText(entry, "copy_payload.ieee | escape", "IEEE preview uses the copied payload");
+requireText(entry, 'data-copy-source="cite-nature-', "Nature copy source binding");
+requireText(entry, "copy_payload.nature | escape", "Nature preview uses the copied payload");
 requireText(css, ".publication-author-list em", "default author emphasis");
 requireText(css, "border-bottom: 1px solid currentColor", "default author underline");
 requireText(css, ".publication-action-tooltip", "DOI tooltip style");
 requireText(css, ".publication-action-menu-panel", "publication action menu style");
+requireText(entry, "publication-abstract-toggle", "abstract disclosure button");
+requireText(css, ".publication-abstract-panel", "abstract panel stays below the action row");
+requireText(css, ".publication-citation-preview", "citation preview style");
 requireText(js, "navigator.clipboard", "clipboard interaction");
+requireText(js, 'button.setAttribute("aria-expanded"', "accessible abstract disclosure state");
 requireText(js, 'event.key !== "Escape"', "keyboard menu dismissal");
 requireText(metrics, "metric_basis contains 'acceptance'", "accepted-paper metrics");
 
@@ -41,7 +55,10 @@ if (metrics.includes("Verified metrics:")) {
   throw new Error("metrics must not include the redundant Verified metrics prefix");
 }
 if (!fs.existsSync(path.join(root, "_data/publication_citations.yml"))) {
-  throw new Error("generated IEEE/BibTeX copy data is missing");
+  throw new Error("generated IEEE/Nature/BibTeX copy data is missing");
 }
+
+const citationPayloads = read("_data/publication_citations.yml");
+requireText(citationPayloads, "nature:", "generated Nature citation data");
 
 console.log("Publication style contract: PASS");

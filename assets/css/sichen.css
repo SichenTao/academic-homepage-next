@@ -266,11 +266,6 @@ h3,
   gap: 0.35rem;
 }
 
-.publication-abstract-details {
-  display: inline-block;
-}
-
-.publication-abstract-details summary,
 .publication-action-menu > summary {
   background: transparent;
   border: 1px solid var(--global-divider-color);
@@ -283,13 +278,10 @@ h3,
   padding: 0.18rem 0.4rem;
 }
 
-.publication-abstract-details summary::-webkit-details-marker,
 .publication-action-menu > summary::-webkit-details-marker {
   display: none;
 }
 
-.publication-abstract-details summary:hover,
-.publication-abstract-details summary:focus-visible,
 .publication-action-menu > summary:hover,
 .publication-action-menu > summary:focus-visible,
 .publication-action-menu[open] > summary {
@@ -297,18 +289,17 @@ h3,
   text-decoration: none;
 }
 
-.publication-abstract-details summary:focus-visible,
 .publication-action-menu > summary:focus-visible {
   outline: 2px solid var(--global-theme-color);
   outline-offset: 2px;
 }
 
-.publication-abstract-details[open] {
-  flex-basis: 100%;
-  order: 2;
+.publication-abstract-panel {
+  flex: 0 0 100%;
+  order: 1;
 }
 
-.publication-abstract-details p {
+.publication-abstract-panel p {
   border-left: 2px solid var(--global-theme-color);
   color: var(--global-text-color-light);
   font-size: 0.86rem;
@@ -362,6 +353,49 @@ h3,
   text-decoration: none;
 }
 
+.publication-tooltip-trigger {
+  position: relative;
+}
+
+.publication-tooltip-trigger::after {
+  background: var(--global-text-color);
+  border-radius: 4px;
+  bottom: calc(100% + 0.45rem);
+  color: var(--global-bg-color);
+  content: attr(data-tooltip);
+  font-size: 0.74rem;
+  left: 50%;
+  line-height: 1.35;
+  max-width: min(300px, calc(100vw - 2rem));
+  opacity: 0;
+  padding: 0.38rem 0.5rem;
+  pointer-events: none;
+  position: absolute;
+  text-align: left;
+  transform: translate(-50%, 0.2rem);
+  transition:
+    opacity 120ms ease,
+    transform 120ms ease;
+  visibility: hidden;
+  white-space: normal;
+  width: max-content;
+  z-index: 25;
+}
+
+@media (hover: hover) {
+  .publication-tooltip-trigger:hover::after {
+    opacity: 1;
+    transform: translate(-50%, 0);
+    visibility: visible;
+  }
+}
+
+.publication-tooltip-trigger:focus-visible::after {
+  opacity: 1;
+  transform: translate(-50%, 0);
+  visibility: visible;
+}
+
 .publication-action-tooltip {
   background: var(--global-text-color);
   border-radius: 4px;
@@ -395,6 +429,78 @@ h3,
   opacity: 1;
   transform: translate(-50%, 0);
   visibility: visible;
+}
+
+.publication-cite-menu .publication-action-menu-panel {
+  overflow: visible;
+}
+
+.publication-citation-option {
+  position: relative;
+}
+
+.publication-citation-preview {
+  background: var(--global-text-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 5px;
+  box-shadow: 0 8px 24px rgba(21, 18, 29, 0.18);
+  color: var(--global-bg-color);
+  font-size: 0.76rem;
+  left: calc(100% + 0.55rem);
+  line-height: 1.45;
+  max-height: min(15rem, calc(100vh - 2rem));
+  opacity: 0;
+  overflow: auto;
+  padding: 0.65rem 0.75rem;
+  pointer-events: none;
+  position: absolute;
+  text-align: left;
+  top: 0;
+  transform: translateX(-0.2rem);
+  transition:
+    opacity 120ms ease,
+    transform 120ms ease;
+  visibility: hidden;
+  white-space: normal;
+  width: min(34rem, calc(100vw - 2rem));
+  z-index: 30;
+}
+
+@media (hover: hover) {
+  .publication-citation-option:hover .publication-citation-preview {
+    opacity: 1;
+    transform: translateX(0);
+    visibility: visible;
+  }
+}
+
+.publication-citation-option:focus-within .publication-citation-preview {
+  opacity: 1;
+  transform: translateX(0);
+  visibility: visible;
+}
+
+@media (max-width: 1100px) {
+  .publication-citation-preview {
+    bottom: 1rem;
+    left: 1rem;
+    max-height: min(12rem, calc(100vh - 2rem));
+    position: fixed;
+    right: 1rem;
+    top: auto;
+    transform: translateY(0.2rem);
+    width: auto;
+  }
+
+  .publication-citation-option:focus-within .publication-citation-preview {
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 1100px) and (hover: hover) {
+  .publication-citation-option:hover .publication-citation-preview {
+    transform: translateY(0);
+  }
 }
 
 .publication-copy-status {

@@ -4,6 +4,9 @@ a-fractional-order-gradient-guided-dynamic-block-coordinate-evolution-strategy-f
     Gradient Guided Dynamic Block-Coordinate Evolution Strategy for Large-Scale Expensive
     Optimization,” IEEE Transactions on Evolutionary Computation, accepted for publication,
     2026.
+  nature: Hu, H. et al. A Fractional-Order Gradient Guided Dynamic Block-Coordinate
+    Evolution Strategy for Large-Scale Expensive Optimization. IEEE Trans. Evol. Comput.,
+    in press (2026).
   bibtex: |-
     @article{hu2026fractional,
       title = {A Fractional-Order Gradient Guided Dynamic Block-Coordinate Evolution Strategy for Large-Scale Expensive Optimization},
@@ -24,6 +27,9 @@ rdex-cmop-feasibility-aware-indicator-guided-differential-evolution-for-fixed-bu
   ieee: 'S. Tao, Y. Yang, R. Zhao, K. Wang, S. Liu, and S. Gao, “RDEx-CMOP: Feasibility-Aware
     Indicator-Guided Differential Evolution for Fixed-Budget Constrained Multiobjective
     Optimization,” arXiv:2604.03708, 2026, doi: 10.48550/arXiv.2604.03708.'
+  nature: 'Tao, S. et al. RDEx-CMOP: Feasibility-Aware Indicator-Guided Differential
+    Evolution for Fixed-Budget Constrained Multiobjective Optimization. Preprint at
+    https://doi.org/10.48550/arXiv.2604.03708 (2026).'
   bibtex: |-
     @misc{tao2026rdexcmop,
       title = {RDEx-CMOP: Feasibility-Aware Indicator-Guided Differential Evolution for Fixed-Budget Constrained Multiobjective Optimization},
@@ -42,6 +48,9 @@ rdex-mop-indicator-guided-reconstructed-differential-evolution-for-fixed-budget-
   ieee: 'S. Tao, Y. Yang, R. Zhao, K. Wang, S. Liu, and S. Gao, “RDEx-MOP: Indicator-Guided
     Reconstructed Differential Evolution for Fixed-Budget Multiobjective Optimization,”
     arXiv:2603.27092, 2026, doi: 10.48550/arXiv.2603.27092.'
+  nature: 'Tao, S. et al. RDEx-MOP: Indicator-Guided Reconstructed Differential Evolution
+    for Fixed-Budget Multiobjective Optimization. Preprint at https://doi.org/10.48550/arXiv.2603.27092
+    (2026).'
   bibtex: |-
     @misc{tao2026rdexmop,
       title = {RDEx-MOP: Indicator-Guided Reconstructed Differential Evolution for Fixed-Budget Multiobjective Optimization},
@@ -60,6 +69,9 @@ rdex-csop-feasibility-aware-reconstructed-differential-evolution-with-adaptive-e
   ieee: 'S. Tao, Y. Yang, R. Zhao, K. Wang, S. Liu, and S. Gao, “RDEx-CSOP: Feasibility-Aware
     Reconstructed Differential Evolution with Adaptive epsilon-Constraint Ranking,”
     arXiv:2603.27090, 2026, doi: 10.48550/arXiv.2603.27090.'
+  nature: 'Tao, S. et al. RDEx-CSOP: Feasibility-Aware Reconstructed Differential
+    Evolution with Adaptive epsilon-Constraint Ranking. Preprint at https://doi.org/10.48550/arXiv.2603.27090
+    (2026).'
   bibtex: |-
     @misc{tao2026rdexcsop,
       title = {RDEx-CSOP: Feasibility-Aware Reconstructed Differential Evolution with Adaptive epsilon-Constraint Ranking},
@@ -78,6 +90,9 @@ rdex-csop-feasibility-aware-reconstructed-differential-evolution-with-adaptive-e
 : ieee: 'S. Tao, Y. Yang, R. Zhao, K. Wang, S. Liu, and S. Gao, “RDEx-SOP: Exploitation-Biased
     Reconstructed Differential Evolution for Fixed-Budget Bound-Constrained Single-Objective
     Optimization,” arXiv:2603.27089, 2026, doi: 10.48550/arXiv.2603.27089.'
+  nature: 'Tao, S. et al. RDEx-SOP: Exploitation-Biased Reconstructed Differential
+    Evolution for Fixed-Budget Bound-Constrained Single-Objective Optimization. Preprint
+    at https://doi.org/10.48550/arXiv.2603.27089 (2026).'
   bibtex: |-
     @misc{tao2026rdexsop,
       title = {RDEx-SOP: Exploitation-Biased Reconstructed Differential Evolution for Fixed-Budget Bound-Constrained Single-Objective Optimization},
@@ -95,6 +110,8 @@ rdex-csop-feasibility-aware-reconstructed-differential-evolution-with-adaptive-e
 relu-neural-networks-and-their-training:
   ieee: 'G. Luo, X. G. Wang, W. Zhao, S. Tao, and Z. Tang, “ReLU Neural Networks and
     Their Training,” Mathematics, vol. 14, no. 1, Art. no. 39, 2026, doi: 10.3390/math14010039.'
+  nature: Luo, G., Wang, X. G., Zhao, W., Tao, S. & Tang, Z. ReLU Neural Networks
+    and Their Training. Mathematics 14, 39 (2026).
   bibtex: |-
     @article{luo2026relu,
       title = {ReLU Neural Networks and Their Training},
@@ -119,6 +136,10 @@ relu-neural-networks-and-their-training:
     Modeling and Multi-Step Forecasting in Sendai,” in Proceedings of the Supercomputing
     Asia and International Conference on High Performance Computing in Asia Pacific
     Region Workshops, pp. 177-185, 2026, doi: 10.1145/3784828.3785258.'
+  nature: 'Pan, X. et al. CityScaleCast: Spatiotemporal GNN for City-Scale Weather
+    Prediction with GraphCast-Guided Parallel Modeling and Multi-Step Forecasting
+    in Sendai. In Proceedings of the Supercomputing Asia and International Conference
+    on High Performance Computing in Asia Pacific Region Workshops, 177–185 (2026).'
   bibtex: |-
     @inproceedings{pan2026cityscalecast,
       title = {CityScaleCast: Spatiotemporal GNN for City-Scale Weather Prediction with GraphCast-Guided Parallel Modeling and Multi-Step Forecasting in Sendai},
@@ -137,6 +158,9 @@ adversarial-game-optimization-a-game-theoretic-metaheuristic-for-efficient-compl
   ieee: 'C. Li, Q. Zhang, J. Li, S. Tao, and D. Oliva, “Adversarial game optimization:
     A game-theoretic metaheuristic for efficient complex optimization and engineering
     applications,” Information Sciences, vol. 735, Art. no. 123022, 2026, doi: 10.1016/j.ins.2025.123022.'
+  nature: 'Li, C., Zhang, Q., Li, J., Tao, S. & Oliva, D. Adversarial game optimization:
+    A game-theoretic metaheuristic for efficient complex optimization and engineering
+    applications. Inf. Sci. 735, 123022 (2026).'
   bibtex: |-
     @article{li2026adversarial,
       title = {Adversarial game optimization: A game-theoretic metaheuristic for efficient complex optimization and engineering applications},
@@ -163,6 +187,9 @@ adversarial-game-optimization-a-game-theoretic-metaheuristic-for-efficient-compl
     adaptive task allocation and planning framework for human–robot collaboration,”
     Robotics and Computer-Integrated Manufacturing, vol. 94, Art. no. 102942, 2025,
     doi: 10.1016/j.rcim.2024.102942.'
+  nature: 'Zhao, R., Tao, S. & Li, P. Safety-efficiency integrated assembly: The next-stage
+    adaptive task allocation and planning framework for human–robot collaboration.
+    Robot. Comput.-Integr. Manuf. 94, 102942 (2025).'
   bibtex: |-
     @article{zhao2025safety,
       title = {Safety-efficiency integrated assembly: The next-stage adaptive task allocation and planning framework for human–robot collaboration},
@@ -187,6 +214,9 @@ improved-spherical-search-algorithm-with-memory-based-dynamic-population-for-opt
   ieee: 'S. Liu, S. Tao, K. Wang, Z. Lei, and S. Gao, “Improved spherical search algorithm
     with memory-based dynamic population for optimization,” The Journal of Supercomputing,
     vol. 81, no. 5, Art. no. 726, 2025, doi: 10.1007/s11227-025-07095-z.'
+  nature: Liu, S., Tao, S., Wang, K., Lei, Z. & Gao, S. Improved spherical search
+    algorithm with memory-based dynamic population for optimization. The Journal of
+    Supercomputing 81, 726 (2025).
   bibtex: |-
     @article{liu2025improved,
       title = {Improved spherical search algorithm with memory-based dynamic population for optimization},
@@ -209,6 +239,10 @@ improved-spherical-search-algorithm-with-memory-based-dynamic-population-for-opt
     Planning for Assembly Systems with Self-learning Multi-objective Evolutionary
     Optimizer,” in IEEE International Conference on Real-time Computing and Robotics
     (RCAR 2025), pp. 1272-1277, 2025, doi: 10.1109/RCAR65431.2025.11139773.'
+  nature: Zhao, R., Tao, S. & Li, P. Human-robot Collaborative Resource and Task Planning
+    for Assembly Systems with Self-learning Multi-objective Evolutionary Optimizer.
+    In IEEE International Conference on Real-time Computing and Robotics (RCAR 2025),
+    1272–1277 (2025).
   bibtex: |-
     @inproceedings{zhao2025human,
       title = {Human-robot Collaborative Resource and Task Planning for Assembly Systems with Self-learning Multi-objective Evolutionary Optimizer},
@@ -228,6 +262,9 @@ improved-spherical-search-algorithm-with-memory-based-dynamic-population-for-opt
     human–robot collaborative systems with efficient reinforcement self-learning multi-objective
     evolutionary optimizer,” Advanced Engineering Informatics, vol. 67, Art. no. 103508,
     2025, doi: 10.1016/j.aei.2025.103508.'
+  nature: Zhao, R., Tao, S. & Li, P. Human-centric assembly planning framework for
+    human–robot collaborative systems with efficient reinforcement self-learning multi-objective
+    evolutionary optimizer. Adv. Eng. Inform. 67, 103508 (2025).
   bibtex: |-
     @article{zhao2025human2,
       title = {Human-centric assembly planning framework for human–robot collaborative systems with efficient reinforcement self-learning multi-objective evolutionary optimizer},
@@ -252,6 +289,8 @@ gpu-cuda-accelerated-gradient-growth-optimizer-for-efficient-complex-numerical-g
   ieee: 'Q. Zhang, W. Chen, S. Pang, S. Tao, C. Li, and X. Yin, “GPU/CUDA-Accelerated
     Gradient Growth Optimizer for Efficient Complex Numerical Global Optimization,”
     Parallel Computing, vol. 126, Art. no. 103160, 2025, doi: 10.1016/j.parco.2025.103160.'
+  nature: Zhang, Q. et al. GPU/CUDA-Accelerated Gradient Growth Optimizer for Efficient
+    Complex Numerical Global Optimization. Parallel Computing 126, 103160 (2025).
   bibtex: |-
     @article{zhang2025cuda,
       title = {GPU/CUDA-Accelerated Gradient Growth Optimizer for Efficient Complex Numerical Global Optimization},
@@ -271,6 +310,9 @@ enhancing-convolutional-neural-network-robustness-against-image-noise-via-an-art
   ieee: 'B. Li, Y. Todo, S. Tao, C. Tang, and Y. Wang, “Enhancing Convolutional Neural
     Network Robustness Against Image Noise via an Artificial Visual System,” Mathematics,
     vol. 13, no. 1, Art. no. 142, 2025, doi: 10.3390/math13010142.'
+  nature: Li, B., Todo, Y., Tao, S., Tang, C. & Wang, Y. Enhancing Convolutional Neural
+    Network Robustness Against Image Noise via an Artificial Visual System. Mathematics
+    13, 142 (2025).
   bibtex: |-
     @article{li2025enhancing,
       title = {Enhancing Convolutional Neural Network Robustness Against Image Noise via an Artificial Visual System},
@@ -294,6 +336,8 @@ ai-powered-model-for-predicting-mortality-risk-in-va-ecmo-patients-a-multicenter
     M. Diao, “AI-powered model for predicting mortality risk in VA-ECMO patients:
     a multicenter cohort study,” Scientific Reports, vol. 15, no. 1, Art. no. 10362,
     2025, doi: 10.1038/s41598-025-94734-3.'
+  nature: 'Wang, S. et al. AI-powered model for predicting mortality risk in VA-ECMO
+    patients: a multicenter cohort study. Scientific Reports 15, 10362 (2025).'
   bibtex: |-
     @article{wang2025powered,
       title = {AI-powered model for predicting mortality risk in VA-ECMO patients: a multicenter cohort study},
@@ -315,6 +359,8 @@ a-state-of-the-art-fractional-order-driven-differential-evolution-for-wind-farm-
   ieee: 'S. Tao, S. Liu, R. Zhao, Y. Yang, H. Todo, and H. Yang, “A State-of-the-Art
     Fractional Order-Driven Differential Evolution for Wind Farm Layout Optimization,”
     Mathematics, vol. 13, no. 2, Art. no. 282, 2025, doi: 10.3390/math13020282.'
+  nature: Tao, S. et al. A State-of-the-Art Fractional Order-Driven Differential Evolution
+    for Wind Farm Layout Optimization. Mathematics 13, 282 (2025).
   bibtex: |-
     @article{tao2025state,
       title = {A State-of-the-Art Fractional Order-Driven Differential Evolution for Wind Farm Layout Optimization},
@@ -337,6 +383,9 @@ a-reinforcement-learning-assisted-fractional-order-differential-evolution-for-so
   ieee: 'Y. Wang, Y. Yang, S. Tao, L. Qi, and H. Shen, “A Reinforcement Learning-Assisted
     Fractional-Order Differential Evolution for Solving Wind Farm Layout Optimization
     Problems,” Mathematics, vol. 13, no. 18, Art. no. 2935, 2025, doi: 10.3390/math13182935.'
+  nature: Wang, Y., Yang, Y., Tao, S., Qi, L. & Shen, H. A Reinforcement Learning-Assisted
+    Fractional-Order Differential Evolution for Solving Wind Farm Layout Optimization
+    Problems. Mathematics 13, 2935 (2025).
   bibtex: |-
     @article{wang2025reinforcement,
       title = {A Reinforcement Learning-Assisted Fractional-Order Differential Evolution for Solving Wind Farm Layout Optimization Problems},
@@ -360,6 +409,9 @@ a-reinforcement-learning-assisted-fractional-order-differential-evolution-for-so
     Order-Operator for Differential Evolution in Solving Complex Bound Constrained
     Optimization Problems,” Mathematics, vol. 13, no. 9, Art. no. 1389, 2025, doi:
     10.3390/math13091389.'
+  nature: Tao, S. et al. A Novel Detection-and-Replacement-Based Order-Operator for
+    Differential Evolution in Solving Complex Bound Constrained Optimization Problems.
+    Mathematics 13, 1389 (2025).
   bibtex: |-
     @article{tao2025novel,
       title = {A Novel Detection-and-Replacement-Based Order-Operator for Differential Evolution in Solving Complex Bound Constrained Optimization Problems},
@@ -382,6 +434,8 @@ a-biologically-inspired-model-for-detecting-object-motion-direction-in-stereosco
   ieee: 'Y. Hua, S. Tao, Y. Todo, T. Chen, Z. Qiu, and Z. Tang, “A Biologically Inspired
     Model for Detecting Object Motion Direction in Stereoscopic Vision,” Symmetry,
     vol. 17, no. 2, Art. no. 162, 2025, doi: 10.3390/sym17020162.'
+  nature: Hua, Y. et al. A Biologically Inspired Model for Detecting Object Motion
+    Direction in Stereoscopic Vision. Symmetry 17, 162 (2025).
   bibtex: |-
     @article{hua2025biologically,
       title = {A Biologically Inspired Model for Detecting Object Motion Direction in Stereoscopic Vision},
@@ -405,6 +459,9 @@ spherical-search-algorithm-with-memory-guided-population-stage-wise-control-for-
     with memory-guided population stage-wise control for bound-constrained global
     optimization problems,” Applied Soft Computing, vol. 161, Art. no. 111677, 2024,
     doi: 10.1016/j.asoc.2024.111677.'
+  nature: Tao, S. et al. Spherical search algorithm with memory-guided population
+    stage-wise control for bound-constrained global optimization problems. Appl. Soft
+    Comput. 161, 111677 (2024).
   bibtex: |-
     @article{tao2024spherical,
       title = {Spherical search algorithm with memory-guided population stage-wise control for bound-constrained global optimization problems},
@@ -430,6 +487,10 @@ improving-the-music-harmony-search-using-a-differential-exploration-phase-for-so
     Search Using a Differential Exploration Phase for Solving Bound Constrained Optimization
     Problems,” in 2024 IEEE 7th Information Technology, Networking, Electronic and
     Automation Control Conference (ITNEC), pp. 1337-1341, 2024, doi: 10.1109/ITNEC60942.2024.10733307.'
+  nature: Sun, S., Zhao, R., Wang, C., Tang, Z. & Tao, S. Improving the Music Harmony
+    Search Using a Differential Exploration Phase for Solving Bound Constrained Optimization
+    Problems. In 2024 IEEE 7th Information Technology, Networking, Electronic and
+    Automation Control Conference (ITNEC), 1337–1341 (2024).
   bibtex: |-
     @inproceedings{sun2024improving,
       title = {Improving the Music Harmony Search Using a Differential Exploration Phase for Solving Bound Constrained Optimization Problems},
@@ -449,6 +510,9 @@ competitive-elimination-improved-differential-evolution-for-wind-farm-layout-opt
   ieee: 'S. Tao, Y. Yang, R. Zhao, H. Todo, and Z. Tang, “Competitive Elimination
     Improved Differential Evolution for Wind Farm Layout Optimization Problems,” Mathematics,
     vol. 12, no. 23, Art. no. 3762, 2024, doi: 10.3390/math12233762.'
+  nature: Tao, S., Yang, Y., Zhao, R., Todo, H. & Tang, Z. Competitive Elimination
+    Improved Differential Evolution for Wind Farm Layout Optimization Problems. Mathematics
+    12, 3762 (2024).
   bibtex: |-
     @article{tao2024competitive,
       title = {Competitive Elimination Improved Differential Evolution for Wind Farm Layout Optimization Problems},
@@ -470,6 +534,8 @@ bio-inspired-computational-model-for-direction-and-speed-detection:
   ieee: 'Y. Hua, Y. Todo, S. Tao, Z. Tang, T. Cheng, and Z. Qiu, “Bio-inspired computational
     model for direction and speed detection,” Knowledge-Based Systems, vol. 300, Art.
     no. 112195, 2024, doi: 10.1016/j.knosys.2024.112195.'
+  nature: Hua, Y. et al. Bio-inspired computational model for direction and speed
+    detection. Knowl.-Based Syst. 300, 112195 (2024).
   bibtex: |-
     @article{hua2024inspired,
       title = {Bio-inspired computational model for direction and speed detection},
@@ -495,6 +561,9 @@ bio-inspired-computational-model-for-direction-and-speed-detection:
     Network with Fully Modeled Retinal Direction-Selective Neural Pathway for Motion
     Direction Detection in Grayscale Scenes,” Symmetry, vol. 16, no. 12, Art. no.
     1592, 2024, doi: 10.3390/sym16121592.'
+  nature: Tao, S. et al. Artificial Visual Network with Fully Modeled Retinal Direction-Selective
+    Neural Pathway for Motion Direction Detection in Grayscale Scenes. Symmetry 16,
+    1592 (2024).
   bibtex: |-
     @article{tao2024artificial,
       title = {Artificial Visual Network with Fully Modeled Retinal Direction-Selective Neural Pathway for Motion Direction Detection in Grayscale Scenes},
@@ -516,6 +585,10 @@ bio-inspired-computational-model-for-direction-and-speed-detection:
 : ieee: 'S. Tao, R. Zhao, K. Wang, and S. Gao, “An Efficient Reconstructed Differential
     Evolution Variant by Some of the Current State-of-the-art Strategies for Solving
     Single Objective Bound Constrained Problems,” arXiv:2404.16280, 2024, doi: 10.48550/arXiv.2404.16280.'
+  nature: Tao, S., Zhao, R., Wang, K. & Gao, S. An Efficient Reconstructed Differential
+    Evolution Variant by Some of the Current State-of-the-art Strategies for Solving
+    Single Objective Bound Constrained Problems. Preprint at https://doi.org/10.48550/arXiv.2404.16280
+    (2024).
   bibtex: |-
     @misc{tao2024efficient,
       title = {An Efficient Reconstructed Differential Evolution Variant by Some of the Current State-of-the-art Strategies for Solving Single Objective Bound Constrained Problems},
@@ -537,6 +610,9 @@ bio-inspired-computational-model-for-direction-and-speed-detection:
     System with Fully Modeled Retinal Direction-selectivity Ganglion Cell Pathway
     for Motion Direction Detection in Grayscale Images,” in SPML 2024, pp. 212-215,
     2024, doi: 10.1145/3686490.3686521.'
+  nature: Shoji, Y., Tao, S., Todo, Y., Tang, Z. & Zhao, R. A Novel Artificial Visual
+    System with Fully Modeled Retinal Direction-selectivity Ganglion Cell Pathway
+    for Motion Direction Detection in Grayscale Images. In SPML 2024, 212–215 (2024).
   bibtex: |-
     @inproceedings{shoji2024novel,
       title = {A Novel Artificial Visual System with Fully Modeled Retinal Direction-selectivity Ganglion Cell Pathway for Motion Direction Detection in Grayscale Images},
@@ -556,6 +632,9 @@ a-novel-artificial-visual-system-for-motion-direction-detection-in-color-images:
   ieee: 'S. Tao, Z. Zhang, R. Zhao, Z. Tang, and Y. Todo, “A novel artificial visual
     system for motion direction detection in color images,” Knowledge-Based Systems,
     vol. 295, Art. no. 111816, 2024, doi: 10.1016/j.knosys.2024.111816.'
+  nature: Tao, S., Zhang, Z., Zhao, R., Tang, Z. & Todo, Y. A novel artificial visual
+    system for motion direction detection in color images. Knowl.-Based Syst. 295,
+    111816 (2024).
   bibtex: |-
     @article{tao2024novel,
       title = {A novel artificial visual system for motion direction detection in color images},
@@ -580,6 +659,8 @@ a-multi-local-search-based-shade-for-wind-farm-layout-optimization:
   ieee: 'Y. Yang, S. Tao, H. Li, H. Yang, and Z. Tang, “A Multi-Local Search-Based
     SHADE for Wind Farm Layout Optimization,” Electronics, vol. 13, no. 16, Art. no.
     3196, 2024, doi: 10.3390/electronics13163196.'
+  nature: Yang, Y., Tao, S., Li, H., Yang, H. & Tang, Z. A Multi-Local Search-Based
+    SHADE for Wind Farm Layout Optimization. Electronics 13, 3196 (2024).
   bibtex: |-
     @article{yang2024multi,
       title = {A Multi-Local Search-Based SHADE for Wind Farm Layout Optimization},
@@ -601,6 +682,9 @@ a-differential-search-integrated-music-harmony-search-algorithm-for-solving-boun
   ieee: 'S. Sun, R. Zhao, C. Wang, Z. Tang, and S. Tao, “A Differential Search Integrated
     Music Harmony Search Algorithm for Solving Bound Constrained Optimization Problems,”
     in SPML 2024, pp. 231-235, 2024, doi: 10.1145/3686490.3686524.'
+  nature: Sun, S., Zhao, R., Wang, C., Tang, Z. & Tao, S. A Differential Search Integrated
+    Music Harmony Search Algorithm for Solving Bound Constrained Optimization Problems.
+    In SPML 2024, 231–235 (2024).
   bibtex: |-
     @inproceedings{sun2024differential,
       title = {A Differential Search Integrated Music Harmony Search Algorithm for Solving Bound Constrained Optimization Problems},
@@ -621,6 +705,9 @@ a-bio-inspired-model-for-object-motion-direction-and-speed-detection-against-col
     model for object motion direction and speed detection against colored backgrounds,”
     in Proceedings of the 5th International Conference on Computer Vision and Information
     Technology (CVIT 2024), p. 8, 2024, doi: 10.1117/12.3056633.'
+  nature: Hua, Y. et al. A bio-inspired model for object motion direction and speed
+    detection against colored backgrounds. In Proceedings of the 5th International
+    Conference on Computer Vision and Information Technology (CVIT 2024), 8 (2024).
   bibtex: |-
     @inproceedings{hua2024inspired2,
       title = {A bio-inspired model for object motion direction and speed detection against colored backgrounds},
@@ -639,6 +726,9 @@ the-mechanism-of-orientation-detection-based-on-artificial-visual-system-for-gre
   ieee: 'X. Zhang, S. Tao, Z. Tang, S. Zheng, and Y. Todo, “The Mechanism of Orientation
     Detection Based on Artificial Visual System for Greyscale Images,” Mathematics,
     vol. 11, no. 12, Art. no. 2715, 2023, doi: 10.3390/math11122715.'
+  nature: Zhang, X., Tao, S., Tang, Z., Zheng, S. & Todo, Y. The Mechanism of Orientation
+    Detection Based on Artificial Visual System for Greyscale Images. Mathematics
+    11, 2715 (2023).
   bibtex: |-
     @article{zhang2023mechanism,
       title = {The Mechanism of Orientation Detection Based on Artificial Visual System for Greyscale Images},
@@ -660,6 +750,8 @@ spherical-search-algorithm-with-adaptive-population-control-for-global-continuou
   ieee: 'K. Wang, Y. Wang, S. Tao, Z. Cai, Z. Lei, and S. Gao, “Spherical search algorithm
     with adaptive population control for global continuous optimization problems,”
     Applied Soft Computing, vol. 132, Art. no. 109845, 2023, doi: 10.1016/j.asoc.2022.109845.'
+  nature: Wang, K. et al. Spherical search algorithm with adaptive population control
+    for global continuous optimization problems. Appl. Soft Comput. 132, 109845 (2023).
   bibtex: |-
     @article{wang2023spherical,
       title = {Spherical search algorithm with adaptive population control for global continuous optimization problems},
@@ -685,6 +777,9 @@ hierarchical-manta-ray-foraging-optimization-with-weighted-fitness-distance-bala
     Ray Foraging Optimization with Weighted Fitness-Distance Balance Selection,” International
     Journal of Computational Intelligence Systems, vol. 16, no. 1, Art. no. 114, 2023,
     doi: 10.1007/s44196-023-00289-4.'
+  nature: Tang, Z. et al. Hierarchical Manta Ray Foraging Optimization with Weighted
+    Fitness-Distance Balance Selection. International Journal of Computational Intelligence
+    Systems 16, 114 (2023).
   bibtex: |-
     @article{tang2023hierarchical,
       title = {Hierarchical Manta Ray Foraging Optimization with Weighted Fitness-Distance Balance Selection},
@@ -706,6 +801,9 @@ dynamic-complex-network-exploring-differential-evolution-algorithms-from-another
   ieee: 'Y. Yang, S. Tao, H. Yang, Z. Yuan, and Z. Tang, “Dynamic Complex Network,
     Exploring Differential Evolution Algorithms from Another Perspective,” Mathematics,
     vol. 11, no. 13, Art. no. 2979, 2023, doi: 10.3390/math11132979.'
+  nature: Yang, Y., Tao, S., Yang, H., Yuan, Z. & Tang, Z. Dynamic Complex Network,
+    Exploring Differential Evolution Algorithms from Another Perspective. Mathematics
+    11, 2979 (2023).
   bibtex: |-
     @article{yang2023dynamic,
       title = {Dynamic Complex Network, Exploring Differential Evolution Algorithms from Another Perspective},
@@ -727,6 +825,9 @@ an-adaptive-dimension-weighting-spherical-evolution-to-solve-continuous-optimiza
   ieee: 'Y. Yang, S. Tao, S. Dong, M. Nomura, and Z. Tang, “An Adaptive Dimension
     Weighting Spherical Evolution to Solve Continuous Optimization Problems,” Mathematics,
     vol. 11, no. 17, Art. no. 3733, 2023, doi: 10.3390/math11173733.'
+  nature: Yang, Y., Tao, S., Dong, S., Nomura, M. & Tang, Z. An Adaptive Dimension
+    Weighting Spherical Evolution to Solve Continuous Optimization Problems. Mathematics
+    11, 3733 (2023).
   bibtex: |-
     @article{yang2023adaptive,
       title = {An Adaptive Dimension Weighting Spherical Evolution to Solve Continuous Optimization Problems},
@@ -748,6 +849,9 @@ a-novel-artificial-visual-system-for-motion-direction-detection-with-completely-
   ieee: 'S. Tao, X. Zhang, Y. Hua, Z. Tang, and Y. Todo, “A Novel Artificial Visual
     System for Motion Direction Detection with Completely Modeled Retinal Direction-Selective
     Pathway,” Mathematics, vol. 11, no. 17, Art. no. 3732, 2023, doi: 10.3390/math11173732.'
+  nature: Tao, S., Zhang, X., Hua, Y., Tang, Z. & Todo, Y. A Novel Artificial Visual
+    System for Motion Direction Detection with Completely Modeled Retinal Direction-Selective
+    Pathway. Mathematics 11, 3732 (2023).
   bibtex: |-
     @article{tao2023novel,
       title = {A Novel Artificial Visual System for Motion Direction Detection with Completely Modeled Retinal Direction-Selective Pathway},
@@ -770,6 +874,9 @@ spatial-information-sampling-another-feedback-mechanism-of-realising-adaptive-pa
     another feedback mechanism of realising adaptive parameter control in meta-heuristic
     algorithms,” International Journal of Bio-Inspired Computation, vol. 19, no. 1,
     Art. no. 120751, 2022, doi: 10.1504/IJBIC.2022.120751.'
+  nature: 'Yang, H., Tao, S., Zhang, Z., Cai, Z. & Gao, S. Spatial information sampling:
+    another feedback mechanism of realising adaptive parameter control in meta-heuristic
+    algorithms. International Journal of Bio-Inspired Computation 19, 120751 (2022).'
   bibtex: |-
     @article{yang2022spatial,
       title = {Spatial information sampling: another feedback mechanism of realising adaptive parameter control in meta-heuristic algorithms},
@@ -791,6 +898,8 @@ paidde-a-permutation-archive-information-directed-differential-evolution-algorit
   ieee: 'X. Li, K. Wang, H. Yang, S. Tao, S. Feng, and S. Gao, “PAIDDE: A Permutation-Archive
     Information Directed Differential Evolution Algorithm,” IEEE Access, vol. 10,
     pp. 50384-50402, 2022, doi: 10.1109/ACCESS.2022.3173622.'
+  nature: 'Li, X. et al. PAIDDE: A Permutation-Archive Information Directed Differential
+    Evolution Algorithm. IEEE Access 10, 50384–50402 (2022).'
   bibtex: |-
     @article{li2022paidde,
       title = {PAIDDE: A Permutation-Archive Information Directed Differential Evolution Algorithm},
@@ -811,6 +920,8 @@ paidde-a-permutation-archive-information-directed-differential-evolution-algorit
 hierarchical-water-wave-optimization:
   ieee: 'S. Dong, H. Yang, H. Li, B. Zhang, S. Tao, and S. Gao, “Hierarchical Water
     Wave Optimization,” in ICNSC 2022, pp. 1-5, 2022, doi: 10.1109/ICNSC55942.2022.10004174.'
+  nature: Dong, S. et al. Hierarchical Water Wave Optimization. In ICNSC 2022, 1–5
+    (2022).
   bibtex: |-
     @inproceedings{dong2022hierarchical,
       title = {Hierarchical Water Wave Optimization},
@@ -829,6 +940,8 @@ chaotic-wind-driven-optimization-with-fitness-distance-balance-strategy:
   ieee: 'Z. Tang, S. Tao, K. Wang, B. Lü, Y. Todo, and S. Gao, “Chaotic Wind Driven
     Optimization with Fitness Distance Balance Strategy,” International Journal of
     Computational Intelligence Systems, vol. 15, no. 1, Art. no. 46, 2022, doi: 10.1007/s44196-022-00099-0.'
+  nature: Tang, Z. et al. Chaotic Wind Driven Optimization with Fitness Distance Balance
+    Strategy. International Journal of Computational Intelligence Systems 15, 46 (2022).
   bibtex: |-
     @article{tang2022chaotic,
       title = {Chaotic Wind Driven Optimization with Fitness Distance Balance Strategy},
@@ -849,6 +962,8 @@ chaotic-wind-driven-optimization-with-fitness-distance-balance-strategy:
 an-optimal-parent-crossover-based-differential-evolution:
   ieee: 'R. Zhao, S. Tao, and P. Li, “An Optimal-Parent-Crossover based Differential
     Evolution,” in ISCID 2022, vol. 11, pp. 276-281, 2022, doi: 10.1109/ISCID56505.2022.00068.'
+  nature: Zhao, R., Tao, S. & Li, P. An Optimal-Parent-Crossover based Differential
+    Evolution. In ISCID 2022, 276–281 (2022).
   bibtex: |-
     @inproceedings{zhao2022optimal,
       title = {An Optimal-Parent-Crossover based Differential Evolution},
@@ -867,6 +982,8 @@ an-optimal-parent-crossover-based-differential-evolution:
 an-immigration-strategy-based-spherical-search-algorithm:
   ieee: 'Q. Sui, S. Tao, L. Zhong, H. Yang, Z. Lei, and S. Gao, “An Immigration Strategy-based
     Spherical Search Algorithm,” in ICNSC 2022, pp. 1-5, 2022, doi: 10.1109/ICNSC55942.2022.10004149.'
+  nature: Sui, Q. et al. An Immigration Strategy-based Spherical Search Algorithm.
+    In ICNSC 2022, 1–5 (2022).
   bibtex: |-
     @inproceedings{sui2022immigration,
       title = {An Immigration Strategy-based Spherical Search Algorithm},
@@ -885,6 +1002,8 @@ a-population-resource-allocation-based-adaptive-spherical-search-algorithm:
   ieee: 'L. Zhong, S. Tao, Q. Sui, H. Yang, Z. Lei, and S. Gao, “A Population Resource
     Allocation-based Adaptive Spherical Search Algorithm,” in ICNSC 2022, pp. 1-4,
     2022, doi: 10.1109/ICNSC55942.2022.10004116.'
+  nature: Zhong, L. et al. A Population Resource Allocation-based Adaptive Spherical
+    Search Algorithm. In ICNSC 2022, 1–4 (2022).
   bibtex: |-
     @inproceedings{zhong2022population,
       title = {A Population Resource Allocation-based Adaptive Spherical Search Algorithm},
@@ -903,6 +1022,8 @@ a-novel-bio-inspired-motion-direction-detection-mechanism-in-binary-and-grayscal
   ieee: 'Y. Hua, Y. Todo, Z. Tang, S. Tao, B. Li, and R. Inoue, “A Novel Bio-Inspired
     Motion Direction Detection Mechanism in Binary and Grayscale Background,” Mathematics,
     vol. 10, no. 20, Art. no. 3767, 2022, doi: 10.3390/math10203767.'
+  nature: Hua, Y. et al. A Novel Bio-Inspired Motion Direction Detection Mechanism
+    in Binary and Grayscale Background. Mathematics 10, 3767 (2022).
   bibtex: |-
     @article{hua2022novel,
       title = {A Novel Bio-Inspired Motion Direction Detection Mechanism in Binary and Grayscale Background},
@@ -924,6 +1045,8 @@ a-novel-artificial-visual-system-for-motion-direction-detection-in-grayscale-ima
   ieee: 'S. Tao, Y. Todo, Z. Tang, B. Li, Z. Zhang, and R. Inoue, “A Novel Artificial
     Visual System for Motion Direction Detection in Grayscale Images,” Mathematics,
     vol. 10, no. 16, Art. no. 2975, 2022, doi: 10.3390/math10162975.'
+  nature: Tao, S. et al. A Novel Artificial Visual System for Motion Direction Detection
+    in Grayscale Images. Mathematics 10, 2975 (2022).
   bibtex: |-
     @article{tao2022novel,
       title = {A Novel Artificial Visual System for Motion Direction Detection in Grayscale Images},
@@ -946,6 +1069,9 @@ fitness-distance-balance-with-functional-weights-a-new-selection-method-for-evol
     with Functional Weights: A New Selection Method for Evolutionary Algorithms,”
     IEICE Transactions on Information and Systems, vol. E104.D, no. 10, Art. no. 2021EDL8033,
     2021, doi: 10.1587/transinf.2021EDL8033.'
+  nature: 'Wang, K., Tao, S., Wang, R., Todo, Y. & Gao, S. Fitness-Distance Balance
+    with Functional Weights: A New Selection Method for Evolutionary Algorithms. IEICE
+    Transactions on Information and Systems E104.D, 2021EDL8033 (2021).'
   bibtex: |-
     @article{wang2021fitness,
       title = {Fitness-Distance Balance with Functional Weights: A New Selection Method for Evolutionary Algorithms},
@@ -968,6 +1094,8 @@ a-state-of-the-art-differential-evolution-algorithm-for-parameter-estimation-of-
     differential evolution algorithm for parameter estimation of solar photovoltaic
     models,” Energy Conversion and Management, vol. 230, Art. no. 113784, 2021, doi:
     10.1016/j.enconman.2020.113784.'
+  nature: Gao, S. et al. A state-of-the-art differential evolution algorithm for parameter
+    estimation of solar photovoltaic models. Energy Convers. Manag. 230, 113784 (2021).
   bibtex: |-
     @article{gao2021state,
       title = {A state-of-the-art differential evolution algorithm for parameter estimation of solar photovoltaic models},
@@ -991,6 +1119,8 @@ a-state-of-the-art-differential-evolution-algorithm-for-parameter-estimation-of-
 a-motion-direction-detective-mechanism-for-greyscale-images:
   ieee: 'S. Tao, R. Inoue, Y. Todo, and Z. Tang, “A Motion Direction Detective Mechanism
     for Greyscale Images,” in SPML 2021, pp. 18-25, 2021, doi: 10.1145/3483207.3483211.'
+  nature: Tao, S., Inoue, R., Todo, Y. & Tang, Z. A Motion Direction Detective Mechanism
+    for Greyscale Images. In SPML 2021, 18–25 (2021).
   bibtex: |-
     @inproceedings{tao2021motion,
       title = {A Motion Direction Detective Mechanism for Greyscale Images},
@@ -1010,6 +1140,8 @@ using-grey-wolf-hunting-mechanism-to-improve-spherical-search:
   ieee: 'S. Liu, S. Tao, H. Yang, L. Jiang, Y. Todo, and S. Gao, “Using Grey Wolf
     Hunting Mechanism to Improve Spherical Search,” in ISCID 2020, vol. 2, pp. 67-71,
     2020, doi: 10.1109/ISCID51228.2020.00022.'
+  nature: Liu, S. et al. Using Grey Wolf Hunting Mechanism to Improve Spherical Search.
+    In ISCID 2020, 67–71 (2020).
   bibtex: |-
     @inproceedings{liu2020using,
       title = {Using Grey Wolf Hunting Mechanism to Improve Spherical Search},
@@ -1029,6 +1161,8 @@ a-novel-optimization-algorithm-inherited-from-gravitational-and-spherical-search
   ieee: 'Z. Tang, K. Wang, J. Shi, S. Tao, Y. Todo, and S. Gao, “A Novel Optimization
     Algorithm Inherited From Gravitational and Spherical Search Dynamics,” in ISCID
     2020, vol. 220, pp. 91-96, 2020, doi: 10.1109/ISCID51228.2020.00027.'
+  nature: Tang, Z. et al. A Novel Optimization Algorithm Inherited From Gravitational
+    and Spherical Search Dynamics. In ISCID 2020, 91–96 (2020).
   bibtex: |-
     @inproceedings{tang2020novel,
       title = {A Novel Optimization Algorithm Inherited From Gravitational and Spherical Search Dynamics},
@@ -1047,6 +1181,8 @@ a-novel-optimization-algorithm-inherited-from-gravitational-and-spherical-search
 a-hybrid-spherical-search-and-sine-cosine-algorithm:
   ieee: 'K. Wang, S. Tao, Z. Zhang, Y. Todo, and S. Gao, “A Hybrid Spherical Search
     and Sine Cosine Algorithm,” in IHMSC 2020, pp. 205-210, 2020, doi: 10.1109/IHMSC49165.2020.00053.'
+  nature: Wang, K., Tao, S., Zhang, Z., Todo, Y. & Gao, S. A Hybrid Spherical Search
+    and Sine Cosine Algorithm. In IHMSC 2020, 205–210 (2020).
   bibtex: |-
     @inproceedings{wang2020hybrid,
       title = {A Hybrid Spherical Search and Sine Cosine Algorithm},
@@ -1065,6 +1201,8 @@ a-hybrid-spherical-search-and-moth-flame-optimization-algorithm:
   ieee: 'S. Tao, K. Wang, Z. Zhang, C. Lee, Y. Todo, and S. Gao, “A Hybrid Spherical
     Search and Moth-flame optimization Algorithm,” in IHMSC 2020, pp. 211-217, 2020,
     doi: 10.1109/IHMSC49165.2020.00054.'
+  nature: Tao, S. et al. A Hybrid Spherical Search and Moth-flame optimization Algorithm.
+    In IHMSC 2020, 211–217 (2020).
   bibtex: |-
     @inproceedings{tao2020hybrid,
       title = {A Hybrid Spherical Search and Moth-flame optimization Algorithm},
