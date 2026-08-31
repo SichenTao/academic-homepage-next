@@ -20,7 +20,7 @@ announcements:
   limit: 5
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}?v=20260831a">
+<link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}?v=20260831b">
 
 I am an Assistant Professor in the [Research Division on Supercomputing Systems](https://www.cc.tohoku.ac.jp/english/member/rd/) at the Cyberscience Center, Tohoku University, and a member of the [High Performance Computing Laboratory](https://www.hpc.is.tohoku.ac.jp/home-en/member-en/). I received the Doctor of Engineering degree from the University of Toyama in 2025 after completing research on artificial intelligence systems for data analysis and optimization.
 

@@ -21,8 +21,7 @@ affiliation_hierarchy:
 location: Sendai, Japan
 portrait: ./assets/images/avatar-openai.jpg
 emails:
-  - sichen.tao@tohoku.ac.jp
-  - taosc73@hotmail.com
+  - sichen.tao.d5@tohoku.ac.jp
 bio: My research focuses on artificial intelligence (AI) and high-performance computing (HPC), including deep learning, brain-inspired neural
   networks, black-box optimization algorithms, and their intersections with HPC. Application areas include energy conversion and management, AI-agent-based
   social simulation, emergency medicine, human-machine collaboration, and AI for Science.

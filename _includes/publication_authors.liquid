@@ -1,0 +1,23 @@
+{% assign publication_author_items = include.authors_html | split: ', ' %}
+{% assign publication_author_count = publication_author_items | size %}
+{% assign publication_author_class = include.class | default: 'publication-author-list' %}
+<span class="{{ publication_author_class }}">
+  {% for publication_author in publication_author_items limit: 6 -%}
+    {%- unless forloop.first %}, {% endunless -%}
+    {{- publication_author -}}
+  {%- endfor %}
+</span>
+{% if publication_author_count > 6 %}
+  {% assign hidden_author_count = publication_author_count | minus: 6 %}
+  <details class="publication-more-authors">
+    <summary>
+      and {{ hidden_author_count }} more author{% if hidden_author_count != 1 %}s{% endif %}
+    </summary>
+    <span class="publication-more-author-list">
+      {% for publication_author in publication_author_items offset: 6 -%}
+        {%- unless forloop.first %}, {% endunless -%}
+        {{- publication_author -}}
+      {%- endfor %}
+    </span>
+  </details>
+{% endif %}

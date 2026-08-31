@@ -4,7 +4,7 @@ title: awards
 permalink: /awards/
 description: Selected competition results, fellowships, scholarships, and research recognition.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}">

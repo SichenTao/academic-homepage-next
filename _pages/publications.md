@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}?v=20260831a">
+<link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}?v=20260831b">
 
 {% assign selected_publications = site.data.publications | where: 'selected', true %}
 {% assign public_publications = site.data.publications | where: 'public', true %}
@@ -39,13 +39,15 @@ nav_order: 3
         </figure>
         <div>
           <h3>{{ publication.title }}</h3>
-          <p class="publication-authors">{{ publication.citation_authors_html }}</p>
+          <div class="publication-authors">
+            {% include publication_authors.liquid authors_html=publication.citation_authors_html %}
+          </div>
           <p class="publication-venue"><em>{% if publication.venue_url %}<a href="{{ publication.venue_url }}">{{ publication.venue }}</a>{% else %}{{ publication.venue }}{% endif %}</em>, {{ publication.year }}.</p>
           <div class="publication-actions">
-            {% if publication.abstract_summary %}
+            {% if publication.abstract %}
               <details class="publication-abstract-details">
                 <summary>ABS</summary>
-                <p>{{ publication.abstract_summary }}</p>
+                <p>{{ publication.abstract }}</p>
               </details>
             {% endif %}
             {% if publication.doi %}<a href="https://doi.org/{{ publication.doi }}">DOI</a>{% endif %}
@@ -82,7 +84,7 @@ nav_order: 3
               data-publication-entry
               data-search="{{ publication.title | append: ' ' | append: publication.author_line | append: ' ' | append: publication.venue | append: ' ' | append: publication.year | append: ' ' | append: publication.tags | downcase | escape }}"
             >
-              <span class="citation-authors">{{ publication.citation_authors_html }}</span>,
+              {% include publication_authors.liquid authors_html=publication.citation_authors_html class="citation-authors" %},
               “<span class="citation-title">{{ publication.title }}</span>,”
               <em>{% if publication.venue_url %}<a href="{{ publication.venue_url }}">{{ publication.venue }}</a>{% else %}{{ publication.venue }}{% endif %}</em>{% if publication.volume %}, vol. {{ publication.volume }}{% endif %}{% if publication.issue %}, no. {{ publication.issue }}{% endif %}{% if publication.pages %}, {{ publication.pages }}{% endif %}, {{ publication.year }}.
               <span class="citation-actions">

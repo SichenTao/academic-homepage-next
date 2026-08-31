@@ -8,7 +8,7 @@
   status: accepted
   venue: IEEE Transactions on Evolutionary Computation
   venue_line: IEEE Transactions on Evolutionary Computation
-  venue_abbr: TEVC
+  venue_abbr: IEEE TEVC
   volume: ""
   issue: ""
   pages: ""
@@ -39,13 +39,20 @@
       url: https://scholar.google.com/scholar?q=%22A+Fractional-Order+Gradient+Guided+Dynamic+Block-Coordinate+Evolution+Strategy%22
       mode: search
       copy_text: A Fractional-Order Gradient Guided Dynamic Block-Coordinate Evolution Strategy for Large-Scale Expensive Optimization
-  abstract_summary: This work develops a fractional-order gradient-guided dynamic block-coordinate evolution strategy for large-scale expensive optimization, combining adaptive grouping, data-driven evolution-strategy sampling, consistency pre-screening, block-coordinate updates, and fractional-order gradient memory.
+  abstract: >-
+    Large-scale expensive optimization problems present a formidable challenge characterized by high-dimensional search spaces constrained by strictly limited evaluation budgets. Although surrogate-assisted evolutionary algorithms (SAEAs) have been widely adopted to mitigate evaluation costs, they often grapple with the prohibitive computational overhead of model training and the deterioration of surrogate accuracy as dimensionality increases. To address these limitations, this work proposes a Fractional-Order Block-Coordinate Evolution Strategy (FOBES) for LSEOPs, which departs from the conventional paradigm of fitness prediction. Instead of relying on complex surrogate models, the proposed method uses fractional-order gradient memory to extract and accumulate directional information from historical evaluations. This estimated ideal direction guides a novel directional consistency pre-screening mechanism, enabling efficient identification of promising candidate solutions within a block-coordinate descent framework. Furthermore, a dynamic random grouping strategy and an adaptive data-driven sampling technique are dynamically integrated to facilitate a smooth transition from exploration to exploitation. Experimental results on the CEC’2013 benchmark suite and the extended CEC’2010 suite with up to 5000 dimensions demonstrate that FOBES significantly outperforms state-of-the-art algorithms in terms of both solution quality and computational efficiency.
+  abstract_source_url: https://cis.ieee.org/publications/t-evolutionary-computation
+  abstract_source_note: Exact abstract verified against the accepted manuscript FOBES_revised2-JM.pdf.
+  abstract_verified_at: "2026-08-31"
+  corresponding_authors: [Jian Wang, Sichen Tao]
+  corresponding_author_source_note: Accepted manuscript and user-confirmed authorship record.
+  corresponding_authors_verified_at: "2026-08-31"
   preview: /assets/img/publication_preview/fobes-framework-fig2.jpg
   preview_alt: Schematic diagram of the FOBES framework, reproduced from Figure 2 of the accepted manuscript
   preview_source_url: https://cis.ieee.org/publications/t-evolutionary-computation
   selected: true
   public: true
-  citation_authors_html: H. Hu, J. Wang, Z. Sun, <strong>S. Tao</strong>, J. Mańdziuk, N. R. Pal
+  citation_authors_html: H. Hu, J. Wang*, Z. Sun, <strong>S. Tao*</strong>, J. Mańdziuk, N. R. Pal
 - id: rdex-cmop-feasibility-aware-indicator-guided-differential-evolution-for-fixed-budget-constrained-multiobjective-optimization
   title: "RDEx-CMOP: Feasibility-Aware Indicator-Guided Differential Evolution for Fixed-Budget Constrained Multiobjective Optimization"
   authors: [Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao]
@@ -259,6 +266,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://www.mdpi.com/2227-7390/14/1/39
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: G. Luo, X. G. Wang, W. Zhao, <strong>S. Tao*</strong>, Z. Tang
 - id: cityscalecast-spatiotemporal-gnn-for-city-scale-weather-prediction-with-graphcast-guided-parallel-modeling-and-multi-step-forecasting-in-sendai
   title: "CityScaleCast: Spatiotemporal GNN for City-Scale Weather Prediction with GraphCast-Guided Parallel Modeling and Multi-Step Forecasting
@@ -324,8 +334,14 @@
   status: published
   venue: Information Sciences
   venue_line: Information Sciences
-  venue_abbr: INFO SCI
-  abstract_summary: This work proposes the Adversarial Game Optimization Algorithm, combining dynamic role allocation, adversarial feedback, and diversity-preserving restarts to improve global search in high-dimensional and multimodal optimization. Tests on CEC benchmarks and engineering applications show strong solution quality, stability, and scalability.
+  venue_abbr: INS
+  abstract: >-
+    Metaheuristic optimization algorithms have demonstrated strong performance when applied to complex nonlinear optimization tasks. However, their performance often degrades in high-dimensional and multimodal settings due to premature convergence and insufficient global search. To address these limitations, an Adversarial Game Optimization Algorithm (AGOA) is proposed, which constructs a metaheuristic optimization framework based on adversarial game mechanisms. AGOA integrates three mechanisms: (i) a dynamic role-based population partitioning strategy that assigns individuals as elites, explorers, or responders to balance exploration and exploitation; (ii) an adversarial feedback mechanism where worst-case responders introduce directed perturbations to counter elite dominance; and (iii) a diversity-preserving breakout strategy that monitors population stagnation and activates adaptive restarts. AGOA was tested on CEC 2017 (30D/50D/100D) and CEC 2022 (10D/20D), as well as applications including multi-threshold image segmentation, constrained engineering design, and UAV 3D path planning. Experimental evaluations indicate that AGOA achieves superior performance compared with 79 optimizers in solution quality, convergence behavior, and stability, achieving top rankings across all test categories. Theoretical analysis further establishes convergence to the global optimum in expectation and probability under mild conditions. Overall, AGOA offers a scalable and generalizable optimization framework with strong practical relevance. An open-access implementation of AGOA is provided at https://github.com/tsingke/AGOA.
+  abstract_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
+  abstract_verified_at: "2026-08-31"
+  corresponding_authors: [Qingke Zhang]
+  corresponding_author_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
+  corresponding_authors_verified_at: "2026-08-31"
   volume: "735"
   issue: ""
   pages: "123022"
@@ -408,7 +424,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
   selected: true
   public: true
-  citation_authors_html: C. Li, Q. Zhang, J. Li, <strong>S. Tao</strong>, D. Oliva
+  citation_authors_html: C. Li, Q. Zhang*, J. Li, <strong>S. Tao</strong>, D. Oliva
   preview: /assets/img/publication_preview/adversarial-game-optimization-fig1.jpg
   preview_alt: "Figure 1 from the paper: dynamic role-based adversarial game optimization framework"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
@@ -427,6 +443,7 @@
   status: under_review
   venue: IEEE Access
   venue_line: IEEE Access
+  venue_abbr: IEEE ACCESS
   volume: ""
   issue: ""
   pages: ""
@@ -474,7 +491,13 @@
   venue: Robotics and Computer-Integrated Manufacturing
   venue_line: Robotics and Computer-Integrated Manufacturing
   venue_abbr: RCIM
-  abstract_summary: This work develops a safety-efficiency integrated assembly planning framework for human–robot collaboration. The framework combines adaptive execution-time optimization, constrained multi-objective planning, and a genetic-differential co-evolutionary algorithm, with feasibility demonstrated in an industrial computer-assembly case.
+  abstract: >-
+    Human–robot collaboration (HRC) has sparked a new wave of the resilient, sustainable, and human-centric industrial revolution. In HRC-enabled manufacturing, safety is a constant focus since the traditional physical barriers between robots and humans are removed. Meanwhile, ensuring efficiency has also gained considerable attention with the rise in production demands and market competition. However, the integration and balance between these two critical prerequisites are overlooked in the task allocation and planning phase of the HRC assembly. In this paper, an adaptive task allocation and planning framework is proposed by simultaneously considering the safety and efficiency of HRC assembly. First, an execution time optimization strategy (ETO) is presented. This strategy adaptively adjusts safety paradigms in the spatio-temporal shared workspace. Thereby, the execution time of assembly tasks is well optimized while ensuring human–robot safety. Second, based on ETO and collaborative assembly task requirements, the safety-efficiency integrated assembly planning problem (SEAPP) is proposed and modeled. Third, compared to conventional single-objective HRC assembly planning problems, the solution space of SEAPP is significantly expanded, leading to a substantial increase in optimization complexity. Thus, a novel constrained multi-objective co-evolutionary algorithm, called GDCA, is proposed. By combining the complementary advantages of different evolutionary operators, GDCA enhances the diversity of solutions while ensuring convergence of optimization process. In comparison with variants that rely solely on a single evolutionary strategy, GDCA maintains better and more stable performance, validating the effectiveness of the co-evolutionary process. GDCA is also compared with four state-of-the-art constrained multi-objective optimization algorithms across a variety of SEAPP instances, widely spanning different task scales and durations. Across 20 assembly instances, GDCA shows superior IGD over NSGA-II, PPS, BiCo, and MCCMO in 17, 19, 18, and 17 instances, and better HV in 17, 19, 17, and 17 instances, respectively. Furthermore, the feasibility and effectiveness of the proposed SEAPF are validated by an industrial challenge in the HRC computer assembly. While ensuring safety, it significantly reduces the total assembly completion time, achieving a 6.2% time reduction over the SSM paradigm and 47.8% over the PFL paradigm, respectively.
+  abstract_source_url: https://www.sciencedirect.com/science/article/pii/S0736584524002291
+  abstract_verified_at: "2026-08-31"
+  corresponding_authors: [Pengzhong Li]
+  corresponding_author_source_url: https://www.sciencedirect.com/science/article/pii/S0736584524002291
+  corresponding_authors_verified_at: "2026-08-31"
   volume: "94"
   issue: ""
   pages: 102942-102942
@@ -556,7 +579,7 @@
       copy_text: ""
   selected: true
   public: true
-  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li*
   preview: /assets/img/publication_preview/safety-efficiency-assembly-fig1.jpg
   preview_alt: "Figure 1 from the paper: safety-efficiency integrated human-robot assembly concept"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S0736584524002291
@@ -828,7 +851,13 @@
   venue: Advanced Engineering Informatics
   venue_line: Advanced Engineering Informatics
   venue_abbr: AEI
-  abstract_summary: This work formulates human-centric collaborative assembly as a unified mixed-integer planning problem that couples efficiency, human capability, fatigue, resources, and task priorities. A reinforcement self-learning multi-objective optimizer is developed and evaluated on sixteen planning instances and a real computer-assembly task.
+  abstract: >-
+    Human–robot collaboration (HRC) assembly systems represent an emerging production paradigm that plays a key role in the transition towards human-centric, sustainable, and resilient manufacturing. However, to improve efficiency, HRC often adopts overly compact workflows, high-intensity work rhythms, and rigid task planning modes. Although these designs can improve efficiency in the short term, they overlook the differences in human and robot capabilities, human execution fluctuation, and dynamic fatigue effects. This may lead to excessive physiological load, increased psychological burden on humans, and more safety risks. Such collaboration paradigms not only conflict with the human-centric principle, but also impact the collaboration sustainability. In this study, we innovatively model a series of complex nonlinear relationships necessary to resolve these conflicts, and based on this, we construct a mixed integer programming framework for human-centric HRC assembly task planning (HAPF). HAPF quantitatively and adaptively expresses multiple conflicting objectives as well as coupled constraints such as resources, time, capabilities, and priorities. It is the first to explicitly address the trade-offs between multiple production objectives in HRC, jointly handle discrete decisions and continuous variables, and integrate resource allocation and task planning challenges into a unified optimization model that adapts to dynamic human variability. Furthermore, the inclusion of complex nonlinearities causes the complexity of the multi-objective and multi-constrained human-centric HRC assembly task planning problem (HAPP) based on HAPF to grow exponentially, making it difficult to solve. Therefore, we also propose a reinforcement self-learning-guided genetic operator and differential evolution operator collaborative optimizer (SL-MGDO) specifically designed to handle and solve HAPP. Experiments are conducted on 16 different instances, combining 4 task scales and 4 durations. Statistical tests indicate that the combination of HAPF-based HAPP with SL-MGDO can provide HRC planning solutions that are either comparable to or superior in efficiency to the previous collaboration mode, with higher execution competency, achieving a flexible, non-rigid advanced HRC process. Moreover, compared to 3 ablation variants and 6 widely studied state-of-the-art metaheuristic algorithms, SL-MGDO is able to obtain significantly better solutions. Furthermore, by applying HAPF and SL-MGDO to an actual HRC computer case assembly task, we further confirm the feasibility and practicality of SL-MGDO in real-world engineering applications.
+  abstract_source_url: https://www.sciencedirect.com/science/article/pii/S147403462500401X
+  abstract_verified_at: "2026-08-31"
+  corresponding_authors: [Pengzhong Li]
+  corresponding_author_source_url: https://www.sciencedirect.com/science/article/pii/S147403462500401X
+  corresponding_authors_verified_at: "2026-08-31"
   volume: "67"
   issue: ""
   pages: 103508-103508
@@ -919,7 +948,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
   selected: true
   public: true
-  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li*
   preview: /assets/img/publication_preview/human-centric-assembly-fig1.jpg
   preview_alt: "Figure 1 from the paper: human-centric collaborative assembly planning framework"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S147403462500401X
@@ -1115,6 +1144,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://www.mdpi.com/2227-7390/13/1/142
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: B. Li, Y. Todo, <strong>S. Tao*</strong>, C. Tang, Y. Wang
 - id: an-artificial-visual-system-constructed-by-fully-modeled-retinal-direction-selective-networks-on-detecting-motion-direction-in-color-images
   title: An Artificial Visual System Constructed by Fully Modeled Retinal Direction-selective Networks on Detecting Motion Direction in Color
@@ -1411,6 +1443,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://www.mdpi.com/2227-7390/13/2/282
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: <strong>S. Tao*</strong>, S. Liu, R. Zhao, Y. Yang, H. Todo, H. Yang
 - id: a-reinforcement-learning-assisted-fractional-order-differential-evolution-for-solving-wind-farm-layout-optimization-problems
   title: A Reinforcement Learning-Assisted Fractional-Order Differential Evolution for Solving Wind Farm Layout Optimization Problems
@@ -1505,6 +1540,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://www.mdpi.com/2227-7390/13/18/2935
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: Y. Wang, Y. Yang, <strong>S. Tao*</strong>, L. Qi, H. Shen
 - id: a-novel-detection-and-replacement-based-order-operator-for-differential-evolution-in-solving-complex-bound-constrained-optimization-problems
   title: A Novel Detection-and-Replacement-Based Order-Operator for Differential Evolution in Solving Complex Bound Constrained Optimization Problems
@@ -1599,6 +1637,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://www.mdpi.com/2227-7390/13/9/1389
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: <strong>S. Tao*</strong>, S. Liu, S. Ohta, R. Zhao, Z. Tang, Y. Yang
 - id: a-biologically-inspired-model-for-detecting-object-motion-direction-in-stereoscopic-vision
   title: A Biologically Inspired Model for Detecting Object Motion Direction in Stereoscopic Vision
@@ -1692,6 +1733,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://www.mdpi.com/2073-8994/17/2/162
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: Y. Hua, <strong>S. Tao*</strong>, Y. Todo, T. Chen, Z. Qiu, Z. Tang
 - id: spherical-search-algorithm-with-memory-guided-population-stage-wise-control-for-bound-constrained-global-optimization-problems
   title: Spherical search algorithm with memory-guided population stage-wise control for bound-constrained global optimization problems
@@ -1710,7 +1754,13 @@
   venue: Applied Soft Computing
   venue_line: Applied Soft Computing
   venue_abbr: ASOC
-  abstract_summary: This work extends Spherical Search with a memory-guided stage-wise population-control strategy that adapts resource allocation between exploration and exploitation. Evaluation on 120 benchmark functions and 22 real-world problems shows significant advantages over thirteen peer evolutionary algorithms.
+  abstract: >-
+    The recently proposed Spherical Search (SS) algorithm replaces the traditional square search pattern with a spherical boundary to provide position-diverse solutions. The algorithm balances its exploration and exploitation performance by utilizing 2 exploration and exploitation sub-populations of equal size. SS has been proven to be highly competitive. However, we observed that when it is used to solve a variety of problems as well as during different searching stages, the fixed sub-population size limits its adaptability and flexibility for achieving continuous exploitation–exploration balance. The balance potential of two operators with distinct characteristics is underdeveloped. As a result, SS and its advanced variants are prone to still easily falling into local optima and lacks certain performance advantages over peer algorithms. In this paper, we further develop SS and propose a memory-guided population stage-wise control strategy based SS, called SSM. By our proposed memory-guided stage-wise evaluation mechanism, SS evaluates the exploitation–exploration balance extent in real time and thus adaptively optimizes and predicts better resource allocation ratio values between its 2 sub-populations and thus achieves significant performance advantages over peer algorithms. The experiments are conducted on 120 benchmark functions and 22 real-world problems, and the results show that SSM significantly outperforms other 13 state-of-the-art evolutionary algorithms. Additionally, we conduct analyses based on method characteristics, convergence process, solution quality robustness testing, population diversity, exploitation and exploration balance, and computational complexity.
+  abstract_source_url: https://www.sciencedirect.com/science/article/pii/S1568494624004514
+  abstract_verified_at: "2026-08-31"
+  corresponding_authors: [Ting Jin]
+  corresponding_author_source_url: https://www.sciencedirect.com/science/article/pii/S1568494624004514
+  corresponding_authors_verified_at: "2026-08-31"
   volume: "161"
   issue: ""
   pages: 111677-111677
@@ -1793,7 +1843,7 @@
       copy_text: ""
   selected: true
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, K. Wang, T. Jin, Z. Wu, Z. Lei, S. Gao
+  citation_authors_html: <strong>S. Tao</strong>, K. Wang, T. Jin*, Z. Wu, Z. Lei, S. Gao
   preview: /assets/img/publication_preview/spherical-search-stagewise-fig1.jpg
   preview_alt: "Figure 1 from the paper: memory-guided stage-wise population control framework"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S1568494624004514
@@ -1843,6 +1893,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://doi.org/10.1109/ITNEC60942.2024.10733307
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: S. Sun, R. Zhao, C. Wang, Z. Tang, <strong>S. Tao*</strong>
 - id: competitive-elimination-improved-differential-evolution-for-wind-farm-layout-optimization-problems
   title: Competitive Elimination Improved Differential Evolution for Wind Farm Layout Optimization Problems
@@ -1954,7 +2007,13 @@
   venue: Knowledge-Based Systems
   venue_line: Knowledge-Based Systems
   venue_abbr: KBS
-  abstract_summary: This work introduces a biologically inspired Motion Detection Neuron model that reproduces retinal and primary visual-cortex mechanisms for detecting object direction and speed. Experiments across binary, grayscale, and color scenes evaluate accuracy, noise robustness, interpretability, and hardware efficiency.
+  abstract: >-
+    This article introduces a biologically-inspired model capable of detecting both an object’s motion direction and speed, based on retinal neural mechanisms verified through biological experiments. It aims to address the interpretability issues present in current deep learning models. The proposed Motion Detection Neuron (MDN) model, inspired by early research on the retina’s direction and speed sensitivity, replicates the motion detection functions of the retina and primary visual cortex. The design of the MDN, inspired by the layered structure of the retina and incorporating various cell types and functions, has been validated through biological experimentation, providing it with robust biological interpretability. Extensive experiments have been conducted to assess the MDN’s detection accuracy and robustness against various types of noise. Additionally, to verify that the MDN not only offers enhanced biological interpretability but also maintains detection accuracy comparable to leading deep learning algorithms, we compared its performance with that of LeNet ,EfficientNet and RegNet under identical conditions. The results show that the MDN not only provides better biological interpretability and lower hardware demands but also excels in accuracy under specific conditions, comparable to advanced deep learning algorithms.
+  abstract_source_url: https://www.sciencedirect.com/science/article/pii/S0950705124008293
+  abstract_verified_at: "2026-08-31"
+  corresponding_authors: [Yuki Todo]
+  corresponding_author_source_url: https://www.sciencedirect.com/science/article/pii/S0950705124008293
+  corresponding_authors_verified_at: "2026-08-31"
   volume: "300"
   issue: ""
   pages: 112195-112195
@@ -2041,7 +2100,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
   selected: true
   public: true
-  citation_authors_html: Y. Hua, Y. Todo, <strong>S. Tao</strong>, Z. Tang, T. Cheng, Z. Qiu
+  citation_authors_html: Y. Hua, Y. Todo*, <strong>S. Tao</strong>, Z. Tang, T. Cheng, Z. Qiu
   preview: /assets/img/publication_preview/bio-inspired-direction-speed-fig1.jpg
   preview_alt: "Figure 1 from the paper: bio-inspired direction and speed detection architecture"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S0950705124008293
@@ -2185,6 +2244,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://doi.org/10.48550/arXiv.2404.16280
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: <strong>S. Tao*</strong>, R. Zhao, K. Wang, S. Gao
 - id: a-novel-artificial-visual-system-with-fully-modeled-retinal-direction-selectivity-ganglion-cell-pathway-for-motion-direction-detection-in-grayscale-images
   title: A Novel Artificial Visual System with Fully Modeled Retinal Direction-selectivity Ganglion Cell Pathway for Motion Direction Detection
@@ -2233,6 +2295,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://doi.org/10.1145/3686490.3686521
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: Y. Shoji, <strong>S. Tao*</strong>, Y. Todo, Z. Tang, R. Zhao
 - id: a-novel-artificial-visual-system-for-motion-direction-detection-in-color-images
   title: A novel artificial visual system for motion direction detection in color images
@@ -2250,7 +2315,13 @@
   venue: Knowledge-Based Systems
   venue_line: Knowledge-Based Systems
   venue_abbr: KBS
-  abstract_summary: This work develops an artificial visual system for motion-direction detection in color images by modeling retinal direction-selective pathways with dendritic-neuron and spiking-neural concepts. Large-scale tests examine effectiveness, efficiency, generalization, interpretability, and biological plausibility against established convolutional networks.
+  abstract: >-
+    In recent years, convolutional neural networks (CNNs) have dominated the field of computer vision. Compared to traditional methods, these neural network algorithms exhibit strong biomimetic performance advantages in complex visual tasks due to their brain-like structure. However, because some necessary neural characteristics are ignored, these neural network algorithms differ greatly from the computational mechanisms of the brain. This paper starts with extracting basic visual features such as motion direction information from the brain and abstracts, generalizes and models a novel artificial visual system (AVS) for detecting object motion direction in color images based on existing relevant neurophysiological knowledge. We propose a mathematical model and quantification mechanism for each component neuron that generates motion direction selectivity in the visual system using dendritic neuron models, spiking neural network concepts and neurophysiological knowledge of retinal direction-selective ganglion cell pathways. The experiment is based on one million instances of object motion under different environments of noise-free, static and dynamic random noise, dynamic salt-and-pepper noise, dynamic Gaussion noise, and dynamic light changing. In comparison with 4 famous CNNs, LeNet-5, EfficientNetB0, ResNet18, and RegNetX-200MF, we test and verify AVS’s effectiveness, efficiency and strong generalization ability as well as other biomimetic performance advantages including high biological rationality, learning-free capability, interpretability and ease-of-use etc. AVS demonstrates that neuroscience still has important implications for guiding and promoting the development of artificial intelligence technology. Furthermore, AVS firstly provides a successful quantitative reference case study for further understanding motion direction selectivity and other primary cortical encoding characteristics in the brain.
+  abstract_source_url: https://www.sciencedirect.com/science/article/pii/S0950705124004507
+  abstract_verified_at: "2026-08-31"
+  corresponding_authors: [Yuki Todo]
+  corresponding_author_source_url: https://www.sciencedirect.com/science/article/pii/S0950705124004507
+  corresponding_authors_verified_at: "2026-08-31"
   volume: "295"
   issue: ""
   pages: 111816-111816
@@ -2337,7 +2408,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
   selected: true
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, Z. Zhang, R. Zhao, Z. Tang, Y. Todo
+  citation_authors_html: <strong>S. Tao</strong>, Z. Zhang, R. Zhao, Z. Tang, Y. Todo*
   preview: /assets/img/publication_preview/artificial-visual-system-color-fig1.jpg
   preview_alt: "Figure 1 from the paper: retinal and cortical pathway for color motion detection"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S0950705124004507
@@ -2480,6 +2551,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://doi.org/10.1145/3686490.3686524
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: S. Sun, R. Zhao, C. Wang, Z. Tang, <strong>S. Tao*</strong>
 - id: a-bio-inspired-model-for-object-motion-direction-and-speed-detection-against-colored-backgrounds
   title: A bio-inspired model for object motion direction and speed detection against colored backgrounds
@@ -2639,7 +2713,13 @@
   venue: Applied Soft Computing
   venue_line: Applied Soft Computing
   venue_abbr: ASOC
-  abstract_summary: This work proposes an adaptive population-control strategy for Spherical Search that dynamically adjusts two search sub-populations through a cumulative index. Benchmark and real-world evaluations show improved exploration-exploitation balance, robustness, and resistance to local optima.
+  abstract: >-
+    Spherical search algorithm (SSA) calculates the spherical boundary and generates new solutions on it by two sub-populations jointly. Many researches have shown that SSA is a promising algorithm, but in some cases, the fixed sub-population size causes it to be prone to search inadequately and easily falling into local optimum. In this paper, a new improved algorithm, named SSAP, is proposed to alleviate these problems. In SSAP, we propose a novel population control strategy to efficiently balance exploration and exploitation. This strategy adaptively adjusts the number of individuals in both sub-populations to improve the search performance of the algorithm. It is realized by adjusting the frequency of search patterns through a cumulative index. Comparative experiments conducted on a large number of benchmark functions show that SSAP significantly outperforms other state-of-the-art algorithms. Additionally, SSAP is used to solve real-world problems to further verify its validity. Finally, the search characteristics and population diversity of SSAP are analyzed.
+  abstract_source_url: https://www.sciencedirect.com/science/article/pii/S1568494622008948
+  abstract_verified_at: "2026-08-31"
+  corresponding_authors: [Shangce Gao]
+  corresponding_author_source_url: https://www.sciencedirect.com/science/article/pii/S1568494622008948
+  corresponding_authors_verified_at: "2026-08-31"
   volume: "132"
   issue: ""
   pages: 109845-109845
@@ -2721,7 +2801,7 @@
       copy_text: ""
   selected: true
   public: true
-  citation_authors_html: K. Wang, Y. Wang, <strong>S. Tao</strong>, Z. Cai, Z. Lei, S. Gao
+  citation_authors_html: K. Wang, Y. Wang, <strong>S. Tao</strong>, Z. Cai, Z. Lei, S. Gao*
   preview: /assets/img/publication_preview/spherical-search-adaptive-fig1.jpg
   preview_alt: "Figure 1 from the paper: spherical-search candidate generation geometry"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S1568494622008948
@@ -3204,6 +3284,7 @@
   status: published
   venue: IEEE Access
   venue_line: IEEE Access
+  venue_abbr: IEEE ACCESS
   volume: "10"
   issue: ""
   pages: 50384-50402
@@ -3862,7 +3943,13 @@
   venue: Energy Conversion and Management
   venue_line: Energy Conversion and Management
   venue_abbr: ECM
-  abstract_summary: This work proposes a directional permutation differential evolution algorithm for estimating parameters of single-, double-, and triple-diode photovoltaic models and PV modules. Six experimental groups and comparisons with fifteen algorithms show strong solution accuracy and robustness.
+  abstract: >-
+    Photovoltaic (PV) generation systems are vital to the utilization of the sustainable and pollution-free solar energy. However, the parameter estimation of PV systems remains very challenging due to its inherent nonlinear, multi-variable, and multi-modal characteristics. In this paper, we propose a state-of-the-art optimization method, namely, directional permutation differential evolution algorithm (DPDE), to tackle the parameter estimation of several kinds of solar PV models. By fully utilizing the information arisen from the search population and the direction of differential vectors, DPDE can possess a strong global exploration ability of jumping out of the local optima. To verify the performance of DPDE, six groups of experiments based on single, double, triple diode models and PV module models are conducted. Extensive comparative results between DPDE and other fifteen representative algorithms show that DPDE outperforms its peers in terms of the solution accuracy. Additionally, statistical results based on Wilcoxon rank-sum and Friedman tests indicate that DPDE is the most robust and best-performing algorithm for the parameter estimation of PV systems.
+  abstract_source_url: https://www.sciencedirect.com/science/article/pii/S0196890420313078
+  abstract_verified_at: "2026-08-31"
+  corresponding_authors: [Jiujun Cheng]
+  corresponding_author_source_url: https://www.sciencedirect.com/science/article/pii/S0196890420313078
+  corresponding_authors_verified_at: "2026-08-31"
   volume: "230"
   issue: ""
   pages: 113784-113784
@@ -3944,7 +4031,7 @@
       copy_text: ""
   selected: true
   public: true
-  citation_authors_html: S. Gao, K. Wang, <strong>S. Tao</strong>, T. Jin, H. Dai, J. Cheng
+  citation_authors_html: S. Gao, K. Wang, <strong>S. Tao</strong>, T. Jin, H. Dai, J. Cheng*
   preview: /assets/img/publication_preview/pv-parameter-estimation-fig1.jpg
   preview_alt: "Figure 1 from the paper: photovoltaic single-, double-, and triple-diode equivalent circuits"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S0196890420313078
@@ -3993,6 +4080,9 @@
       copy_text: ""
   selected: false
   public: true
+  corresponding_authors: [Sichen Tao]
+  corresponding_author_source_url: https://doi.org/10.1145/3483207.3483211
+  corresponding_authors_verified_at: "2026-08-31"
   citation_authors_html: <strong>S. Tao*</strong>, R. Inoue, Y. Todo, Z. Tang
 - id: using-grey-wolf-hunting-mechanism-to-improve-spherical-search
   title: Using Grey Wolf Hunting Mechanism to Improve Spherical Search

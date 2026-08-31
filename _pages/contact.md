@@ -4,7 +4,7 @@ title: contact
 permalink: /contact/
 description: Institutional contact details and verified academic profiles.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}">
@@ -21,7 +21,7 @@ nav_order: 6
     <dt>Location</dt>
     <dd>Sendai, Japan</dd>
     <dt>Email</dt>
-    <dd><a href="mailto:sichen.tao@tohoku.ac.jp">sichen.tao@tohoku.ac.jp</a></dd>
+    <dd><a href="mailto:sichen.tao.d5@tohoku.ac.jp">sichen.tao.d5@tohoku.ac.jp</a></dd>
   </dl>
 </section>
 
