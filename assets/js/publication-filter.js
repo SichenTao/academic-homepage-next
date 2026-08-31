@@ -65,6 +65,22 @@
     });
   });
 
+  const positionCitationPreview = (option) => {
+    const preview = option.querySelector(".publication-citation-preview");
+    if (!preview || window.innerWidth <= 1100) return;
+
+    preview.classList.remove("is-left");
+    const optionBounds = option.getBoundingClientRect();
+    const previewWidth = Math.min(544, window.innerWidth - 32);
+    const availableRight = window.innerWidth - optionBounds.right;
+    if (availableRight < previewWidth + 16) preview.classList.add("is-left");
+  };
+
+  document.querySelectorAll(".publication-citation-option").forEach((option) => {
+    option.addEventListener("pointerenter", () => positionCitationPreview(option));
+    option.addEventListener("focusin", () => positionCitationPreview(option));
+  });
+
   document.addEventListener("click", (event) => {
     if (!event.target.closest(".publication-action-menu")) closeMenus();
   });
