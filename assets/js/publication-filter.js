@@ -38,6 +38,43 @@
     if (!copied) throw new Error("Clipboard copy failed");
   };
 
+  const actionMenus = [...document.querySelectorAll(".publication-action-menu")];
+  const closeMenus = (except = null) => {
+    actionMenus.forEach((menu) => {
+      if (menu !== except) menu.removeAttribute("open");
+    });
+  };
+
+  actionMenus.forEach((menu) => {
+    menu.addEventListener("toggle", () => {
+      if (menu.open) closeMenus(menu);
+    });
+  });
+
+  document.addEventListener("click", (event) => {
+    if (!event.target.closest(".publication-action-menu")) closeMenus();
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key !== "Escape") return;
+    const openMenu = document.querySelector(".publication-action-menu[open]");
+    if (!openMenu) return;
+    openMenu.removeAttribute("open");
+    openMenu.querySelector("summary")?.focus();
+  });
+
+  let statusTimer;
+  const showCopyStatus = (message) => {
+    const liveStatus = document.querySelector("#publication-copy-status");
+    if (!liveStatus) return;
+    window.clearTimeout(statusTimer);
+    liveStatus.textContent = message;
+    liveStatus.classList.add("is-visible");
+    statusTimer = window.setTimeout(() => {
+      liveStatus.classList.remove("is-visible");
+    }, 2200);
+  };
+
   document.addEventListener("click", async (event) => {
     const button = event.target.closest("[data-copy-value], [data-copy-source]");
     if (!button) return;
@@ -48,17 +85,18 @@
     if (!value) return;
 
     const label = button.dataset.copyLabel || button.textContent.trim();
-    const liveStatus = document.querySelector("#publication-copy-status");
+    const successMessage = button.dataset.copySuccess || `${label} copied to clipboard.`;
     try {
       await writeClipboard(value);
-      button.textContent = "COPIED";
-      if (liveStatus) liveStatus.textContent = `${label} copied to clipboard.`;
+      button.textContent = "Copied";
+      showCopyStatus(successMessage);
+      button.closest(".publication-action-menu")?.removeAttribute("open");
       window.setTimeout(() => {
         button.textContent = label;
       }, 1400);
     } catch {
-      button.textContent = "COPY FAILED";
-      if (liveStatus) liveStatus.textContent = `${label} could not be copied.`;
+      button.textContent = "Copy failed";
+      showCopyStatus(`${label} could not be copied.`);
       window.setTimeout(() => {
         button.textContent = label;
       }, 1800);

@@ -1,8 +1,14 @@
 {% assign publication = include.publication %}
 {% assign copy_payload = site.data.publication_citations[publication.id] %}
 {% assign entry_id = include.anchor_prefix | default: '' | append: publication.id %}
-{% assign paper_url = publication.pdf_url | default: publication.url %}
-{% assign paper_label = 'PAPER' %}
+{% assign publication_stage = publication.publication_stage | default: publication.status %}
+{% assign paper_url = publication.pdf_url | default: publication.paper_url %}
+{% if paper_url == null and publication.publisher_url %}
+  {% unless publication.publisher_url contains 'doi.org' %}
+    {% assign paper_url = publication.publisher_url %}
+  {% endunless %}
+{% endif %}
+{% assign paper_label = 'Paper' %}
 {% if publication.pdf_url or paper_url contains '.pdf' %}{% assign paper_label = 'PDF' %}{% endif %}
 
 <article
@@ -56,27 +62,40 @@
       {% include publication_authors.liquid authors_html=publication.citation_authors_html %}
     </div>
     <p class="publication-venue">
-      <em>
-        {%- if publication.venue_url -%}
-          <a href="{{ publication.venue_url }}">{{ publication.venue }}</a>
+      {% if publication_stage == 'preprint' %}
+        <em>{{ publication.preprint_id | default: publication.venue }}</em>, {{ publication.year }}.
+      {% else %}
+        <em>
+          {%- if publication.venue_url -%}
+            <a href="{{ publication.venue_url }}">{{ publication.venue }}</a>
+          {%- else -%}
+            {{- publication.venue -}}
+          {%- endif -%}
+        </em>
+        {%- if publication_stage == 'accepted' -%}
+          , accepted
+          {%- if publication.accepted_date %} {{ publication.accepted_date | date: '%-d %b %Y' }}{% else %}, {{ publication.year }}{% endif -%}
+          .
+        {%- elsif publication_stage == 'online' -%}
+          , {{ publication.online_label | default: 'Published online' -}}
+          {%- if publication.online_date %} {{ publication.online_date | date: '%-d %b %Y' }}{% else %}, {{ publication.year }}{% endif %}.
         {%- else -%}
-          {{- publication.venue -}}
+          {%- if publication.volume %}, vol. {{ publication.volume }}{% endif -%}
+          {%- if publication.issue %}, no. {{ publication.issue }}{% endif -%}
+          {%- if publication.article_number %}, Art. no. {{ publication.article_number }}{% endif -%}
+          {%- if publication.pages -%}
+            , {% if publication.pages contains '-' %}pp. {% else %}p. {% endif -%}
+            {{- publication.pages -}}
+          {%- endif -%}
+          , {{ publication.year }}.
         {%- endif -%}
-      </em>
-      {%- if publication.volume %}, vol. {{ publication.volume }}{% endif -%}
-      {%- if publication.issue %}, no. {{ publication.issue }}{% endif -%}
-      {%- if publication.pages -%}
-        , {% if publication.pages contains '-' %}pp. {% else %}Art. no. {% endif -%}
-        {{- publication.pages -}}
-      {%- endif -%}
-      , {{ publication.year -}}
-      {%- if publication.status == 'accepted' %} (accepted){% endif %}.
+      {% endif %}
     </p>
 
     <div class="publication-actions" aria-label="Publication actions">
       {% if publication.abstract %}
         <details class="publication-abstract-details">
-          <summary>ABS</summary>
+          <summary>Abstract</summary>
           <p>{{ publication.abstract }}</p>
         </details>
       {% endif %}
@@ -84,17 +103,53 @@
         <a href="{{ paper_url }}">{{ paper_label }}</a>
       {%- endif %}
       {% if publication.doi -%}
-        <button type="button" data-copy-value="{{ publication.doi | escape }}" data-copy-label="DOI">DOI</button>
+        <span class="publication-doi-action">
+          <button
+            type="button"
+            data-copy-value="{{ publication.doi | escape }}"
+            data-copy-label="DOI"
+            data-copy-success="Copied DOI: {{ publication.doi | escape }}"
+            aria-describedby="doi-tip-{{ entry_id }}"
+          >
+            DOI
+          </button>
+          <span id="doi-tip-{{ entry_id }}" class="publication-action-tooltip" role="tooltip">Copy DOI: {{ publication.doi }}</span>
+        </span>
       {%- endif %}
-      {% if publication.code_url -%}
-        <a href="{{ publication.code_url }}">CODE</a>
-      {%- endif %}
-      {% if copy_payload.ieee -%}
-        <button type="button" data-copy-source="cite-{{ entry_id }}" data-copy-label="CITE">CITE</button>
-      {%- endif %}
-      {% if copy_payload.bibtex -%}
-        <button type="button" data-copy-source="bib-{{ entry_id }}" data-copy-label="BIB">BIB</button>
-      {%- endif %}
+      {% assign artifacts = publication.artifacts %}
+      {% if artifacts == null and publication.code_url %}
+        {% assign artifacts = '' | split: '' %}
+      {% endif %}
+      {% if artifacts and artifacts.size > 0 %}
+        <details class="publication-action-menu publication-artifact-menu">
+          <summary>Data &amp; Code</summary>
+          <div class="publication-action-menu-panel" role="group" aria-label="Data and code resources">
+            {% for artifact in artifacts %}
+              <a href="{{ artifact.url }}">{{ artifact.label | default: artifact.type | capitalize }}</a>
+            {% endfor %}
+          </div>
+        </details>
+      {% elsif publication.code_url %}
+        <details class="publication-action-menu publication-artifact-menu">
+          <summary>Data &amp; Code</summary>
+          <div class="publication-action-menu-panel" role="group" aria-label="Data and code resources">
+            <a href="{{ publication.code_url }}">Code</a>
+          </div>
+        </details>
+      {% endif %}
+      {% if copy_payload.ieee or copy_payload.bibtex %}
+        <details class="publication-action-menu publication-cite-menu">
+          <summary>Cite This</summary>
+          <div class="publication-action-menu-panel" role="group" aria-label="Citation formats">
+            {% if copy_payload.ieee %}
+              <button type="button" data-copy-source="cite-{{ entry_id }}" data-copy-label="IEEE citation">Copy IEEE citation</button>
+            {% endif %}
+            {% if copy_payload.bibtex %}
+              <button type="button" data-copy-source="bib-{{ entry_id }}" data-copy-label="BibTeX">Copy BibTeX</button>
+            {% endif %}
+          </div>
+        </details>
+      {% endif %}
     </div>
 
     {% if copy_payload.ieee %}

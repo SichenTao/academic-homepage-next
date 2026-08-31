@@ -270,7 +270,8 @@ h3,
   display: inline-block;
 }
 
-.publication-abstract-details summary {
+.publication-abstract-details summary,
+.publication-action-menu > summary {
   background: transparent;
   border: 1px solid var(--global-divider-color);
   border-radius: 3px;
@@ -282,17 +283,22 @@ h3,
   padding: 0.18rem 0.4rem;
 }
 
-.publication-abstract-details summary::-webkit-details-marker {
+.publication-abstract-details summary::-webkit-details-marker,
+.publication-action-menu > summary::-webkit-details-marker {
   display: none;
 }
 
 .publication-abstract-details summary:hover,
-.publication-abstract-details summary:focus-visible {
+.publication-abstract-details summary:focus-visible,
+.publication-action-menu > summary:hover,
+.publication-action-menu > summary:focus-visible,
+.publication-action-menu[open] > summary {
   background: var(--sichen-soft-purple);
   text-decoration: none;
 }
 
-.publication-abstract-details summary:focus-visible {
+.publication-abstract-details summary:focus-visible,
+.publication-action-menu > summary:focus-visible {
   outline: 2px solid var(--global-theme-color);
   outline-offset: 2px;
 }
@@ -309,6 +315,113 @@ h3,
   line-height: 1.5;
   margin: 0.55rem 0 0;
   padding: 0.1rem 0 0.1rem 0.75rem;
+}
+
+.publication-action-menu,
+.publication-doi-action {
+  display: inline-flex;
+  position: relative;
+}
+
+.publication-action-menu-panel {
+  background: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 5px;
+  box-shadow: 0 8px 24px rgba(21, 18, 29, 0.16);
+  display: grid;
+  left: 0;
+  min-width: 180px;
+  overflow: hidden;
+  position: absolute;
+  top: calc(100% + 0.35rem);
+  z-index: 20;
+}
+
+.publication-actions .publication-action-menu-panel a,
+.publication-actions .publication-action-menu-panel button {
+  background: var(--global-bg-color);
+  border: 0;
+  border-radius: 0;
+  color: var(--global-text-color);
+  display: block;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  padding: 0.55rem 0.7rem;
+  text-align: left;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.publication-actions .publication-action-menu-panel a:hover,
+.publication-actions .publication-action-menu-panel a:focus-visible,
+.publication-actions .publication-action-menu-panel button:hover,
+.publication-actions .publication-action-menu-panel button:focus-visible {
+  background: var(--sichen-soft-purple);
+  color: var(--global-theme-color);
+  outline: 0;
+  text-decoration: none;
+}
+
+.publication-action-tooltip {
+  background: var(--global-text-color);
+  border-radius: 4px;
+  bottom: calc(100% + 0.45rem);
+  color: var(--global-bg-color);
+  font-size: 0.74rem;
+  left: 50%;
+  max-width: min(320px, calc(100vw - 2rem));
+  opacity: 0;
+  padding: 0.38rem 0.5rem;
+  pointer-events: none;
+  position: absolute;
+  transform: translate(-50%, 0.2rem);
+  transition:
+    opacity 120ms ease,
+    transform 120ms ease;
+  visibility: hidden;
+  white-space: nowrap;
+  z-index: 25;
+}
+
+@media (hover: hover) {
+  .publication-doi-action:hover .publication-action-tooltip {
+    opacity: 1;
+    transform: translate(-50%, 0);
+    visibility: visible;
+  }
+}
+
+.publication-doi-action:focus-within .publication-action-tooltip {
+  opacity: 1;
+  transform: translate(-50%, 0);
+  visibility: visible;
+}
+
+.publication-copy-status {
+  background: var(--global-text-color);
+  border-radius: 5px;
+  bottom: 1rem;
+  color: var(--global-bg-color);
+  font-size: 0.82rem;
+  left: 50%;
+  margin: 0;
+  max-width: min(520px, calc(100vw - 2rem));
+  opacity: 0;
+  padding: 0.55rem 0.75rem;
+  pointer-events: none;
+  position: fixed;
+  transform: translate(-50%, 0.5rem);
+  transition:
+    opacity 140ms ease,
+    transform 140ms ease;
+  visibility: hidden;
+  z-index: 100;
+}
+
+.publication-copy-status.is-visible {
+  opacity: 1;
+  transform: translate(-50%, 0);
+  visibility: visible;
 }
 
 .publication-actions a,
@@ -646,6 +759,11 @@ h3,
 
   .publication-record-figure img {
     height: min(56vw, 220px);
+  }
+
+  .publication-action-menu-panel {
+    max-width: calc(100vw - 2rem);
+    min-width: 170px;
   }
 
   .selected-publication-figure img {

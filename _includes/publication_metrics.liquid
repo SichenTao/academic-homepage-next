@@ -14,25 +14,24 @@
     {% if has_if or has_jcr or has_citescore %}
       <span aria-hidden="true">·</span>
       {% if verification.metric_basis contains 'acceptance' -%}
-        <span>At acceptance:</span>
-      {%- else -%}
-        <span>Verified metrics:</span>
+        <span>At acceptance</span>
       {%- endif %}
       {% if has_jcr -%}
         <span>
+          {%- if verification.metric_basis contains 'acceptance' %}· {% endif -%}
           {{- verification.jcr_year }} JCR {{ verification.jcr_quartile -}}
           {%- if verification.jcr_top_10 %} (Top 10%){% endif -%}
         </span>
       {%- endif %}
       {% if has_if -%}
         <span>
-          {%- if has_jcr %}· {% endif -%}
+          {%- if has_jcr or verification.metric_basis contains 'acceptance' %}· {% endif -%}
           {{- verification.if_year }} IF {{ verification.if_value -}}
         </span>
       {%- endif %}
       {% if has_citescore -%}
         <span>
-          {%- if has_jcr or has_if %}· {% endif -%}
+          {%- if has_jcr or has_if or verification.metric_basis contains 'acceptance' %}· {% endif -%}
           {{- verification.citescore_year }} CiteScore {{ verification.citescore -}}
         </span>
       {%- endif %}
