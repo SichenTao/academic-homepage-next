@@ -4,7 +4,7 @@ date: "2018-08-01"
 inline: false
 homepage: true
 category: Education
-title: Sichen Tao earns a EUR-ACE-accredited Bachelor of Engineering degree from USST
+title: EUR-ACE-accredited Bachelor of Engineering degree conferred by USST
 organization: University of Shanghai for Science and Technology
 external_url: ""
 ---

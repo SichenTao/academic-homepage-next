@@ -4,7 +4,7 @@ date: "2026-07-17"
 inline: false
 homepage: true
 category: Teaching
-title: Sichen Tao serves as a mentor for the 15th GPU Mini Camp at the University of Tokyo
+title: Mentor for the 15th GPU Mini Camp at the University of Tokyo
 organization: Information Technology Center, The University of Tokyo / JCAHPC
 external_url: https://www.cc.u-tokyo.ac.jp/events/lectures/276/
 ---

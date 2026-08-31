@@ -4,7 +4,7 @@ date: "2026-08-20"
 inline: false
 homepage: true
 category: Teaching
-title: Sichen Tao is invited to serve as a mentor for the 3rd TSUBAME Mini Camp at Institute of Science Tokyo
+title: Invited to mentor the 3rd TSUBAME Mini Camp at Institute of Science Tokyo
 organization: Supercomputing Research Center, Institute of Integrated Research, Institute of Science Tokyo
 external_url: https://www.t4.cii.isct.ac.jp/minicamp-3rd-202609
 ---

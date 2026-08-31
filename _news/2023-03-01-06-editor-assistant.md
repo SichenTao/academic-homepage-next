@@ -4,7 +4,7 @@ date: "2023-03-01"
 inline: false
 homepage: true
 category: Editorial
-title: Sichen Tao joins the MDPI Mathematics special issue “Dynamics in Neural Networks” as an Editor Assistant
+title: Appointed Editor Assistant for the Mathematics special issue “Dynamics in Neural Networks”
 organization: Mathematics, MDPI
 external_url: ""
 ---

@@ -4,7 +4,7 @@ date: "2019-10-01"
 inline: false
 homepage: true
 category: Education
-title: Sichen Tao joins the University of Toyama as a research student in metaheuristic optimization
+title: Research studies in metaheuristic optimization begin at the University of Toyama
 organization: University of Toyama
 external_url: ""
 ---

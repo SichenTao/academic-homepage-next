@@ -4,7 +4,7 @@ date: "2026-05-18"
 inline: false
 homepage: true
 category: Invited Talk
-title: "Sichen Tao delivers an invited talk at the University of Cologne: ‘Simulation Runtime Prediction in AI-Agent Society for Tsunami Evacuation’"
+title: "Invited talk at the University of Cologne: ‘Simulation Runtime Prediction in AI-Agent Society for Tsunami Evacuation’"
 organization: NEC User Group Society / University of Cologne ITCC
 external_url: https://nug-society.com/events/nug-society-meeting-xxxvii-in-cologne-registration/
 ---
