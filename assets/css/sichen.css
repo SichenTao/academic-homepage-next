@@ -762,8 +762,10 @@ h3,
   }
 
   .publication-action-menu-panel {
+    left: auto;
     max-width: calc(100vw - 2rem);
     min-width: 170px;
+    right: 0;
   }
 
   .selected-publication-figure img {

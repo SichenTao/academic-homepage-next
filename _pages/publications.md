@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}?v=20260831d">
+<link rel="stylesheet" href="{{ '/assets/css/sichen.css' | relative_url }}?v=20260831e">
 
 {% assign selected_publications = site.data.publications | where: 'selected', true %}
 {% assign public_publications = site.data.publications | where: 'public', true %}
@@ -48,4 +48,4 @@ nav_order: 3
 </section>
 
 <p id="publication-copy-status" class="publication-copy-status" role="status" aria-live="polite"></p>
-<script src="{{ '/assets/js/publication-filter.js' | relative_url }}?v=20260831d" defer></script>
+<script src="{{ '/assets/js/publication-filter.js' | relative_url }}?v=20260831e" defer></script>
