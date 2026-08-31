@@ -4,7 +4,7 @@ date: "2020-10-01"
 inline: false
 homepage: true
 category: Teaching
-title: Appointed Teaching Assistant at the University of Toyama AI Laboratory
+title: Is appointed Teaching Assistant at the University of Toyama AI Laboratory
 organization: AI Laboratory, University of Toyama
 external_url: ""
 ---

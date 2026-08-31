@@ -9,4 +9,4 @@ organization: IEEE World Congress on Computational Intelligence 2024
 external_url: https://2024.ieeewcci.org/program/competitions/
 ---
 
-Our reconstructed differential evolution algorithm received the Silver Award in the numerical optimization competition at IEEE WCCI 2024, the IEEE Computational Intelligence Society's combined flagship congress.
+The reconstructed differential evolution algorithm received the Silver Award in the numerical optimization competition at IEEE WCCI 2024, the IEEE Computational Intelligence Society's combined flagship congress.

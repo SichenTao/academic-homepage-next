@@ -4,7 +4,7 @@ date: "2019-10-01"
 inline: false
 homepage: true
 category: Education
-title: Research studies in metaheuristic optimization begin at the University of Toyama
+title: Begins research studies in metaheuristic optimization at the University of Toyama
 organization: University of Toyama
 external_url: ""
 ---

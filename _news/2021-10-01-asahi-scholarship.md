@@ -4,7 +4,7 @@ date: "2021-10-01"
 inline: false
 homepage: true
 category: Scholarship
-title: Awarded the Asahi International Education Foundation Scholarship in Toyama
+title: Receives the Asahi International Education Foundation Scholarship
 organization: Asahi International Education Foundation
 external_url: https://www.asahi-fie.com/admissions/
 ---

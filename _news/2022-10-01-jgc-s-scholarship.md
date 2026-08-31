@@ -4,7 +4,7 @@ date: "2022-10-01"
 inline: false
 homepage: true
 category: Scholarship
-title: Selected for the JGC-S Scholarship through the designated-university nomination program
+title: Is selected for the JGC-S Scholarship
 organization: JGC-S Scholarship Foundation / University of Toyama
 external_url: https://www.jgcs.or.jp/en/
 ---

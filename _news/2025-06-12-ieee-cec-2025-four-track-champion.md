@@ -9,4 +9,4 @@ organization: IEEE Congress on Evolutionary Computation 2025
 external_url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx-Series
 ---
 
-Our RDEx series ranked first in bound-constrained single-objective, constrained single-objective, bound-constrained multi-objective, and constrained multi-objective optimization.
+The RDEx series ranked first in bound-constrained single-objective, constrained single-objective, bound-constrained multi-objective, and constrained multi-objective optimization.
