@@ -4,7 +4,7 @@ date: "2025-06-12"
 inline: false
 homepage: true
 category: Award
-title: RDEx sweeps all four numerical optimization tracks at IEEE CEC 2025
+title: "Sichen Tao's RDEx wins all four numerical optimization tracks at IEEE CEC 2025"
 organization: IEEE Congress on Evolutionary Computation 2025
 external_url: https://github.com/SichenTao/IEEE-CEC-2025-Competition-RDEx-Series
 ---

@@ -4,7 +4,7 @@ date: "2021-12-01"
 inline: false
 homepage: true
 category: Recognition
-title: Our photovoltaic-model optimization paper is recognized as an ESI Highly Cited Paper
+title: "Sichen Tao's photovoltaic-model optimization paper is recognized as an ESI Highly Cited Paper"
 organization: Clarivate Essential Science Indicators
 external_url: https://doi.org/10.1016/j.enconman.2020.113784
 ---

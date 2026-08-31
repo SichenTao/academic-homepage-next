@@ -396,9 +396,12 @@ h3,
   visibility: visible;
 }
 
-.publication-action-menu[open] > .publication-tooltip-trigger::after {
-  opacity: 0;
-  visibility: hidden;
+@media (hover: hover) {
+  .publication-action-menu[open] > .publication-tooltip-trigger::after {
+    opacity: 1;
+    transform: translate(-50%, 0);
+    visibility: visible;
+  }
 }
 
 .publication-action-tooltip {

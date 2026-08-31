@@ -4,7 +4,7 @@ date: "2022-10-01"
 inline: false
 homepage: true
 category: Fellowship
-title: Selected for the JST University Fellowship for doctoral researchers
+title: Sichen Tao is selected for the JST University Fellowship for doctoral researchers
 organization: Japan Science and Technology Agency / University of Toyama
 external_url: ""
 ---

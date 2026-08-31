@@ -4,7 +4,7 @@ date: "2026-08-07"
 inline: false
 homepage: true
 category: Award
-title: Our co-authored work wins the SWoPP 2026 Best Research Award
+title: "Sichen Tao's co-authored paper receives the SWoPP 2026 Best Research Award"
 organization: SWoPP 2026 / xSIG 2026
 external_url: https://www.hpc.is.tohoku.ac.jp/event-en/2026/5558/
 ---

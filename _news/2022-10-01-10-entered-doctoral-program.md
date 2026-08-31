@@ -4,7 +4,7 @@ date: "2022-10-01"
 inline: false
 homepage: true
 category: Education
-title: Begins the Doctor of Engineering program at the University of Toyama
+title: Sichen Tao begins the Doctor of Engineering program at the University of Toyama
 organization: University of Toyama, Graduate School of Science and Engineering for Education
 external_url: ""
 ---

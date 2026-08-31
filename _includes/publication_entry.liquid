@@ -119,6 +119,7 @@
             type="button"
             data-copy-value="{{ publication.doi | escape }}"
             data-copy-label="doi"
+            data-copy-success-label="doi copied"
             data-copy-success="Copied doi: {{ publication.doi | escape }}"
             aria-describedby="doi-tip-{{ entry_id }}"
           >
@@ -150,7 +151,7 @@
       {% endif %}
       {% if copy_payload.ieee or copy_payload.nature or copy_payload.bibtex %}
         <details class="publication-action-menu publication-cite-menu">
-          <summary class="publication-tooltip-trigger" data-tooltip="Copy a formatted citation or BibTeX">Cite This</summary>
+          <summary class="publication-tooltip-trigger" data-tooltip="Choose a preferred citation format">Cite This</summary>
           <div class="publication-action-menu-panel" role="group" aria-label="Citation formats">
             {% if copy_payload.bibtex %}
               <div class="publication-citation-option">

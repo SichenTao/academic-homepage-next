@@ -60,6 +60,33 @@
   };
 
   actionMenus.forEach((menu) => {
+    let closeTimer;
+    const supportsHover = window.matchMedia("(hover: hover)").matches;
+
+    if (supportsHover) {
+      menu.addEventListener("pointerenter", () => {
+        window.clearTimeout(closeTimer);
+        closeMenus(menu);
+        menu.setAttribute("open", "");
+      });
+      menu.addEventListener("pointerleave", () => {
+        window.clearTimeout(closeTimer);
+        closeTimer = window.setTimeout(() => menu.removeAttribute("open"), 180);
+      });
+    }
+
+    menu.addEventListener("focusin", () => {
+      window.clearTimeout(closeTimer);
+      closeMenus(menu);
+      menu.setAttribute("open", "");
+    });
+    menu.addEventListener("focusout", () => {
+      window.clearTimeout(closeTimer);
+      closeTimer = window.setTimeout(() => {
+        if (!menu.contains(document.activeElement)) menu.removeAttribute("open");
+      }, 0);
+    });
+
     menu.addEventListener("toggle", () => {
       if (menu.open) closeMenus(menu);
     });
@@ -120,7 +147,7 @@
     const successMessage = button.dataset.copySuccess || `${label} copied to clipboard.`;
     try {
       await writeClipboard(value);
-      button.textContent = "Copied";
+      button.textContent = button.dataset.copySuccessLabel || "Copied";
       showCopyStatus(successMessage);
       button.closest(".publication-action-menu")?.removeAttribute("open");
       window.setTimeout(() => {

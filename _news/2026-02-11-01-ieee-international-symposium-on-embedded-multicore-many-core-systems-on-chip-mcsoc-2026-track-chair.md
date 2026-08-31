@@ -4,7 +4,7 @@ date: "2026-02-11"
 inline: false
 homepage: true
 category: Service
-title: Appointed Track Chair for Cognitive Computing and Brain-Derived Algorithms at IEEE MCSoC 2026
+title: Sichen Tao is appointed Track Chair for Cognitive Computing and Brain-Derived Algorithms at IEEE MCSoC 2026
 organization: 19th IEEE MCSoC 2026, Shanghai Jiao Tong University
 external_url: https://mcsoc-forum.org/site/index.php/neurocore-t13/
 ---

@@ -4,7 +4,7 @@ date: "2023-05-01"
 inline: false
 homepage: true
 category: Editorial
-title: Joins a Frontiers in Neuroscience Research Topic as an Editor Assistant
+title: Sichen Tao joins a Frontiers in Neuroscience Research Topic as an Editor Assistant
 organization: Frontiers in Neuroscience
 external_url: ""
 ---
