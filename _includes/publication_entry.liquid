@@ -1,0 +1,108 @@
+{% assign publication = include.publication %}
+{% assign copy_payload = site.data.publication_citations[publication.id] %}
+{% assign entry_id = include.anchor_prefix | default: '' | append: publication.id %}
+{% assign paper_url = publication.pdf_url | default: publication.url %}
+{% assign paper_label = 'PAPER' %}
+{% if publication.pdf_url or paper_url contains '.pdf' %}{% assign paper_label = 'PDF' %}{% endif %}
+
+<article
+  id="{{ entry_id }}"
+  class="publication-record{% if publication.preview %} has-preview{% endif %}"
+  {% if include.searchable %}
+    data-publication-entry
+    data-search="{{ publication.title | append: ' ' | append: publication.author_line | append: ' ' | append: publication.venue | append: ' ' | append: publication.year | append: ' ' | append: publication.tags | downcase | escape }}"
+  {% endif %}
+>
+  {% if publication.preview %}
+    <figure class="publication-record-figure">
+      {% if publication.venue_abbr %}
+        {% if publication.venue_url -%}
+          <a class="publication-venue-badge-link" href="{{ publication.venue_url }}" aria-label="Visit {{ publication.venue | escape }}">
+        {%- endif %}
+        <span class="publication-venue-badge" title="{{ publication.venue | escape }}">{{ publication.venue_abbr }}</span>
+        {% if publication.venue_url %}</a>{% endif %}
+      {% endif %}
+      {% if publication.preview_source_url -%}
+        <a href="{{ publication.preview_source_url }}" aria-label="View the original figure source for {{ publication.title | escape }}">
+      {%- endif %}
+      <img
+        src="{{ publication.preview | relative_url }}"
+        alt="{{ publication.preview_alt | default: publication.title | escape }}"
+        width="240"
+        height="160"
+        loading="{% if include.eager %}eager{% else %}lazy{% endif %}"
+      >
+      {% if publication.preview_source_url %}</a>{% endif %}
+      {% if publication.preview_source_url %}
+        <figcaption><a href="{{ publication.preview_source_url }}">Original paper figure</a></figcaption>
+      {% endif %}
+    </figure>
+  {% endif %}
+
+  <div class="publication-record-body">
+    {% if publication.venue_abbr %}
+      {% unless publication.preview %}
+        {% if publication.venue_url -%}
+          <a class="publication-inline-badge" href="{{ publication.venue_url }}" aria-label="Visit {{ publication.venue | escape }}">
+        {%- else -%}
+          <span class="publication-inline-badge">
+        {%- endif %}
+        {{- publication.venue_abbr -}}
+        {% if publication.venue_url %}</a>{% else %}</span>{% endif %}
+      {% endunless %}
+    {% endif %}
+    <h3 class="publication-record-title">{{ publication.title }}</h3>
+    <div class="publication-authors">
+      {% include publication_authors.liquid authors_html=publication.citation_authors_html %}
+    </div>
+    <p class="publication-venue">
+      <em>
+        {%- if publication.venue_url -%}
+          <a href="{{ publication.venue_url }}">{{ publication.venue }}</a>
+        {%- else -%}
+          {{- publication.venue -}}
+        {%- endif -%}
+      </em>
+      {%- if publication.volume %}, vol. {{ publication.volume }}{% endif -%}
+      {%- if publication.issue %}, no. {{ publication.issue }}{% endif -%}
+      {%- if publication.pages -%}
+        , {% if publication.pages contains '-' %}pp. {% else %}Art. no. {% endif -%}
+        {{- publication.pages -}}
+      {%- endif -%}
+      , {{ publication.year -}}
+      {%- if publication.status == 'accepted' %} (accepted){% endif %}.
+    </p>
+
+    <div class="publication-actions" aria-label="Publication actions">
+      {% if publication.abstract %}
+        <details class="publication-abstract-details">
+          <summary>ABS</summary>
+          <p>{{ publication.abstract }}</p>
+        </details>
+      {% endif %}
+      {% if paper_url -%}
+        <a href="{{ paper_url }}">{{ paper_label }}</a>
+      {%- endif %}
+      {% if publication.doi -%}
+        <button type="button" data-copy-value="{{ publication.doi | escape }}" data-copy-label="DOI">DOI</button>
+      {%- endif %}
+      {% if publication.code_url -%}
+        <a href="{{ publication.code_url }}">CODE</a>
+      {%- endif %}
+      {% if copy_payload.ieee -%}
+        <button type="button" data-copy-source="cite-{{ entry_id }}" data-copy-label="CITE">CITE</button>
+      {%- endif %}
+      {% if copy_payload.bibtex -%}
+        <button type="button" data-copy-source="bib-{{ entry_id }}" data-copy-label="BIB">BIB</button>
+      {%- endif %}
+    </div>
+
+    {% if copy_payload.ieee %}
+      <textarea id="cite-{{ entry_id }}" class="publication-copy-payload" tabindex="-1" aria-hidden="true">{{ copy_payload.ieee }}</textarea>
+    {% endif %}
+    {% if copy_payload.bibtex %}
+      <textarea id="bib-{{ entry_id }}" class="publication-copy-payload" tabindex="-1" aria-hidden="true">{{ copy_payload.bibtex }}</textarea>
+    {% endif %}
+    {% include publication_metrics.liquid publication=publication %}
+  </div>
+</article>

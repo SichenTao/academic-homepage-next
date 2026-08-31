@@ -1,68 +1,11 @@
 {% assign homepage_selected_publications = site.data.publications | where: 'selected', true %}
 <div class="publications homepage-selected-publications">
-  <p class="author-note"><strong>*</strong> Corresponding author; <strong>†</strong> Co-first author.</p>
-  <ol class="bibliography">
+  <p class="author-note"><strong>*</strong> Corresponding author; <strong>†</strong> co-first author.</p>
+  <div class="publication-record-list">
     {% for publication in homepage_selected_publications %}
-      <li>
-        <div class="row">
-          <div class="col col-sm-2 abbr">
-            {% if publication.venue_abbr %}
-              {% if publication.venue_url -%}
-                <a class="publication-venue-badge-link" href="{{ publication.venue_url }}" aria-label="Visit {{ publication.venue | escape }}">
-              {%- endif %}
-              <abbr class="badge rounded w-100" title="{{ publication.venue | escape }}">{{ publication.venue_abbr }}</abbr>
-              {% if publication.venue_url %}</a>{% endif %}
-            {% endif %}
-            {% if publication.preview %}
-              <figure>
-                {% if publication.preview_source_url -%}
-                  <a href="{{ publication.preview_source_url }}" aria-label="View the original figure source for {{ publication.title | escape }}">
-                {%- endif %}
-                <img
-                  class="preview z-depth-1 rounded"
-                  src="{{ publication.preview | relative_url }}"
-                  alt="{{ publication.preview_alt | default: publication.title | escape }}"
-                  width="100%"
-                  height="auto"
-                  loading="{% if forloop.first %}eager{% else %}lazy{% endif %}"
-                >
-                {% if publication.preview_source_url %}</a>{% endif %}
-              </figure>
-            {% endif %}
-          </div>
-          <div class="col-sm-8">
-            <div class="title">{{ publication.title }}</div>
-            <div class="author">
-              {% include publication_authors.liquid authors_html=publication.citation_authors_html %}
-            </div>
-            <div class="periodical">
-              <em>
-                {%- if publication.venue_url -%}
-                  <a href="{{ publication.venue_url }}">{{ publication.venue }}</a>
-                {%- else -%}
-                  {{- publication.venue -}}
-                {%- endif -%}</em
-              >, {{ publication.year }}
-            </div>
-            <div class="publication-actions">
-              {% if publication.abstract %}
-                <details class="publication-abstract-details">
-                  <summary>ABS</summary>
-                  <p>{{ publication.abstract }}</p>
-                </details>
-              {% endif %}
-              {% if publication.doi -%}
-                <a href="https://doi.org/{{ publication.doi }}">DOI</a>
-              {%- endif %}
-              {% if publication.code_url -%}
-                <a href="{{ publication.code_url }}">CODE</a>
-              {%- endif %}
-              <a href="{{ '/publications/#' | append: publication.id | relative_url }}">Citation</a>
-            </div>
-            {% include publication_metrics.liquid publication=publication %}
-          </div>
-        </div>
-      </li>
+      {% include publication_entry.liquid publication=publication anchor_prefix="home-" eager=forloop.first %}
     {% endfor %}
-  </ol>
+  </div>
 </div>
+<p id="publication-copy-status" class="sr-only" role="status" aria-live="polite"></p>
+<script src="{{ '/assets/js/publication-filter.js' | relative_url }}?v=20260831c" defer></script>

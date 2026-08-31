@@ -312,6 +312,7 @@ h3,
 }
 
 .publication-actions a,
+.publication-actions button,
 .citation-actions a,
 .copy-citation {
   background: transparent;
@@ -326,6 +327,7 @@ h3,
 }
 
 .publication-actions a:hover,
+.publication-actions button:hover,
 .citation-actions a:hover,
 .copy-citation:hover {
   background: var(--sichen-soft-purple);
@@ -437,6 +439,119 @@ h3,
   margin-right: 0.7rem;
 }
 
+.publication-record-list {
+  display: grid;
+  gap: 1.1rem;
+}
+
+.publication-record {
+  border-bottom: 1px solid var(--global-divider-color);
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: minmax(0, 1fr);
+  padding-bottom: 1rem;
+}
+
+.publication-record.has-preview {
+  align-items: start;
+  grid-template-columns: 210px minmax(0, 1fr);
+}
+
+.publication-record-body {
+  min-width: 0;
+}
+
+.publication-record-figure {
+  margin: 0;
+  width: 100%;
+}
+
+.publication-record-figure img {
+  background: #fff;
+  border: 1px solid rgba(21, 18, 29, 0.09);
+  border-radius: 0 0 5px 5px;
+  box-shadow: 0 3px 12px rgba(21, 18, 29, 0.13);
+  height: 140px;
+  object-fit: contain;
+  width: 100%;
+}
+
+.publication-record-figure figcaption {
+  font-size: 0.75rem;
+  margin-top: 0.28rem;
+  text-align: right;
+}
+
+.publication-record-title {
+  font-family:
+    Roboto,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  font-size: 1.02rem;
+  font-weight: 500;
+  line-height: 1.35;
+  margin: 0 0 0.35rem;
+}
+
+.publication-author-list em,
+.citation-authors em {
+  border-bottom: 1px solid currentColor;
+  font-style: normal;
+}
+
+.publication-inline-badge {
+  background: var(--global-theme-color);
+  border-radius: 3px;
+  color: var(--sichen-badge-text) !important;
+  display: inline-block;
+  font-size: 0.67rem;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  line-height: 1;
+  margin-bottom: 0.35rem;
+  padding: 0.24rem 0.42rem;
+  text-decoration: none;
+}
+
+.publication-actions button {
+  background: transparent;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 3px;
+  color: var(--global-theme-color);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.78rem;
+  line-height: 1.2;
+  padding: 0.18rem 0.4rem;
+}
+
+.publication-actions button:focus-visible {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 2px;
+}
+
+.publication-copy-payload {
+  height: 1px;
+  left: -10000px;
+  overflow: hidden;
+  position: absolute;
+  top: auto;
+  width: 1px;
+}
+
+.publication-year-group {
+  margin-top: 1.3rem;
+}
+
+.publication-year-group > h3 {
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 1.22rem;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.24rem;
+}
+
 .direct-list-page section + section,
 .profile-links,
 .contact-primary + section {
@@ -518,6 +633,19 @@ h3,
 
   .selected-publication {
     grid-template-columns: 1fr;
+  }
+
+  .publication-record.has-preview {
+    grid-template-columns: 1fr;
+  }
+
+  .publication-record-figure {
+    margin-inline: auto;
+    max-width: 360px;
+  }
+
+  .publication-record-figure img {
+    height: min(56vw, 220px);
   }
 
   .selected-publication-figure img {

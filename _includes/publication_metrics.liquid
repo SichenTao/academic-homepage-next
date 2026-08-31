@@ -1,28 +1,41 @@
-{% assign publication_year = include.publication.year | append: '' %}
-{% assign if_year = include.publication.verification.if_year | append: '' %}
-{% assign jcr_year = include.publication.verification.jcr_year | append: '' %}
-{% assign citescore_year = include.publication.verification.citescore_year | append: '' %}
-{% assign has_if = false %}
-{% assign has_jcr = false %}
-{% assign has_citescore = false %}
-{% if include.publication.verification.if_value and if_year == publication_year %}{% assign has_if = true %}{% endif %}
-{% if include.publication.verification.jcr_quartile and jcr_year == publication_year %}{% assign has_jcr = true %}{% endif %}
-{% if include.publication.verification.citescore and citescore_year == publication_year %}{% assign has_citescore = true %}{% endif %}
+{% assign verification = include.publication.verification %}
+{% assign has_if = verification.if_value %}
+{% assign has_jcr = verification.jcr_quartile %}
+{% assign has_citescore = verification.citescore %}
 <p class="publication-metric-line">
   {% if include.publication.citation_source_url %}
-    <a href="{{ include.publication.citation_source_url }}" title="Citation count last checked {{ include.publication.citation_checked_at | default: '2026-08-31' }}">Citations {{ include.publication.citations | default: 0 }}</a>
+    <a href="{{ include.publication.citation_source_url }}" title="Citation count last checked {{ include.publication.citation_checked_at }}"
+      >Citations {{ include.publication.citations -}}
+    </a>
   {% else %}
-    <span>Citations {{ include.publication.citations | default: 0 }}</span>
+    <span>Citations {{ include.publication.citations }}</span>
   {% endif %}
   {% if include.publication.type == 'journal' %}
-    <span aria-hidden="true">·</span>
     {% if has_if or has_jcr or has_citescore %}
-      <span>{{ include.publication.year }} metrics:</span>
-      {% if has_jcr %}<span>JCR {{ include.publication.verification.jcr_quartile }}{% if include.publication.verification.jcr_top_10 %} (Top 10%){% endif %}</span>{% endif %}
-      {% if has_if %}<span>{% if has_jcr %}· {% endif %}IF {{ include.publication.verification.if_value }}</span>{% endif %}
-      {% if has_citescore %}<span>{% if has_jcr or has_if %}· {% endif %}CiteScore {{ include.publication.verification.citescore }}</span>{% endif %}
-    {% else %}
-      <span>{{ include.publication.year }} journal metrics pending{% if include.publication.year < 2026 %} verification{% endif %}</span>
+      <span aria-hidden="true">·</span>
+      {% if verification.metric_basis contains 'acceptance' -%}
+        <span>At acceptance:</span>
+      {%- else -%}
+        <span>Verified metrics:</span>
+      {%- endif %}
+      {% if has_jcr -%}
+        <span>
+          {{- verification.jcr_year }} JCR {{ verification.jcr_quartile -}}
+          {%- if verification.jcr_top_10 %} (Top 10%){% endif -%}
+        </span>
+      {%- endif %}
+      {% if has_if -%}
+        <span>
+          {%- if has_jcr %}· {% endif -%}
+          {{- verification.if_year }} IF {{ verification.if_value -}}
+        </span>
+      {%- endif %}
+      {% if has_citescore -%}
+        <span>
+          {%- if has_jcr or has_if %}· {% endif -%}
+          {{- verification.citescore_year }} CiteScore {{ verification.citescore -}}
+        </span>
+      {%- endif %}
     {% endif %}
   {% endif %}
 </p>

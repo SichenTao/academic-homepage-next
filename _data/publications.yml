@@ -28,8 +28,21 @@
   verification:
     accepted_date: "2026-08-28"
     metric_anchor_date: "2026-08-28"
+    metric_basis: latest_available_at_acceptance
     verification_status: formally_accepted_doi_pending
-    metric_status: 2026_journal_metrics_pending
+    metric_status: verified_latest_available_at_acceptance
+    if_value: 15.9
+    if_year: 2025
+    jcr_quartile: Q1
+    jcr_year: 2025
+    jcr_top_10: true
+    citescore: 22.1
+    citescore_year: 2025
+    metrics_verified_at: "2026-08-31"
+    if_source_url: https://www.niic.nsc.ru/phocadownload/publications/2025/JCR_JournalImpactFactor_2026.pdf
+    jcr_source_url: https://scholar.pusan.ac.kr/journals/16588/
+    citescore_source_url: https://innovate.ieee.org/ieee-journals-continue-to-excel-in-citation-rankings/
+    metrics_note: Latest 2025 JIF and CiteScore available when the paper was accepted on 2026-08-28.
     cas_quartile: Q1
     cas_year: 2025
     cas_top: true
@@ -52,7 +65,7 @@
   preview_source_url: https://cis.ieee.org/publications/t-evolutionary-computation
   selected: true
   public: true
-  citation_authors_html: H. Hu, J. Wang*, Z. Sun, <strong>S. Tao*</strong>, J. Mańdziuk, N. R. Pal
+  citation_authors_html: H. Hu, J. Wang*, Z. Sun, <em>S. Tao*</em>, J. Mańdziuk, N. R. Pal
 - id: rdex-cmop-feasibility-aware-indicator-guided-differential-evolution-for-fixed-budget-constrained-multiobjective-optimization
   title: "RDEx-CMOP: Feasibility-Aware Indicator-Guided Differential Evolution for Fixed-Budget Constrained Multiobjective Optimization"
   authors: [Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao]
@@ -82,7 +95,7 @@
   venue_url: https://arxiv.org/
   selected: false
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
+  citation_authors_html: <em>S. Tao</em>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
 - id: rdex-mop-indicator-guided-reconstructed-differential-evolution-for-fixed-budget-multiobjective-optimization
   title: "RDEx-MOP: Indicator-Guided Reconstructed Differential Evolution for Fixed-Budget Multiobjective Optimization"
   authors: [Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao]
@@ -112,7 +125,7 @@
   venue_url: https://arxiv.org/
   selected: false
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
+  citation_authors_html: <em>S. Tao</em>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
 - id: rdex-csop-feasibility-aware-reconstructed-differential-evolution-with-adaptive-epsilon-constraint-ranking
   title: "RDEx-CSOP: Feasibility-Aware Reconstructed Differential Evolution with Adaptive epsilon-Constraint Ranking"
   authors: [Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao]
@@ -142,7 +155,7 @@
   venue_url: https://arxiv.org/
   selected: false
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
+  citation_authors_html: <em>S. Tao</em>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
 - id: rdex-sop-exploitation-biased-reconstructed-differential-evolution-for-fixed-budget-bound-constrained-single-objective-optimization
   title: "RDEx-SOP: Exploitation-Biased Reconstructed Differential Evolution for Fixed-Budget Bound-Constrained Single-Objective Optimization"
   authors: [Sichen Tao, Yifei Yang, Ruihan Zhao, Kaiyu Wang, Sicheng Liu, Shangce Gao]
@@ -172,7 +185,7 @@
   venue_url: https://arxiv.org/
   selected: false
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
+  citation_authors_html: <em>S. Tao</em>, Y. Yang, R. Zhao, K. Wang, S. Liu, S. Gao
 - id: relu-neural-networks-and-their-training
   title: ReLU Neural Networks and Their Training
   authors:
@@ -193,6 +206,7 @@
   pages: "39"
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 1
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author
   source_group: indexed
@@ -269,7 +283,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://www.mdpi.com/2227-7390/14/1/39
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: G. Luo, X. G. Wang, W. Zhao, <strong>S. Tao*</strong>, Z. Tang
+  citation_authors_html: G. Luo, X. G. Wang, W. Zhao, <em>S. Tao*</em>, Z. Tang
 - id: cityscalecast-spatiotemporal-gnn-for-city-scale-weather-prediction-with-graphcast-guided-parallel-modeling-and-multi-step-forecasting-in-sendai
   title: "CityScaleCast: Spatiotemporal GNN for City-Scale Weather Prediction with GraphCast-Guided Parallel Modeling and Multi-Step Forecasting
     in Sendai"
@@ -292,6 +306,7 @@
   pages: 177-185
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: cv_supplement
@@ -318,7 +333,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: X. Pan, Y. Shimomura, <strong>S. Tao</strong>, M. Kawai, K. Takahashi, H. Takizawa
+  citation_authors_html: X. Pan, Y. Shimomura, <em>S. Tao</em>, M. Kawai, K. Takahashi, H. Takizawa
 - id: adversarial-game-optimization-a-game-theoretic-metaheuristic-for-efficient-complex-optimization-and-engineering-applications
   title: "Adversarial game optimization: A game-theoretic metaheuristic for efficient complex optimization and engineering applications"
   authors:
@@ -347,6 +362,7 @@
   pages: "123022"
   publisher: Elsevier BV
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -367,11 +383,17 @@
     crossref_created_date: "2025-12-20"
     metric_anchor_date: "2025-12-20"
     metric_anchor_kind: crossref_created_date
+    metric_basis: latest_available_at_acceptance_proxy
     verification_status: publisher_record_verified_no_public_acceptance_date
     if_value: 6.8
-    if_year: 2025
+    if_year: 2024
     jcr_quartile: Q1
-    jcr_year: 2025
+    jcr_year: 2024
+    jcr_top_10: true
+    citescore: 14.4
+    citescore_year: 2024
+    citescore_source_url: https://journalrank.rcsi.science/ru/record-sources/indicators/8931/
+    metrics_verified_at: "2026-08-31"
     cas_quartile: Q1
     cas_year: 2025
     cas_top: true
@@ -400,9 +422,9 @@
     cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
     verification_note:
       en: "Official publisher page verified, but the exact accepted date is not publicly exposed. Closest public metrics at the earliest Crossref
-        registration date (2025-12-20): IF 6.8 (2025) · JCR 2025 Q1 · CAS 2025 Q1."
-      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-12-20）回溯的最近公开指标：IF 6.8（2025），JCR 2025 Q1，中科院 2025 Q1。
-      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-12-20）に最も近い公開指標：IF 6.8 (2025) · JCR 2025 Q1 · CAS 2025 Q1。
+        registration date (2025-12-20): 2024 JIF 6.8 · 2024 JCR Q1 · 2024 CiteScore 14.4 · CAS 2025 Q1."
+      zh: 已核对出版社页面，但未公开精确接收日期。按 Crossref 最早登记时间（2025-12-20）回溯的最近公开指标：2024 JIF 6.8，2024 JCR Q1，2024 CiteScore 14.4，中科院 2025 Q1。
+      ja: 出版社ページを確認済みですが、正確な採択日は公開されていません。Crossref の最初の登録日（2025-12-20）に最も近い公開指標：2024 JIF 6.8 · 2024 JCR Q1 · 2024 CiteScore 14.4 · CAS 2025 Q1。
   venue_url: https://www.sciencedirect.com/journal/information-sciences
   citation_sources:
     google_scholar:
@@ -424,7 +446,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
   selected: true
   public: true
-  citation_authors_html: C. Li, Q. Zhang*, J. Li, <strong>S. Tao</strong>, D. Oliva
+  citation_authors_html: C. Li, Q. Zhang*, J. Li, <em>S. Tao</em>, D. Oliva
   preview: /assets/img/publication_preview/adversarial-game-optimization-fig1.jpg
   preview_alt: "Figure 1 from the paper: dynamic role-based adversarial game optimization framework"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
@@ -449,6 +471,7 @@
   pages: ""
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author and first author
   source_group: cv_supplement
@@ -476,7 +499,7 @@
       copy_text: Unleashing the Inherent Potential of Differential Evolution Using Nonlinear Population Size Reduction for Wind Farm Layout Optimization
   selected: false
   public: false
-  citation_authors_html: <strong>S. Tao*</strong>, Y. Yang, R. Zhao, Z. Lei, S. Gao
+  citation_authors_html: <em>S. Tao*</em>, Y. Yang, R. Zhao, Z. Lei, S. Gao
 - id: safety-efficiency-integrated-assembly-the-next-stage-adaptive-task-allocation-and-planning-framework-for-human-robot-collaboration
   title: "Safety-efficiency integrated assembly: The next-stage adaptive task allocation and planning framework for human–robot collaboration"
   authors:
@@ -503,6 +526,7 @@
   pages: 102942-102942
   publisher: Elsevier BV
   citations: 16
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -579,7 +603,7 @@
       copy_text: ""
   selected: true
   public: true
-  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li*
+  citation_authors_html: R. Zhao, <em>S. Tao</em>, P. Li*
   preview: /assets/img/publication_preview/safety-efficiency-assembly-fig1.jpg
   preview_alt: "Figure 1 from the paper: safety-efficiency integrated human-robot assembly concept"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S0736584524002291
@@ -603,6 +627,7 @@
   pages: ""
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: cv_supplement
@@ -635,7 +660,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
   selected: false
   public: false
-  citation_authors_html: R. Zhao, J. Betz, <strong>S. Tao</strong>, Y. Zhang, P. Li
+  citation_authors_html: R. Zhao, J. Betz, <em>S. Tao</em>, Y. Zhang, P. Li
 - id: level-direction-guided-hierarchical-genetic-learning-particle-swarm-optimization-for-wind-farm-layout-optimization-considering-landowners-behavior
   title: Level-Direction Guided Hierarchical Genetic Learning Particle Swarm Optimization for Wind Farm Layout Optimization Considering Landowners
     Behavior
@@ -657,6 +682,7 @@
   pages: ""
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: first_author
   role_note: First author
   source_group: cv_supplement
@@ -692,7 +718,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
   selected: false
   public: false
-  citation_authors_html: <strong>S. Tao</strong>, R. Zhao, Z. Lei, M. Omura, S. Gao
+  citation_authors_html: <em>S. Tao</em>, R. Zhao, Z. Lei, M. Omura, S. Gao
 - id: improved-spherical-search-algorithm-with-memory-based-dynamic-population-for-optimization
   title: Improved spherical search algorithm with memory-based dynamic population for optimization
   authors:
@@ -713,6 +739,7 @@
   pages: ""
   publisher: Springer Science+Business Media
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -789,7 +816,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
   selected: false
   public: true
-  citation_authors_html: S. Liu, <strong>S. Tao</strong>, K. Wang, Z. Lei, S. Gao
+  citation_authors_html: S. Liu, <em>S. Tao</em>, K. Wang, Z. Lei, S. Gao
 - id: human-robot-collaborative-resource-and-task-planning-for-assembly-systems-with-self-learning-multi-objective-evolutionary-optimizer
   title: Human-robot Collaborative Resource and Task Planning for Assembly Systems with Self-learning Multi-objective Evolutionary Optimizer
   authors:
@@ -808,6 +835,7 @@
   pages: 1272-1277
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -835,7 +863,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+  citation_authors_html: R. Zhao, <em>S. Tao</em>, P. Li
 - id: human-centric-assembly-planning-framework-for-human-robot-collaborative-systems-with-efficient-reinforcement-self-learning-multi-objective-evolutionary-optimizer
   title: Human-centric assembly planning framework for human–robot collaborative systems with efficient reinforcement self-learning multi-objective
     evolutionary optimizer
@@ -863,6 +891,7 @@
   pages: 103508-103508
   publisher: Elsevier BV
   citations: 2
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -948,7 +977,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
   selected: true
   public: true
-  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li*
+  citation_authors_html: R. Zhao, <em>S. Tao</em>, P. Li*
   preview: /assets/img/publication_preview/human-centric-assembly-fig1.jpg
   preview_alt: "Figure 1 from the paper: human-centric collaborative assembly planning framework"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S147403462500401X
@@ -973,6 +1002,7 @@
   pages: "103160"
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: cv_supplement
@@ -1051,7 +1081,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
   selected: false
   public: true
-  citation_authors_html: Q. Zhang, W. Chen, S. Pang, <strong>S. Tao</strong>, C. Li, X. Yin
+  citation_authors_html: Q. Zhang, W. Chen, S. Pang, <em>S. Tao</em>, C. Li, X. Yin
 - id: enhancing-convolutional-neural-network-robustness-against-image-noise-via-an-artificial-visual-system
   title: Enhancing Convolutional Neural Network Robustness Against Image Noise via an Artificial Visual System
   authors:
@@ -1072,6 +1102,7 @@
   pages: 142-142
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 7
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author
   source_group: indexed
@@ -1147,7 +1178,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://www.mdpi.com/2227-7390/13/1/142
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: B. Li, Y. Todo, <strong>S. Tao*</strong>, C. Tang, Y. Wang
+  citation_authors_html: B. Li, Y. Todo, <em>S. Tao*</em>, C. Tang, Y. Wang
 - id: an-artificial-visual-system-constructed-by-fully-modeled-retinal-direction-selective-networks-on-detecting-motion-direction-in-color-images
   title: An Artificial Visual System Constructed by Fully Modeled Retinal Direction-selective Networks on Detecting Motion Direction in Color
     Images
@@ -1168,6 +1199,7 @@
   pages: ""
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author and first author
   source_group: cv_supplement
@@ -1202,7 +1234,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
   selected: false
   public: false
-  citation_authors_html: <strong>S. Tao*</strong>, R. Zhao, H. Yang, J. Wang
+  citation_authors_html: <em>S. Tao*</em>, R. Zhao, H. Yang, J. Wang
 - id: ai-powered-model-for-predicting-mortality-risk-in-va-ecmo-patients-a-multicenter-cohort-study
   title: "AI-powered model for predicting mortality risk in VA-ECMO patients: a multicenter cohort study"
   authors:
@@ -1228,6 +1260,7 @@
   pages: ""
   publisher: Springer Science and Business Media LLC
   citations: 6
+  citation_checked_at: "2026-08-31"
   author_role: co_first_author
   role_note: Co-first author
   source_group: indexed
@@ -1299,7 +1332,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: S. Wang, <strong>S. Tao†</strong>, Y. Zhu, Q. Gu, P. Ni, W. Zhang, C. Wu, R. Zhao, W. Hu, M. Diao
+  citation_authors_html: S. Wang, <em>S. Tao†</em>, Y. Zhu, Q. Gu, P. Ni, W. Zhang, C. Wu, R. Zhao, W. Hu, M. Diao
 - id: adaptive-product-family-formation-a-medoid-based-fuzzy-clustering-method-for-mixed-products-assembly-in-the-shared-human-robot-collaborative-system
   title:
     "Adaptive product family formation: A medoid-based fuzzy clustering method for mixed products assembly in the shared human-robot collaborative
@@ -1320,6 +1353,7 @@
   pages: ""
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: cv_supplement
@@ -1349,7 +1383,7 @@
         collaborative system"
   selected: false
   public: false
-  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+  citation_authors_html: R. Zhao, <em>S. Tao</em>, P. Li
 - id: a-state-of-the-art-fractional-order-driven-differential-evolution-for-wind-farm-layout-optimization
   title: A State-of-the-Art Fractional Order-Driven Differential Evolution for Wind Farm Layout Optimization
   authors:
@@ -1371,6 +1405,7 @@
   pages: 282-282
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 8
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author and first author
   source_group: indexed
@@ -1446,7 +1481,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://www.mdpi.com/2227-7390/13/2/282
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: <strong>S. Tao*</strong>, S. Liu, R. Zhao, Y. Yang, H. Todo, H. Yang
+  citation_authors_html: <em>S. Tao*</em>, S. Liu, R. Zhao, Y. Yang, H. Todo, H. Yang
 - id: a-reinforcement-learning-assisted-fractional-order-differential-evolution-for-solving-wind-farm-layout-optimization-problems
   title: A Reinforcement Learning-Assisted Fractional-Order Differential Evolution for Solving Wind Farm Layout Optimization Problems
   authors:
@@ -1467,6 +1502,7 @@
   pages: 2935-2935
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author
   source_group: indexed
@@ -1543,7 +1579,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://www.mdpi.com/2227-7390/13/18/2935
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: Y. Wang, Y. Yang, <strong>S. Tao*</strong>, L. Qi, H. Shen
+  citation_authors_html: Y. Wang, Y. Yang, <em>S. Tao*</em>, L. Qi, H. Shen
 - id: a-novel-detection-and-replacement-based-order-operator-for-differential-evolution-in-solving-complex-bound-constrained-optimization-problems
   title: A Novel Detection-and-Replacement-Based Order-Operator for Differential Evolution in Solving Complex Bound Constrained Optimization Problems
   authors:
@@ -1565,6 +1601,7 @@
   pages: 1389-1389
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 2
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author and first author
   source_group: indexed
@@ -1640,7 +1677,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://www.mdpi.com/2227-7390/13/9/1389
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: <strong>S. Tao*</strong>, S. Liu, S. Ohta, R. Zhao, Z. Tang, Y. Yang
+  citation_authors_html: <em>S. Tao*</em>, S. Liu, S. Ohta, R. Zhao, Z. Tang, Y. Yang
 - id: a-biologically-inspired-model-for-detecting-object-motion-direction-in-stereoscopic-vision
   title: A Biologically Inspired Model for Detecting Object Motion Direction in Stereoscopic Vision
   authors:
@@ -1662,6 +1699,7 @@
   pages: 162-162
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author
   source_group: indexed
@@ -1736,7 +1774,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://www.mdpi.com/2073-8994/17/2/162
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: Y. Hua, <strong>S. Tao*</strong>, Y. Todo, T. Chen, Z. Qiu, Z. Tang
+  citation_authors_html: Y. Hua, <em>S. Tao*</em>, Y. Todo, T. Chen, Z. Qiu, Z. Tang
 - id: spherical-search-algorithm-with-memory-guided-population-stage-wise-control-for-bound-constrained-global-optimization-problems
   title: Spherical search algorithm with memory-guided population stage-wise control for bound-constrained global optimization problems
   authors:
@@ -1766,6 +1804,7 @@
   pages: 111677-111677
   publisher: Elsevier BV
   citations: 13
+  citation_checked_at: "2026-08-31"
   author_role: first_author
   role_note: First author
   source_group: indexed
@@ -1843,7 +1882,7 @@
       copy_text: ""
   selected: true
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, K. Wang, T. Jin*, Z. Wu, Z. Lei, S. Gao
+  citation_authors_html: <em>S. Tao</em>, K. Wang, T. Jin*, Z. Wu, Z. Lei, S. Gao
   preview: /assets/img/publication_preview/spherical-search-stagewise-fig1.jpg
   preview_alt: "Figure 1 from the paper: memory-guided stage-wise population control framework"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S1568494624004514
@@ -1867,6 +1906,7 @@
   pages: 1337-1341
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author
   source_group: indexed
@@ -1896,7 +1936,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://doi.org/10.1109/ITNEC60942.2024.10733307
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: S. Sun, R. Zhao, C. Wang, Z. Tang, <strong>S. Tao*</strong>
+  citation_authors_html: S. Sun, R. Zhao, C. Wang, Z. Tang, <em>S. Tao*</em>
 - id: competitive-elimination-improved-differential-evolution-for-wind-farm-layout-optimization-problems
   title: Competitive Elimination Improved Differential Evolution for Wind Farm Layout Optimization Problems
   authors:
@@ -1917,6 +1957,7 @@
   pages: 3762-3762
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 3
+  citation_checked_at: "2026-08-31"
   author_role: first_author
   role_note: First author
   source_group: indexed
@@ -1989,7 +2030,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, Y. Yang, R. Zhao, H. Todo, Z. Tang
+  citation_authors_html: <em>S. Tao</em>, Y. Yang, R. Zhao, H. Todo, Z. Tang
 - id: bio-inspired-computational-model-for-direction-and-speed-detection
   title: Bio-inspired computational model for direction and speed detection
   authors:
@@ -2019,6 +2060,7 @@
   pages: 112195-112195
   publisher: Elsevier BV
   citations: 7
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -2100,7 +2142,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
   selected: true
   public: true
-  citation_authors_html: Y. Hua, Y. Todo*, <strong>S. Tao</strong>, Z. Tang, T. Cheng, Z. Qiu
+  citation_authors_html: Y. Hua, Y. Todo*, <em>S. Tao</em>, Z. Tang, T. Cheng, Z. Qiu
   preview: /assets/img/publication_preview/bio-inspired-direction-speed-fig1.jpg
   preview_alt: "Figure 1 from the paper: bio-inspired direction and speed detection architecture"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S0950705124008293
@@ -2125,6 +2167,7 @@
   pages: 1592-1592
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 1
+  citation_checked_at: "2026-08-31"
   author_role: first_author
   role_note: First author
   source_group: indexed
@@ -2196,7 +2239,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, R. Zhao, Y. Yang, H. Todo, Z. Tang, Y. Todo
+  citation_authors_html: <em>S. Tao</em>, R. Zhao, Y. Yang, H. Todo, Z. Tang, Y. Todo
 - id: an-efficient-reconstructed-differential-evolution-variant-by-some-of-the-current-state-of-the-art-strategies-for-solving-single-objective-bound-constrained-problems
   title: An Efficient Reconstructed Differential Evolution Variant by Some of the Current State-of-the-art Strategies for Solving Single Objective
     Bound Constrained Problems
@@ -2217,6 +2260,7 @@
   pages: ""
   publisher: Cornell University
   citations: 12
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author and first author
   source_group: indexed
@@ -2247,7 +2291,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://doi.org/10.48550/arXiv.2404.16280
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: <strong>S. Tao*</strong>, R. Zhao, K. Wang, S. Gao
+  citation_authors_html: <em>S. Tao*</em>, R. Zhao, K. Wang, S. Gao
 - id: a-novel-artificial-visual-system-with-fully-modeled-retinal-direction-selectivity-ganglion-cell-pathway-for-motion-direction-detection-in-grayscale-images
   title: A Novel Artificial Visual System with Fully Modeled Retinal Direction-selectivity Ganglion Cell Pathway for Motion Direction Detection
     in Grayscale Images
@@ -2269,6 +2313,7 @@
   pages: 212-215
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author
   source_group: indexed
@@ -2298,7 +2343,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://doi.org/10.1145/3686490.3686521
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: Y. Shoji, <strong>S. Tao*</strong>, Y. Todo, Z. Tang, R. Zhao
+  citation_authors_html: Y. Shoji, <em>S. Tao*</em>, Y. Todo, Z. Tang, R. Zhao
 - id: a-novel-artificial-visual-system-for-motion-direction-detection-in-color-images
   title: A novel artificial visual system for motion direction detection in color images
   authors:
@@ -2327,6 +2372,7 @@
   pages: 111816-111816
   publisher: Elsevier BV
   citations: 8
+  citation_checked_at: "2026-08-31"
   author_role: first_author
   role_note: First author
   source_group: indexed
@@ -2408,7 +2454,7 @@
     supporting_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
   selected: true
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, Z. Zhang, R. Zhao, Z. Tang, Y. Todo*
+  citation_authors_html: <em>S. Tao</em>, Z. Zhang, R. Zhao, Z. Tang, Y. Todo*
   preview: /assets/img/publication_preview/artificial-visual-system-color-fig1.jpg
   preview_alt: "Figure 1 from the paper: retinal and cortical pathway for color motion detection"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S0950705124004507
@@ -2432,6 +2478,7 @@
   pages: 3196-3196
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 3
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -2504,7 +2551,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: Y. Yang, <strong>S. Tao</strong>, H. Li, H. Yang, Z. Tang
+  citation_authors_html: Y. Yang, <em>S. Tao</em>, H. Li, H. Yang, Z. Tang
 - id: a-differential-search-integrated-music-harmony-search-algorithm-for-solving-bound-constrained-optimization-problems
   title: A Differential Search Integrated Music Harmony Search Algorithm for Solving Bound Constrained Optimization Problems
   authors:
@@ -2525,6 +2572,7 @@
   pages: 231-235
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author
   source_group: indexed
@@ -2554,7 +2602,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://doi.org/10.1145/3686490.3686524
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: S. Sun, R. Zhao, C. Wang, Z. Tang, <strong>S. Tao*</strong>
+  citation_authors_html: S. Sun, R. Zhao, C. Wang, Z. Tang, <em>S. Tao*</em>
 - id: a-bio-inspired-model-for-object-motion-direction-and-speed-detection-against-colored-backgrounds
   title: A bio-inspired model for object motion direction and speed detection against colored backgrounds
   authors:
@@ -2577,6 +2625,7 @@
   pages: 8-8
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -2603,7 +2652,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: Y. Hua, Y. Todo, <strong>S. Tao</strong>, T. Chen, Z. Qiu, M. Dong, Z. Tang
+  citation_authors_html: Y. Hua, Y. Todo, <em>S. Tao</em>, T. Chen, Z. Qiu, M. Dong, Z. Tang
 - id: the-mechanism-of-orientation-detection-based-on-artificial-visual-system-for-greyscale-images
   title: The Mechanism of Orientation Detection Based on Artificial Visual System for Greyscale Images
   authors:
@@ -2624,6 +2673,7 @@
   pages: 2715-2715
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 1
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -2695,7 +2745,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: X. Zhang, <strong>S. Tao</strong>, Z. Tang, S. Zheng, Y. Todo
+  citation_authors_html: X. Zhang, <em>S. Tao</em>, Z. Tang, S. Zheng, Y. Todo
 - id: spherical-search-algorithm-with-adaptive-population-control-for-global-continuous-optimization-problems
   title: Spherical search algorithm with adaptive population control for global continuous optimization problems
   authors:
@@ -2725,6 +2775,7 @@
   pages: 109845-109845
   publisher: Elsevier BV
   citations: 39
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -2801,7 +2852,7 @@
       copy_text: ""
   selected: true
   public: true
-  citation_authors_html: K. Wang, Y. Wang, <strong>S. Tao</strong>, Z. Cai, Z. Lei, S. Gao*
+  citation_authors_html: K. Wang, Y. Wang, <em>S. Tao</em>, Z. Cai, Z. Lei, S. Gao*
   preview: /assets/img/publication_preview/spherical-search-adaptive-fig1.jpg
   preview_alt: "Figure 1 from the paper: spherical-search candidate generation geometry"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S1568494622008948
@@ -2826,6 +2877,7 @@
   pages: ""
   publisher: Springer Nature
   citations: 17
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -2897,7 +2949,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: Z. Tang, K. Wang, <strong>S. Tao</strong>, Y. Todo, R. Wang, S. Gao
+  citation_authors_html: Z. Tang, K. Wang, <em>S. Tao</em>, Y. Todo, R. Wang, S. Gao
 - id: dynamic-complex-network-exploring-differential-evolution-algorithms-from-another-perspective
   title: Dynamic Complex Network, Exploring Differential Evolution Algorithms from Another Perspective
   authors:
@@ -2918,6 +2970,7 @@
   pages: 2979-2979
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 6
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -2989,7 +3042,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: Y. Yang, <strong>S. Tao</strong>, H. Yang, Z. Yuan, Z. Tang
+  citation_authors_html: Y. Yang, <em>S. Tao</em>, H. Yang, Z. Yuan, Z. Tang
 - id: an-adaptive-dimension-weighting-spherical-evolution-to-solve-continuous-optimization-problems
   title: An Adaptive Dimension Weighting Spherical Evolution to Solve Continuous Optimization Problems
   authors:
@@ -3010,6 +3063,7 @@
   pages: 3733-3733
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 1
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -3082,7 +3136,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: Y. Yang, <strong>S. Tao</strong>, S. Dong, M. Nomura, Z. Tang
+  citation_authors_html: Y. Yang, <em>S. Tao</em>, S. Dong, M. Nomura, Z. Tang
 - id: a-novel-artificial-visual-system-for-motion-direction-detection-with-completely-modeled-retinal-direction-selective-pathway
   title: A Novel Artificial Visual System for Motion Direction Detection with Completely Modeled Retinal Direction-Selective Pathway
   authors:
@@ -3103,6 +3157,7 @@
   pages: 3732-3732
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 7
+  citation_checked_at: "2026-08-31"
   author_role: first_author
   role_note: First author
   source_group: indexed
@@ -3174,7 +3229,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, X. Zhang, Y. Hua, Z. Tang, Y. Todo
+  citation_authors_html: <em>S. Tao</em>, X. Zhang, Y. Hua, Z. Tang, Y. Todo
 - id: spatial-information-sampling-another-feedback-mechanism-of-realising-adaptive-parameter-control-in-meta-heuristic-algorithms
   title: "Spatial information sampling: another feedback mechanism of realising adaptive parameter control in meta-heuristic algorithms"
   authors:
@@ -3195,6 +3250,7 @@
   pages: 48-48
   publisher: Inderscience Publishers
   citations: 21
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -3267,7 +3323,7 @@
       copy_text: 10.1504/IJBIC.2022.120751
   selected: false
   public: true
-  citation_authors_html: H. Yang, <strong>S. Tao</strong>, Z. Zhang, Z. Cai, S. Gao
+  citation_authors_html: H. Yang, <em>S. Tao</em>, Z. Zhang, Z. Cai, S. Gao
 - id: paidde-a-permutation-archive-information-directed-differential-evolution-algorithm
   title: "PAIDDE: A Permutation-Archive Information Directed Differential Evolution Algorithm"
   authors:
@@ -3290,6 +3346,7 @@
   pages: 50384-50402
   publisher: Institute of Electrical and Electronics Engineers
   citations: 17
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -3362,7 +3419,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: X. Li, K. Wang, H. Yang, <strong>S. Tao</strong>, S. Feng, S. Gao
+  citation_authors_html: X. Li, K. Wang, H. Yang, <em>S. Tao</em>, S. Feng, S. Gao
 - id: hierarchical-water-wave-optimization
   title: Hierarchical Water Wave Optimization
   authors:
@@ -3384,6 +3441,7 @@
   pages: 1-5
   publisher: ""
   citations: 3
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -3410,7 +3468,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: S. Dong, H. Yang, H. Li, B. Zhang, <strong>S. Tao</strong>, S. Gao
+  citation_authors_html: S. Dong, H. Yang, H. Li, B. Zhang, <em>S. Tao</em>, S. Gao
 - id: chaotic-wind-driven-optimization-with-fitness-distance-balance-strategy
   title: Chaotic Wind Driven Optimization with Fitness Distance Balance Strategy
   authors:
@@ -3432,6 +3490,7 @@
   pages: ""
   publisher: Springer Nature
   citations: 19
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -3503,7 +3562,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: Z. Tang, <strong>S. Tao</strong>, K. Wang, B. Lü, Y. Todo, S. Gao
+  citation_authors_html: Z. Tang, <em>S. Tao</em>, K. Wang, B. Lü, Y. Todo, S. Gao
 - id: an-optimal-parent-crossover-based-differential-evolution
   title: An Optimal-Parent-Crossover based Differential Evolution
   authors:
@@ -3522,6 +3581,7 @@
   pages: 276-281
   publisher: ""
   citations: 2
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -3548,7 +3608,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: R. Zhao, <strong>S. Tao</strong>, P. Li
+  citation_authors_html: R. Zhao, <em>S. Tao</em>, P. Li
 - id: an-immigration-strategy-based-spherical-search-algorithm
   title: An Immigration Strategy-based Spherical Search Algorithm
   authors:
@@ -3570,6 +3630,7 @@
   pages: 1-5
   publisher: ""
   citations: 1
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -3596,7 +3657,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: Q. Sui, <strong>S. Tao</strong>, L. Zhong, H. Yang, Z. Lei, S. Gao
+  citation_authors_html: Q. Sui, <em>S. Tao</em>, L. Zhong, H. Yang, Z. Lei, S. Gao
 - id: a-population-resource-allocation-based-adaptive-spherical-search-algorithm
   title: A Population Resource Allocation-based Adaptive Spherical Search Algorithm
   authors:
@@ -3618,6 +3679,7 @@
   pages: 1-4
   publisher: ""
   citations: 1
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -3644,7 +3706,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: L. Zhong, <strong>S. Tao</strong>, Q. Sui, H. Yang, Z. Lei, S. Gao
+  citation_authors_html: L. Zhong, <em>S. Tao</em>, Q. Sui, H. Yang, Z. Lei, S. Gao
 - id: a-novel-bio-inspired-motion-direction-detection-mechanism-in-binary-and-grayscale-background
   title: A Novel Bio-Inspired Motion Direction Detection Mechanism in Binary and Grayscale Background
   authors:
@@ -3666,6 +3728,7 @@
   pages: 3767-3767
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 2
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -3738,7 +3801,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: Y. Hua, Y. Todo, Z. Tang, <strong>S. Tao</strong>, B. Li, R. Inoue
+  citation_authors_html: Y. Hua, Y. Todo, Z. Tang, <em>S. Tao</em>, B. Li, R. Inoue
 - id: a-novel-artificial-visual-system-for-motion-direction-detection-in-grayscale-images
   title: A Novel Artificial Visual System for Motion Direction Detection in Grayscale Images
   authors:
@@ -3760,6 +3823,7 @@
   pages: 2975-2975
   publisher: Multidisciplinary Digital Publishing Institute
   citations: 14
+  citation_checked_at: "2026-08-31"
   author_role: first_author
   role_note: First author
   source_group: indexed
@@ -3832,7 +3896,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, Y. Todo, Z. Tang, B. Li, Z. Zhang, R. Inoue
+  citation_authors_html: <em>S. Tao</em>, Y. Todo, Z. Tang, B. Li, Z. Zhang, R. Inoue
 - id: fitness-distance-balance-with-functional-weights-a-new-selection-method-for-evolutionary-algorithms
   title: "Fitness-Distance Balance with Functional Weights: A New Selection Method for Evolutionary Algorithms"
   authors:
@@ -3853,6 +3917,7 @@
   pages: 1789-1792
   publisher: Institute of Electronics, Information and Communication Engineers
   citations: 12
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -3925,7 +3990,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: K. Wang, <strong>S. Tao</strong>, R. Wang, Y. Todo, S. Gao
+  citation_authors_html: K. Wang, <em>S. Tao</em>, R. Wang, Y. Todo, S. Gao
 - id: a-state-of-the-art-differential-evolution-algorithm-for-parameter-estimation-of-solar-photovoltaic-models
   title: A state-of-the-art differential evolution algorithm for parameter estimation of solar photovoltaic models
   authors:
@@ -3955,6 +4020,7 @@
   pages: 113784-113784
   publisher: Elsevier BV
   citations: 281
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -4031,7 +4097,7 @@
       copy_text: ""
   selected: true
   public: true
-  citation_authors_html: S. Gao, K. Wang, <strong>S. Tao</strong>, T. Jin, H. Dai, J. Cheng*
+  citation_authors_html: S. Gao, K. Wang, <em>S. Tao</em>, T. Jin, H. Dai, J. Cheng*
   preview: /assets/img/publication_preview/pv-parameter-estimation-fig1.jpg
   preview_alt: "Figure 1 from the paper: photovoltaic single-, double-, and triple-diode equivalent circuits"
   preview_source_url: https://www.sciencedirect.com/science/article/pii/S0196890420313078
@@ -4054,6 +4120,7 @@
   pages: 18-25
   publisher: ""
   citations: 0
+  citation_checked_at: "2026-08-31"
   author_role: corresponding_author
   role_note: Corresponding author and first author
   source_group: indexed
@@ -4083,7 +4150,7 @@
   corresponding_authors: [Sichen Tao]
   corresponding_author_source_url: https://doi.org/10.1145/3483207.3483211
   corresponding_authors_verified_at: "2026-08-31"
-  citation_authors_html: <strong>S. Tao*</strong>, R. Inoue, Y. Todo, Z. Tang
+  citation_authors_html: <em>S. Tao*</em>, R. Inoue, Y. Todo, Z. Tang
 - id: using-grey-wolf-hunting-mechanism-to-improve-spherical-search
   title: Using Grey Wolf Hunting Mechanism to Improve Spherical Search
   authors:
@@ -4105,6 +4172,7 @@
   pages: 67-71
   publisher: ""
   citations: 2
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -4131,7 +4199,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: S. Liu, <strong>S. Tao</strong>, H. Yang, L. Jiang, Y. Todo, S. Gao
+  citation_authors_html: S. Liu, <em>S. Tao</em>, H. Yang, L. Jiang, Y. Todo, S. Gao
 - id: a-novel-optimization-algorithm-inherited-from-gravitational-and-spherical-search-dynamics
   title: A Novel Optimization Algorithm Inherited From Gravitational and Spherical Search Dynamics
   authors:
@@ -4153,6 +4221,7 @@
   pages: 91-96
   publisher: ""
   citations: 2
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -4179,7 +4248,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: Z. Tang, K. Wang, J. Shi, <strong>S. Tao</strong>, Y. Todo, S. Gao
+  citation_authors_html: Z. Tang, K. Wang, J. Shi, <em>S. Tao</em>, Y. Todo, S. Gao
 - id: a-hybrid-spherical-search-and-sine-cosine-algorithm
   title: A Hybrid Spherical Search and Sine Cosine Algorithm
   authors:
@@ -4200,6 +4269,7 @@
   pages: 205-210
   publisher: ""
   citations: 2
+  citation_checked_at: "2026-08-31"
   author_role: coauthor
   role_note: ""
   source_group: indexed
@@ -4226,7 +4296,7 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: K. Wang, <strong>S. Tao</strong>, Z. Zhang, Y. Todo, S. Gao
+  citation_authors_html: K. Wang, <em>S. Tao</em>, Z. Zhang, Y. Todo, S. Gao
 - id: a-hybrid-spherical-search-and-moth-flame-optimization-algorithm
   title: A Hybrid Spherical Search and Moth-flame optimization Algorithm
   authors:
@@ -4248,6 +4318,7 @@
   pages: ""
   publisher: ""
   citations: 1
+  citation_checked_at: "2026-08-31"
   author_role: first_author
   role_note: First author
   source_group: indexed
@@ -4274,4 +4345,4 @@
       copy_text: ""
   selected: false
   public: true
-  citation_authors_html: <strong>S. Tao</strong>, K. Wang, Z. Zhang, C. Lee, Y. Todo, S. Gao
+  citation_authors_html: <em>S. Tao</em>, K. Wang, Z. Zhang, C. Lee, Y. Todo, S. Gao
