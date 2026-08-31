@@ -48,4 +48,4 @@ nav_order: 3
 </section>
 
 <p id="publication-copy-status" class="publication-copy-status" role="status" aria-live="polite"></p>
-<script src="{{ '/assets/js/publication-filter.js' | relative_url }}?v=20260831f" defer></script>
+<script src="{{ '/assets/js/publication-filter.js' | relative_url }}?v=20260831g" defer></script>
